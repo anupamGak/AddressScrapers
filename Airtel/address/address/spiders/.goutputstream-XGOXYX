@@ -1,0 +1,42 @@
+import scrapy
+import re
+from address.items import AddressItem, AirtItem
+
+rePin = re.compile('[0-9]{3}\s?[0-9]{3}')
+reLmark = re.compile(r'((Opp)|(near)|(next to)|(beside))[^0-9]+', re.IGNORECASE)
+reCity = re.compile('[a-z]+\s?[a-z]+', re.IGNORECASE)
+
+class AddrSpider(scrapy.Spider):
+	name = 'addr'
+	start_urls = ["http://www.airtel.in/personal/internet/4g/store-locator?&utm_source=airtel_4g_dr_google_search&utm_medium=cpc&utm_lp=4g_new_url&utm_content=selected_location_ad&utm_campaign=srch%20-%20dsa&cid=ps"]
+
+	def parse(self, response):
+	    for sel in response.xpath("//table[@class='table1 hidden']"):
+		for x in sel.xpath("tr"):
+			Item = AddressItem()
+			title = x.xpath("td[1]/text()").extract()
+			saddr = x.xpath("td[2]/text()").extract()
+
+			addr = saddr[0].split(",")
+			Item['pin'] = re.search(rePin,addr[-1]).group()
+
+			#Used to remove landmarks
+			temp = []
+			for i in addr[-1:]:
+				if re.search(reLmark,i):
+					Item['lmark'] = re.search(reLmark,i).group()
+					temp.append(i.replace(re.search(reLmark,i).group(), ""))
+				else:
+					temp.append(i)
+
+			if re.search(reCity, temp[0]):
+				Item['city'] = re.search(reCity, temp[0]).group()
+			Item['loc'] = temp[1]
+			Item['subloc'] = temp[2]
+			
+			yield Item
+			
+			
+
+#			print "*******************************"
+#			print temp[0] + "----------------" + city
