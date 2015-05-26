@@ -6,9 +6,9 @@ import json
 
 states = []
 cities = []
-neighbours = []
+scrapedData = []
 
-dumpfile = open('scraped.json', 'w')
+dumpfile = open('scrapedaddress.json', 'w')
 
 main_page = requests.get("http://www.medplusindia.com/locations.jsp")
 tree = html.fromstring(main_page.text)
@@ -71,4 +71,6 @@ for state in states:
 			shop.city = city
 			shop.state = state
 
-			json.dump(shop.__dict__, dumpfile)
+			scrapedData.append(shop.__dict__)
+
+json.dump(scrapedData, dumpfile, indent=1)
