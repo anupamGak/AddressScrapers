@@ -1,0 +1,4 @@
+Main: 					http://www.medplusindia.com/locations.jsp
+Output cities:			http://www.medplusindia.com/locationSearch.jsp?state=TAMIL+NADU
+Output locality:		http://www.medplusindia.com/locationSearch.jsp?city=CHENNAI
+Output Address:			http://www.medplusindia.com/searchList.jsp?neighbour=WEST+MAMBALAM-ARYAGOWDA+STREET
