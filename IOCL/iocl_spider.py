@@ -1,26 +1,49 @@
 from lxml import html
-import requests
+from urllib2 import urlopen
+from iocl_item import Address
+import json
 
-page = requests.get("https://www.iocl.com/Retails.aspx")
-tree = html.fromstring(page.text)
+states = []
+districts = []
+pumpdump = []
 
-states = tree.xpath("//option/@value")
+jsonfile = open("address2.json", 'w')
 
-eventtarget = "cmbDistrict"
-eventargument = "__EVENTARGUMENT"
-lastfocus = "__LASTFOCUS"
-viewstate = "__VIEWSTATE=/wEPDwUJOTAyOTE5NjQ4D2QWAgIDD2QWCAIEDxAPFgQeDURhdGFUZXh0RmllbGQFBVNUQVRFHgtfIURhdGFCb3VuZGdkEBUjEi0tLVNlbGVjdCBTdGF0ZS0tLRBBJk4gSVNMQU5EUyAoVVQpDkFOREhSQSBQUkFERVNIEUFSVU5BQ0hBTCBQUkFERVNIBUFTU0FNBUJJSEFSDENISEFUVElTR0FSSAVERUxISQNHT0EHR1VKQVJBVAdIQVJZQU5BEEhJTUFDSEFMIFBSQURFU0gDSiZLCUpIQVJLSEFORAlLQVJOQVRBS0EGS0VSQUxBDk1BREhZQSBQUkFERVNIC01BSEFSQVNIVFJBB01BTklQVVIJTUVHSEFMQVlBB01JWk9SQU0ITkFHQUxBTkQGT0RJU0hBClBVRFVDSEVSUlkGUFVOSkFCCVJBSkFTVEhBTgZTSUtLSU0KVEFNSUwgTkFEVQdUUklQVVJBD1UuVC4gQ0hBTkRJR0FSSApVVCBPRiBEJk5IC1VUIE9GIERBTUFODVVUVEFSIFBSQURFU0gLVVRUQVJBS0hBTkQLV0VTVCBCRU5HQUwVIwEwEEEmTiBJU0xBTkRTIChVVCkOQU5ESFJBIFBSQURFU0gRQVJVTkFDSEFMIFBSQURFU0gFQVNTQU0FQklIQVIMQ0hIQVRUSVNHQVJIBURFTEhJA0dPQQdHVUpBUkFUB0hBUllBTkEQSElNQUNIQUwgUFJBREVTSANKJksJSkhBUktIQU5ECUtBUk5BVEFLQQZLRVJBTEEOTUFESFlBIFBSQURFU0gLTUFIQVJBU0hUUkEHTUFOSVBVUglNRUdIQUxBWUEHTUlaT1JBTQhOQUdBTEFORAZPRElTSEEKUFVEVUNIRVJSWQZQVU5KQUIJUkFKQVNUSEFOBlNJS0tJTQpUQU1JTCBOQURVB1RSSVBVUkEPVS5ULiBDSEFORElHQVJIClVUIE9GIEQmTkgLVVQgT0YgREFNQU4NVVRUQVIgUFJBREVTSAtVVFRBUkFLSEFORAtXRVNUIEJFTkdBTBQrAyNnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZxYBZmQCBg8QDxYEHwAFCERJU1RSSUNUHwFnZBAVARUtLS1TZWxlY3QgRGlzdHJpY3QtLS0VAQEwFCsDAWcWAWZkAggPEA8WBB8ABQhUT1dOQ0lUWR8BZ2QQFQERLS0tU2VsZWN0IENpdHktLS0VAQEwFCsDAWcWAWZkAgwPPCsACwBkZPILbCihRrn/trd3fJeV5LMqyh3k+5KcHXvpv6KSUAZU"
-viewstategenerator = "__VIEWSTATEGENERATOR=4B007333"
-eventvalidation = "_EVENTVALIDATION=/wEdACfk8k6vVfDcjhed3K+CEsEGHBIFZ8VhFyuInHuhVoczfAWaoimG0E9cQ5DAPtbP0hpt1iZ6ZP+sEkz2tFzmslV3oklgnD6iML/v+7TLE35xil0r68LRIkIQ3wtVaP58Css2uL6H3LmgR5RkndOQK1fpqsvLNmr/UJfUVt1SdOJp+f8DyrlDFHJfCgP7v4zORn/0CP+QSR3vTxIjEoy7E9pGe9nvcjWX1FR2imTZDJSzRkYOAKhbK7iLtIwoaks6w+BUTn3tp1NHgGSid+1D6be3UhIlegvTK+AEiPknd2RQ+NU1A0v2YRJwv0LGcv+GQyPt2iumknFrcbePAjRBq2B2fxcQKMsByO4tplVUjNrjE4a3XFdfbvj8AdRjyUMHMLT9baMwf6cw6bVg0u9GhGPyldG1QDkDMDOohCBiFfpWYU9LPHmPZYj/FMG+lwWPWlSPnwK5Q0W+a54KQP7Hgf3Wf8pfd9IKkxV1UZNdgC4OBi4GNV6FLQ6LaaYLWMABgP/zZNFRITLYfguBSTb+ucF3YbKohD0aONO21LeOxvAtohdJ7v7XgtNu3ZNcY1vARL8aWnMvGa7TrpSyMPMLM5p7UyiqvtbupiTpPFtQNLVugLqwFkMx2Sw7p32nrX/Ro0/QtXZPNmJSXTxDzYKpgFgHzHlnCgDjE7mml1GoG0ya/giBm+arSlMR2R+6X6IYXja/FZrFhxL20DBxSImUB6emF34oNiyoBYkBP1fLlUUqAwC3PR0sjNZ9IpZ5ukJG0RinhGWWpDKafE4sa4UpUR05x3WaDkyjk4r7CYXXjpPP+o7U3Vc0WZ+wxclqyPFfzmNJt58DbILLsGVxkQ1vmu9+AAIrn+0tyAV11I6p6mFe8w=="
-cmbState = "TAMIL+NADU"
-cmbDistrict = "CHENNAI"
-cmbCity = 0
+opener = urlopen("https://www.iocl.com/Retails.aspx")
+mainpage = html.parse(opener).getroot()
 
-page = requests.get("https://www.iocl.com/Retails.aspx?%s&%s&%s&%s&%s&%s&%s&%s&" % (eventtarget,eventargument,lastfocus,viewstategenerator,eventvalidation,cmbState,cmbDistrict,cmbCity))
-tree = html.fromstring(page.text)
+states = mainpage.xpath("//select[@id='cmbState']/option/@value")
+states.pop(0)
 
-add = "https://www.iocl.com/Retails.aspx?%s&%s&%s&%s&%s&%s&%s&%s&" % (eventtarget,eventargument,lastfocus,viewstategenerator,eventvalidation,cmbState,cmbDistrict,cmbCity)
-print page.text
+for state in states:
+	mainpage.forms[0].fields['cmbState'] = state
+	distpage = html.parse(html.submit_form(mainpage.forms[0])).getroot()
+	print "Processing state: " + state
 
-f = open('code.txt', 'w')
-f.write(add)
+	districts = distpage.xpath("//select[@id='cmbDistrict']/option/@value")
+	districts.pop(0)
+
+	for district in districts:
+		distpage.forms[0].fields['cmbDistrict'] = district
+		try:
+			resultpage = html.parse(html.submit_form(distpage.forms[0])).getroot()
+		except UnicodeEncodeError:
+			print "!!!!!ERROR!!!!!" + state + district
+			break;
+
+		for row in range(1,50):
+			pump = Address()
+			try:
+				pump.name = resultpage.xpath("//table[@id='grdRetail2']/tr[%d]/td[1]/text()" % row)[0]
+				pump.owner = resultpage.xpath("//table[@id='grdRetail2']/tr[%d]/td[2]/text()" % row)[0]
+				pump.address = resultpage.xpath("//table[@id='grdRetail2']/tr[%d]/td[3]/text()" % row)[0]
+				pump.town = resultpage.xpath("//table[@id='grdRetail2']/tr[%d]/td[4]/text()" % row)[0]
+				pump.district = resultpage.xpath("//table[@id='grdRetail2']/tr[%d]/td[5]/text()" % row)[0]
+				pump.pin = resultpage.xpath("//table[@id='grdRetail2']/tr[%d]/td[6]/text()" % row)[0]
+				pump.state = resultpage.xpath("//table[@id='grdRetail2']/tr[%d]/td[7]/text()" % row)[0]
+				pump.phone = resultpage.xpath("//table[@id='grdRetail2']/tr[%d]/td[8]/text()" % row)[0]
+				pumpdump.append(pump.__dict__)
+			except IndexError:
+				break;
+
+json.dump(pumpdump, jsonfile, indent=1)
