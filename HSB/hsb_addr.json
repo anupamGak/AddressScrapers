@@ -1,0 +1,151 @@
+[
+ {
+  "city": "Chennai", 
+  "fulladd": "Y-209, 2nd Avenue, Anna Nagar, Chennai - 600 040.", 
+  "pin": "600 040", 
+  "area": "Anna Nagar"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": "No. 16, 1st Avenue,100 Feet Road (Near Indian Bank),", 
+  "pin": "600 083", 
+  "area": "AshokNagar 100ft RD"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": "No25, 10th Avenue, Ashok Nagar, Chennai-600 083.", 
+  "pin": "600 083", 
+  "area": "AshokNagar 10th Avn"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": "97-98, Jawaharlal Nehru Road, Ashok Nagar, Chennai -  600 095.", 
+  "pin": "600 095", 
+  "area": "AshokNagar JN RD"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": "ARENCO Food Plaza, Beach Railway Station,\r\nChennai - 600 001.", 
+  "pin": "600 001", 
+  "area": "Beach Railway Station"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": "Opp. to 9&10 Plat Form , Central Railway Station,", 
+  "pin": "600 006", 
+  "area": "Central Railway Station"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": "21, Kennet Lane, Egmore, Chennai - 600 008.", 
+  "pin": "600 008", 
+  "area": "Egmore"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": "209, N.S.C Bose Road, George Town, Chennai - 600 001. ", 
+  "pin": "600 001", 
+  "area": "George Town"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": "B-55, Ashok Pillar Road, K.K. Nagar, Chennai  - 600 078.", 
+  "pin": "600 078", 
+  "area": "KK Nagar"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": "70, Kabaleeswarar Temple North Mada Street, Mylapore,", 
+  "pin": "600 004", 
+  "area": "Mylapore"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": "239, Peters Road, Gopalapuram, Chennai-600 086.", 
+  "pin": "600 086", 
+  "area": "Peters Road"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": "133 & 134, Peters Road, Gopalapuram, Chennai - 600 086.", 
+  "pin": "600 086", 
+  "area": "Peters Road Fast Food"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": "102, Sir Thiyagaraya Road, Pondy Bazaar, Chennai - 600 017.", 
+  "pin": "600 017", 
+  "area": "Pondy Bazaar"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": "1, Vellala Street, Purasawalkam, Chennai - 600 0084.", 
+  "area": "Purasawalkam"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": "101, Dr. Radhakrishnan Salai, \r\nMylapore, Chennai - 600 004.", 
+  "pin": "600 004", 
+  "area": "Radhakrishnan Salai"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": "44, Anna Salai, Chennai - 600 002.", 
+  "pin": "600 002", 
+  "area": "Shanthi Theatre Complex"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": "S-2, Phase-1, 2nd Floor,Spencer Plaza,", 
+  "pin": "600 002", 
+  "area": "Spencer Plaza"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": "No.77, Usman Road, T. Nagar, Chennai - 600 017.", 
+  "pin": "600 017", 
+  "area": "T. Nagar"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": " Planetyumm Food Court - Ascendas I.T. Park", 
+  "pin": "600 113", 
+  "area": "Taramani"
+ }, 
+ {
+  "city": "Chennai", 
+  "fulladd": "19, Vadapalani Andavar Koil Street, Vadapalani, Chennai - 600 026.", 
+  "pin": "600 026", 
+  "area": "Vadapalani"
+ }, 
+ {
+  "city": "Delhi", 
+  "fulladd": "P-13/90, Connaught Circus, New Delhi-110 001.", 
+  "pin": "110 001", 
+  "area": "Connaught Circus"
+ }, 
+ {
+  "city": "Delhi", 
+  "fulladd": "46, Janpath, New Delhi - 110 001.", 
+  "pin": "110 001", 
+  "area": "Janpath"
+ }, 
+ {
+  "city": "Kanchipuram", 
+  "fulladd": "66, Annai Indhira Gandhi Street, Kanchipuram - 631 502.", 
+  "pin": "631 502", 
+  "area": "Annai Indhira Gandhi Street"
+ }, 
+ {
+  "city": "Kanchipuram", 
+  "fulladd": "504, Gandhi Road, Kanchipuram - 631 501.", 
+  "pin": "631 501", 
+  "area": "Gandhi Road"
+ }, 
+ {
+  "city": "Vellore", 
+  "fulladd": "25B, 25C, Jeevarathnam Maligai, Arcot Road (Near Daily Thanthi), Vellore - 632004.\r\n", 
+  "pin": "632004", 
+  "area": "Jeevarathnam Maligai"
+ }
+]
