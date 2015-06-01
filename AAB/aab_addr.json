@@ -1,0 +1,476 @@
+[
+ {
+  "city": " Erode ", 
+  "loc": "NO:154&155-METTUR ROAD PARIMALAM COMPLEX ", 
+  "pin": "638011", 
+  "area": "ERODE"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "746/18,60th Cross Bashyam Circle, Rajaji Nagar,", 
+  "pin": "560079", 
+  "area": "BASHYAM CIRCLE"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "BPCL PETROLBUNKNO3 100FTROAD,ISTAGE.16THMAIN.1PHASE, BTM LAYOUT", 
+  "pin": "68", 
+  "area": "BTM LAYOUT"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "NO:4, 5TH MAIN ROAD ISTAGE.16THMAIN.1PHASE, BANGALORE.", 
+  "pin": "", 
+  "area": "GANDHI NAGAR"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "NO.200,GANDHIBAZAAR MAIN ROAD, NEAR CANARA BANK, GANDHIBAZAAR, Bangalore", 
+  "pin": "", 
+  "area": "GANDHIBAZAAR"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "NO.34 BELLARI MAINROAD  GANGA NAGAR BANGALORE.", 
+  "pin": "65707711", 
+  "area": "GANGA NAGAR"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "INDRA NAGAR SHOP NO.12 C.M.H.ROAD", 
+  "pin": "65704440", 
+  "area": "INDIRA NAGAR"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "BPCL BUNK.344 7TH BLOCK 80FT ROAD  BANGALORE", 
+  "pin": "41466299", 
+  "area": "KORAMANGALA"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "NO 1778/B32 22ND CROSS MAGADI ROAD, CHORD RD LAY OUT MAGADI MAIN RD, BANGALORE.", 
+  "pin": "42057399", 
+  "area": "MAGADI ROAD"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "3.D.RAMANA.COMPLEX OPP.MAJESTIC THEATRE BANGALORE.", 
+  "pin": "22353999", 
+  "area": "MAJESTIC"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "NO.57 6TH CROSS SAMPIGE ROAD BANGALORE.", 
+  "pin": "23440055", 
+  "area": "MALLESWARAM"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "NO.16/15,SOUTH END ROAD BASAVANGUDI BANGALORE.", 
+  "pin": "41266999", 
+  "area": "SOUTH END CIRCLE"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "NO.153  WARD NO.41 MYSORE ROAD SATELLITE   BUS STATION, BANGALORE.", 
+  "pin": "560026", 
+  "area": "SATELLITE BUS STAND"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "New No-78 old no-236,Kathrikuppe main road ,Bangalroe. ", 
+  "pin": "85", 
+  "area": "KATRIPUPPE"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "No.421,3rd A cross 2nd block,Kalyana nagar,Kammanahalli,Banagalore.", 
+  "pin": "43", 
+  "area": "KAMMANAHALLI"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "No 567,30th Cross Road,11th Main Road,V Block , Jaynagar, Bangalore.", 
+  "pin": "560041", 
+  "area": "JAYA NAGAR "
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "No.141,Nagavara village,Kasaba hobli,bangalore north taluk. ", 
+  "pin": "2544899925440019", 
+  "area": "NAGAWARA"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "NO. 27 Ground Floor, HSR Layout , HSR BDA Complex", 
+  "pin": "560068", 
+  "area": "HSR LAYOUT"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "NO.703, 5th Block, HMT Layout, Vidyaranyapuram", 
+  "pin": "560097", 
+  "area": "VIDYARANYAPURAM"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "254/B, Bommasandra Industrial Estate, Hosur Main Road, Anekal Taluk", 
+  "pin": "560099", 
+  "area": "BOMMASANDRA"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "NO 3, BMTC Bus Terminal Shanthi Nagar, BLR Metro Transport Corp", 
+  "pin": "560027", 
+  "area": "SHANTHI NAGAR"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "NO. 135,Situated at Munekolala , Varthur Hobli Marathahalli Hal Main Road", 
+  "pin": "", 
+  "area": "MARATHALLI"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "NO.12/2, AND 13/1B, Pattamdur Agarahara Village, K.R.Puram Hobli, White Field, Bangalore East Taluk", 
+  "pin": "560066", 
+  "area": "WHITE FIELD"
+ }, 
+ {
+  "city": "Bangalore", 
+  "loc": "NO.58/2 KIADB INDUSTRIAL AREA, GAJJALAGERE,MADDUR, MANDYA DISTRICT, BANGALORE.", 
+  "pin": "571428", 
+  "area": "MADDUR"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO 9-LB ROAD,ADYAR,", 
+  "pin": "600020", 
+  "area": "ADYAR"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "ANNA INTERNATIONAL AIRPORT{ARRIVAL}", 
+  "pin": "600027", 
+  "area": "AIRPORT"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO 355,CEMENT ROAD,", 
+  "pin": "600016", 
+  "area": "ALANDUR"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO; C 42-2 AVENUE 12th MAIN ROAD ANNA NAGAR", 
+  "pin": "600007", 
+  "area": "ANNA NAGAR"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "PLAT FORM NO ;9 & 10 CENTRAL RAILWAY STATION CENTRAL", 
+  "pin": "600003", 
+  "area": "CENTRAL"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "PLAT FORM NO;3{STALL NO;87} CENTRAL RAILWAY STATION CENTRAL ", 
+  "pin": "600003", 
+  "area": "CENTRAL 2"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO.367-G.S.T ROAD CHROMPET CHENNAI", 
+  "pin": "04443162233", 
+  "area": "CHROMPET"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO 3 H,BHARATHI ROAD", 
+  "pin": "607001", 
+  "area": "CUDDALORE"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "EGMORE RAILWAY STATION \tEGMORE", 
+  "pin": "600008", 
+  "area": "EGMORE"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO 210,N S C BOSE ROAD GEORGE TOWN", 
+  "pin": "600001", 
+  "area": "GEORGE TOWN"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO:68/B-NELLUKARA STREET", 
+  "pin": "631502", 
+  "area": "KANCHIPURAM"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO;19,JAWAHARLAL NEHRU ROAD KOYAMBEDU", 
+  "pin": "600106", 
+  "area": "KOYAMBEDU"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO;26,JAWAHARLAL NEHRU ROAD", 
+  "pin": "600106", 
+  "area": "KOYAMBEDU II"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO;4 MEDAVAKKAM MAIN ROAD GANESH NAGAR-MADIPAKKAM", 
+  "pin": "600091", 
+  "area": "MADIPAKKAM"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO:78-NEHRU ILLAM ,T N L WELFARE BOARD BUILDING MAHABA", 
+  "pin": "603104", 
+  "area": "MAMALLAPURAM"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO.1.PAARI SALAI, MUGGAPPAIR EAST", 
+  "pin": "600137", 
+  "area": "MOGAPPAIR EAST"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": " NO.32 A-BPCL-OUT LET MUGGAPPAIR", 
+  "pin": "600037", 
+  "area": "MOGAPPAIR"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "No 70, R.K MUTT ROAD MYLAPORE", 
+  "pin": "600004", 
+  "area": "MYLAPORE"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO;1/9&1/10,WHEAT CRAFT ROAD NUNGAMBAKKAM", 
+  "pin": "600034", 
+  "area": "NUNGAMBAKKAM"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO:OLD NO :59/NEW NO:76 PERAMBUR HIGH ROAD-PERAMBUR", 
+  "pin": "600011", 
+  "area": "PERAMBUR"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO:1,SRI VALLUR ROAD PERUMBUR", 
+  "pin": "600014", 
+  "area": "PERAMBUR II"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "No 87,THIYAGARAYA ROAD PONDY BAZAR-TNAGAR", 
+  "pin": "600017", 
+  "area": "PONDY BAZAAR"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO 50,51&52 PURASAI HIGH ROAD PURASAIWAKKAM", 
+  "pin": "600007", 
+  "area": "PURASAIWAKKAM"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO, S7/11 MAHATHMA GANDHI ROAD SHASTRI   NAGAR, ADYAR", 
+  "pin": "600020", 
+  "area": "SHASTRI NAGAR "
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO.313_MUTHURANGAN MUTHALI STREET WEST TAMBARA", 
+  "pin": "600044", 
+  "area": "TAMBARAM"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO;545&546 TH ROAD WASHERMANPET", 
+  "pin": "600021", 
+  "area": "TH ROAD"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO 94,USMAN ROAD TNAGAR", 
+  "pin": "600017", 
+  "area": "TNAGAR"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "OLD NO;23-NEW NO 47 BHARATHI SALAI TRIPLICANE", 
+  "pin": "600005", 
+  "area": "TRIPLICANE"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "BPCL - SENGURICHY VILLAGE ULUNDURPET{T K}", 
+  "pin": "606107", 
+  "area": "ULUNDURPET"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO :1/B-ARCOR ROAD VADAPALANI", 
+  "pin": "600026", 
+  "area": "VADAPALANI"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO.37 F VELACHERRY ROAD VIJAYA NAGAR", 
+  "pin": "600041", 
+  "area": "VELACHERRY"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO;3/243B-ECR-INJAMBAKKAM VETTUVANKENI", 
+  "pin": "600041", 
+  "area": "VETTUVANKENI"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO:99,M C ROAD, WASHERMANPET", 
+  "pin": "600021", 
+  "area": "WASHERMENPET"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "No.110/1,Vasanth Apart,M.S.Kovil st,Royapuram,Chennai.", 
+  "pin": "600013", 
+  "area": "ROYAPURAM"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO.2, GST ROAD, THAILAVARAM VILLAGE, MARAIMALAI NAGAR", 
+  "pin": "603209", 
+  "area": "GUDUVANCHERRY "
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO.58 C,First Main Road, Chinthamani, Anna Nagar East", 
+  "pin": "102", 
+  "area": "CHINTHAMANI"
+ }, 
+ {
+  "city": "Chennai", 
+  "loc": "NO 1,Mount Road, Little Mount , Saidapet", 
+  "pin": "15", 
+  "area": "SAIDAPET"
+ }, 
+ {
+  "city": "Coimbatore", 
+  "loc": "NO;487-DR.NANJAPPA ROAD", 
+  "pin": "641018", 
+  "area": "MAIN BUS STAND"
+ }, 
+ {
+  "city": "Coimbatore", 
+  "loc": "BPCL-METTUPALAYAM ROAD OPP.TNSTC HQ-SANGANOOR ", 
+  "pin": "641043", 
+  "area": "SANGANUR"
+ }, 
+ {
+  "city": "Coimbatore", 
+  "loc": "BPCL-NO 1348 THADAGAM ROA", 
+  "pin": "641002", 
+  "area": "THADAGAM ROAD"
+ }, 
+ {
+  "city": "Coimbatore", 
+  "loc": "No.313, Bharathiyar Road, New Siddha pudhur", 
+  "pin": "641044", 
+  "area": "GANDHIPURAM"
+ }, 
+ {
+  "city": "Coimbatore", 
+  "loc": "No.45, East samantham Road, R.S.Puram, Coimbatore -641002", 
+  "pin": "641002", 
+  "area": "R.S PURAM"
+ }, 
+ {
+  "city": "Delhi", 
+  "loc": "Hotel Southern Building, No.18/1, Arya Samaj Road, Karol bagh", 
+  "pin": "110005", 
+  "area": "DELHI KAROL BAGH"
+ }, 
+ {
+  "city": "Delhi", 
+  "loc": "S18,GREEN PARK MAIN MARKET NEWDELHI", 
+  "pin": "0114608230326532690", 
+  "area": "DELHI GREEN PARK"
+ }, 
+ {
+  "city": "Hosur ", 
+  "loc": "BPCL OUTLET -NH7 GUNDALAPALLI VILLAGE KRISHNAGIRI{DT}", 
+  "pin": "4344259290", 
+  "area": "CHINNAR (HOSUR)"
+ }, 
+ {
+  "city": "Karur ", 
+  "loc": "NO.123 JAWAHAR BAZAR", 
+  "pin": "639001", 
+  "area": "KARUR"
+ }, 
+ {
+  "city": "Madurai", 
+  "loc": "PLOT FORM NO:1 MADURAI RAILWAY STATION", 
+  "pin": "625001", 
+  "area": "MADURAI RAILWAY"
+ }, 
+ {
+  "city": "Madurai", 
+  "loc": "NO:285-KAMARAJAR SALAI VILAKKUTHOON", 
+  "pin": "625009", 
+  "area": "MADURAI VILAKKUTHOON"
+ }, 
+ {
+  "city": "Pondy", 
+  "loc": "11,JAWAHARLAL NEHRU ST NEAR MANAKULA VINAYAGAR TEMPLE PUDUCHERRY ", 
+  "pin": "4132223333", 
+  "area": "PUDUCHERRY"
+ }, 
+ {
+  "city": "Salem & Trichy\t ", 
+  "loc": "NO;296,OMALUR MAIN ROAD", 
+  "pin": "636009", 
+  "area": "SALEM"
+ }, 
+ {
+  "city": "Salem & Trichy\t ", 
+  "loc": "NO:107/A-WILLAMS ROAD FEMINA SHOPING MALL ", 
+  "pin": "625001", 
+  "area": "TRICHY FEMINAING MALL"
+ }, 
+ {
+  "city": "Salem & Trichy\t ", 
+  "loc": "TRICHY RAILWAY STATION SHOP TRICHY RAILWAY STATION ", 
+  "pin": "625001", 
+  "area": "TRICHY RAILWAY"
+ }, 
+ {
+  "city": "Salem & Trichy\t ", 
+  "loc": "NO:C 41-7th CROSS- SALAI ROAD THILLAI NAGAR ", 
+  "pin": "620018", 
+  "area": "TRICHY-THILAINAGAR"
+ }, 
+ {
+  "city": "Thiruvannamalai  ", 
+  "loc": "No.1594 A,Vellore Main Road,nehru nagar,vengikkal,Thiruvannamalai.", 
+  "pin": "606604", 
+  "area": "THIRUVANNAMALAI"
+ }, 
+ {
+  "city": "Tirupur", 
+  "loc": "OLD NO:152/NEW NO:243 TNP COMPLEX-KAMARAJ ROAD", 
+  "pin": "641604", 
+  "area": "TIRUPUR"
+ }
+]
