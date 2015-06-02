@@ -1,0 +1,2065 @@
+[
+ {
+  "lat": 29.858595, 
+  "name": "ABA Nissan", 
+  "long": 76.455072, 
+  "address": {
+   "postalCode": "136027", 
+   "city": "Kaithal", 
+   "addressLine2": "NILLM UNIVERSITY", 
+   "addressLine3": "AMBALA ROAD, KAITHAL", 
+   "addressLine1": "9TH MILE STONE"
+  }
+ }, 
+ {
+  "lat": 21.25138, 
+  "name": "AKS Nissan", 
+  "long": 81.62964, 
+  "address": {
+   "postalCode": "490042", 
+   "city": "Raipur", 
+   "addressLine2": "RAIPUR-BHILAI EXPRESSWAY", 
+   "addressLine3": "NEAR KUMHARI TOLL PLAZA, RNM-AHIWARA, TEHSIL-DHAMDHA", 
+   "addressLine1": "ADITYA WHEELS (I) PVT LTD"
+  }
+ }, 
+ {
+  "lat": 15.34733, 
+  "name": "AM Nissan", 
+  "long": 73.92959, 
+  "address": {
+   "postalCode": "403722", 
+   "city": "Goa", 
+   "addressLine2": "Off NH 17, Nagoa", 
+   "addressLine3": "Verna, Salcette", 
+   "addressLine1": "Plot Nos. 49/3 & 49/4"
+  }
+ }, 
+ {
+  "lat": 22.754561, 
+  "name": "ANAND NISSAN", 
+  "long": 75.881597, 
+  "address": {
+   "postalCode": "452010", 
+   "city": "Indore", 
+   "addressLine2": "VIJAY NAGAR M.R 10 ROAD OPP.HOTEL FORTUNE LANDMARK", 
+   "addressLine1": "BRILLIANT STAR PLOT NO. 2/E/A,SCHM. NO. 54"
+  }
+ }, 
+ {
+  "lat": 22.7834, 
+  "name": "ANAND NISSAN", 
+  "long": 75.90858, 
+  "address": {
+   "postalCode": "452010", 
+   "city": "Indore", 
+   "addressLine1": "4/2/1,4/2/2 PIPLIYA KUMAHAR DEWAS NAKA"
+  }
+ }, 
+ {
+  "lat": 30.907587, 
+  "name": "AR Nissan", 
+  "long": 74.671508, 
+  "address": {
+   "postalCode": "152001", 
+   "city": "Ferozepur", 
+   "addressLine2": "Moga Road, Nr Dental College", 
+   "addressLine3": "Ferozepur (152001)", 
+   "addressLine1": "A.R.NISSAN MOTORS"
+  }
+ }, 
+ {
+  "lat": 30.20239, 
+  "name": "AVC NISSAN", 
+  "long": 74.95174, 
+  "address": {
+   "postalCode": "151001", 
+   "city": "Bathinda", 
+   "addressLine2": "JASSI CHOWK", 
+   "addressLine1": "MANSA ROAD"
+  }
+ }, 
+ {
+  "lat": 13.01003, 
+  "name": "AVENUE NISSAN", 
+  "long": 80.20843, 
+  "address": {
+   "postalCode": "600032", 
+   "city": "Chennai", 
+   "addressLine2": "Guindy Industrial Estate", 
+   "addressLine3": "Guindy", 
+   "addressLine1": "E-317,Super A12 & 13"
+  }
+ }, 
+ {
+  "lat": 13.01105, 
+  "name": "AVENUE NISSAN", 
+  "long": 80.22308, 
+  "address": {
+   "postalCode": "600032", 
+   "city": "Chennai", 
+   "addressLine3": "Guindy", 
+   "addressLine1": "No.133 Velachery Main Road"
+  }
+ }, 
+ {
+  "lat": 13.03014, 
+  "name": "AVENUE NISSAN", 
+  "long": 80.23461, 
+  "address": {
+   "postalCode": "600035", 
+   "city": "Chennai", 
+   "addressLine2": "3rd Main Road ,CIT Nagar", 
+   "addressLine3": "Nandanam", 
+   "addressLine1": "Mount Road,Off Nandanam,Old No.9, New No.15,2nd Street Extn,(Opp YMCA Ground)"
+  }
+ }, 
+ {
+  "lat": 13.09638, 
+  "name": "AVENUE NISSAN", 
+  "long": 80.14831, 
+  "address": {
+   "postalCode": "600058", 
+   "city": "Chennai", 
+   "addressLine2": "Ambattur Industrial Estate", 
+   "addressLine3": "Ambattur", 
+   "addressLine1": "No.68,Developers Plot (SP), (Near Vavin Junction)"
+  }
+ }, 
+ {
+  "lat": 23.600135, 
+  "name": "Aariya Nissan", 
+  "long": 72.959542, 
+  "address": {
+   "postalCode": "383001", 
+   "city": "Himmatnagar", 
+   "addressLine2": "Nr. Hanuman Temple", 
+   "addressLine3": "NH 8, Ahmedabad-Himmatnagar Highway", 
+   "addressLine1": "AT: Piplodi"
+  }
+ }, 
+ {
+  "lat": 22.339264, 
+  "name": "Acuity Nissan", 
+  "long": 73.174416, 
+  "address": {
+   "postalCode": "390024", 
+   "city": "Vadodara", 
+   "addressLine2": "Navayard Chhani Road", 
+   "addressLine1": "Old N.H. No. 8,"
+  }
+ }, 
+ {
+  "lat": 10.490258, 
+  "name": "Ahash Nissan", 
+  "long": 79.08512, 
+  "address": {
+   "postalCode": "613003", 
+   "city": "Thanjavur\u00a0", 
+   "addressLine2": "Palliagraharam, Thanjavur\u00a0", 
+   "addressLine1": "T.S.No.2191/8, Ward No.1, Block No.58, Bye- Pass Road"
+  }
+ }, 
+ {
+  "lat": 10.441382, 
+  "name": "Ahash Nissan", 
+  "long": 79.061934, 
+  "address": {
+   "postalCode": "613005\u00a0", 
+   "city": "Thanjavur\u00a0", 
+   "addressLine2": "Melavasthachavady, Thanjavur\u00a0\u00a0", 
+   "addressLine1": "#9, 14 & 16, P.W.D. Nagar Extn, Bye- Pass Road"
+  }
+ }, 
+ {
+  "lat": 20.29606, 
+  "name": "Ananta Nissan", 
+  "long": 85.82454, 
+  "address": {
+   "postalCode": "752101", 
+   "city": "Bhubaneshwar", 
+   "addressLine2": "NH 5", 
+   "addressLine1": "94 Pahal"
+  }
+ }, 
+ {
+  "lat": 23.79565, 
+  "name": "Animesh Nissan", 
+  "long": 86.43039, 
+  "address": {
+   "postalCode": "826004", 
+   "city": "Dhanbad", 
+   "addressLine1": "G.T.ROAD BARWADDA NEAR APNA DHABA"
+  }
+ }, 
+ {
+  "lat": 22.24784, 
+  "name": "Aster Nissan", 
+  "long": 73.19737, 
+  "address": {
+   "postalCode": "390010", 
+   "city": "Vadodara", 
+   "addressLine2": "Makarpura Main Road", 
+   "addressLine1": "Near Air Force Station"
+  }
+ }, 
+ {
+  "lat": 27.1766761, 
+  "name": "Atmaram Nissan", 
+  "long": 78.0080685, 
+  "address": {
+   "postalCode": "282007", 
+   "city": "Agra", 
+   "addressLine2": "NEAR SHASTRIPURAM FLYOVER", 
+   "addressLine3": "N.H.-2 , SIKANDRA , AGRA", 
+   "addressLine1": "PLOT NO. 660/2 ARTONI"
+  }
+ }, 
+ {
+  "lat": 25.31765, 
+  "name": "Avantika Nissan", 
+  "long": 82.97391, 
+  "address": {
+   "postalCode": "221001", 
+   "city": "Varanasi", 
+   "addressLine2": "B 12/8, GAURIGANJ", 
+   "addressLine3": "BHELUPUR", 
+   "addressLine1": "SHUKLA NIWAS"
+  }
+ }, 
+ {
+  "lat": 25.26085, 
+  "name": "Avantika Nissan", 
+  "long": 82.90844, 
+  "address": {
+   "postalCode": "221010", 
+   "city": "Varanasi", 
+   "addressLine2": "VISHWA SUNDARI ROAD", 
+   "addressLine3": "BY PASS N.H. - 2", 
+   "addressLine1": "VILLAGE-DHANPALPUR"
+  }
+ }, 
+ {
+  "lat": 28.916757, 
+  "name": "BA Nissan", 
+  "long": 76.579426, 
+  "address": {
+   "postalCode": "124001", 
+   "city": "Rohtak", 
+   "addressLine2": "DELHI HISSAR BYE PASS", 
+   "addressLine3": "NEAR POWER HOUSE", 
+   "addressLine1": "BA MOTORS PVT. LTD."
+  }
+ }, 
+ {
+  "lat": 28.445714, 
+  "name": "BM Nissan", 
+  "long": 77.308427, 
+  "address": {
+   "postalCode": "121003", 
+   "city": "Faridabad", 
+   "addressLine2": "MAIN MATHURA ROAD", 
+   "addressLine1": "14/6 MILESTONE"
+  }
+ }, 
+ {
+  "lat": 28.83, 
+  "name": "BTC Nissan", 
+  "long": 78.78, 
+  "address": {
+   "postalCode": "244001", 
+   "city": "Moradabad", 
+   "addressLine2": "Delhi-Moradabad Road,", 
+   "addressLine1": "BTC Nissan, Near Kundan Petrol Pump, Delhi Road, Moradabad"
+  }
+ }, 
+ {
+  "lat": 28.8109, 
+  "name": "BTC Nissan", 
+  "long": 78.7781, 
+  "address": {
+   "postalCode": "244001", 
+   "city": "Moradabad", 
+   "addressLine2": "Gagan Chowk, Delhi Road, Moradabad", 
+   "addressLine1": "Opp Horizon Impex, Lakri Fazalpur Road,"
+  }
+ }, 
+ {
+  "lat": 22.80457, 
+  "name": "Bhalotia Nissan", 
+  "long": 86.20288, 
+  "address": {
+   "postalCode": "832108", 
+   "city": "Jamshedpur", 
+   "addressLine2": "ADITYAPUR INDUSTRIAL AREA", 
+   "addressLine3": "GAMHARIA", 
+   "addressLine1": "7th PHASE"
+  }
+ }, 
+ {
+  "lat": 26.11362, 
+  "name": "Binod Nissan", 
+  "long": 91.73921, 
+  "address": {
+   "postalCode": "781034", 
+   "city": "Guwahati", 
+   "addressLine2": "Betkuchi", 
+   "addressLine3": "NH 37", 
+   "addressLine1": "Lalungaon, Opposite Gems International School"
+  }
+ }, 
+ {
+  "lat": 26.164613, 
+  "name": "Binod Nissan", 
+  "long": 91.678499, 
+  "address": {
+   "postalCode": "781014", 
+   "city": "GUWAHATI", 
+   "addressLine2": "ADABARI,GUWAHATI", 
+   "addressLine3": "GUWAHATI", 
+   "addressLine1": "SUN CITY COMPLEX,NEAR SARAIGHAT PETROL PUMP"
+  }
+ }, 
+ {
+  "lat": 30.8133, 
+  "name": "Brars Nissan", 
+  "long": 75.26224, 
+  "address": {
+   "postalCode": "142001", 
+   "city": "Moga", 
+   "addressLine2": "Near Skylark Tile Factory", 
+   "addressLine3": "Ludhiana Road", 
+   "addressLine1": "M/s Brar autowheel Pvt Ltd , 7 km milestone"
+  }
+ }, 
+ {
+  "lat": 23.03957, 
+  "name": "Central Nissan", 
+  "long": 72.566, 
+  "address": {
+   "postalCode": "380015", 
+   "city": "Ahmedabad", 
+   "addressLine2": "Panjrapole Cross Road", 
+   "addressLine3": "IIM road", 
+   "addressLine1": "Ground Floor, Sigma Lagnacy"
+  }
+ }, 
+ {
+  "lat": 22.972826, 
+  "name": "Central Nissan", 
+  "long": 72.591505, 
+  "address": {
+   "postalCode": "382405", 
+   "city": "Ahmedabad", 
+   "addressLine2": "Nr H P petrol pump", 
+   "addressLine3": "Narol Isanpur Road, Narol", 
+   "addressLine1": "opp Narol Brts busstand"
+  }
+ }, 
+ {
+  "lat": 22.57265, 
+  "name": "Chandrani Nissan", 
+  "long": 88.36389, 
+  "address": {
+   "postalCode": "700046", 
+   "city": "Kolkata", 
+   "addressLine2": "1/1A, Mahendra Roy Lane", 
+   "addressLine3": "Topsia Crossing", 
+   "addressLine1": "P.S. Pace Building"
+  }
+ }, 
+ {
+  "lat": 31.32602, 
+  "name": "Dada Nissan", 
+  "long": 75.57618, 
+  "address": {
+   "postalCode": "144005", 
+   "city": "Jalandhar", 
+   "addressLine2": "Adj. Ansal Mall", 
+   "addressLine1": "Opp. Haveli Restaurant"
+  }
+ }, 
+ {
+  "lat": 31.278129, 
+  "name": "Dada Nissan", 
+  "long": 75.674953, 
+  "address": {
+   "postalCode": "144005", 
+   "city": "Jalandhar", 
+   "addressLine2": "Village - Kot Kalan", 
+   "addressLine1": "Cantt. Road"
+  }
+ }, 
+ {
+  "lat": 30.85396, 
+  "name": "Dada Nissan", 
+  "long": 75.94405, 
+  "address": {
+   "postalCode": "141014", 
+   "city": "Ludhiana", 
+   "addressLine2": "G.T.Road", 
+   "addressLine1": "Opp. Dhandari Railway Station"
+  }
+ }, 
+ {
+  "lat": 30.900965, 
+  "name": "Dada Nissan", 
+  "long": 75.857276, 
+  "address": {
+   "postalCode": "141012", 
+   "city": "Ludhiana", 
+   "addressLine1": " 5/922 - K, SUNDER NAGAR FEROZEPUR ROAD,  NR. MBD MALL LUDHIANA"
+  }
+ }, 
+ {
+  "lat": 17.476432, 
+  "name": "Dhanalakshmi Nissan", 
+  "long": 78.427591, 
+  "address": {
+   "postalCode": "500072", 
+   "city": "Hyderabad", 
+   "addressLine2": "PRASANTH NAGAR", 
+   "addressLine3": "KUKATPALLY", 
+   "addressLine1": "D.NO. 5-5-36/26A"
+  }
+ }, 
+ {
+  "lat": 26.884134, 
+  "name": "Dream Nissan", 
+  "long": 81.045177, 
+  "address": {
+   "postalCode": "227105", 
+   "city": "Lucknow", 
+   "addressLine1": "Opp. Air Broadcasting Station Faizabad Road, Lucknow"
+  }
+ }, 
+ {
+  "lat": 23.553684, 
+  "name": "Dutta Nissan", 
+  "long": 87.2609, 
+  "address": {
+   "postalCode": "713203", 
+   "city": "Durgapur", 
+   "addressLine2": "GT Road,Old Court", 
+   "addressLine1": "Ganeriwala house, 117 1/2 Mile Post"
+  }
+ }, 
+ {
+  "lat": 19.05211, 
+  "name": "ETCO Nissan", 
+  "long": 73.01935, 
+  "address": {
+   "postalCode": "400706", 
+   "city": "Navi Mumbai", 
+   "addressLine2": "Near Jui Nagar Railway Station", 
+   "addressLine3": "Jui Nagar (E), Soin Panvel Highway", 
+   "addressLine1": "Kamdhenu Bulding, Groung Floor"
+  }
+ }, 
+ {
+  "lat": 19.06647, 
+  "name": "ETCO Nissan", 
+  "long": 73.02739, 
+  "address": {
+   "postalCode": "400706", 
+   "city": "Navi Mumbai", 
+   "addressLine2": "T.T.C Ind Area", 
+   "addressLine3": "M.I.D.C, Turbhe", 
+   "addressLine1": "Plot No D-203"
+  }
+ }, 
+ {
+  "lat": 11.25875, 
+  "name": "EVM Nissan", 
+  "long": 75.78041, 
+  "address": {
+   "postalCode": "673021", 
+   "city": "Calicut", 
+   "addressLine2": "OPP. PUTHOOR TEMPLE", 
+   "addressLine3": "PUTHIYANGADI(PO),PAVANGAD", 
+   "addressLine1": "NEAR ELATHUR PANCHAYATH OFFICE"
+  }
+ }, 
+ {
+  "lat": 9.93, 
+  "name": "EVM Nissan", 
+  "long": 76.262, 
+  "address": {
+   "postalCode": "682022", 
+   "city": "Cochin", 
+   "addressLine2": "South Kalamaserry", 
+   "addressLine3": "South Kalamaserry", 
+   "addressLine1": "Angels Plaza, TVS Junction"
+  }
+ }, 
+ {
+  "lat": 9.92874, 
+  "name": "EVM Nissan", 
+  "long": 76.31769, 
+  "address": {
+   "postalCode": "682040", 
+   "city": "Cochin", 
+   "addressLine2": "MARADU", 
+   "addressLine3": "NETTOOR", 
+   "addressLine1": "XVI 139E, INTUC JN"
+  }
+ }, 
+ {
+  "lat": 9.637826, 
+  "name": "EVM Nissan", 
+  "long": 76.543656, 
+  "address": {
+   "postalCode": "686016", 
+   "city": "Kottayam", 
+   "addressLine2": "M C ROAD , THELLAKOM P O", 
+   "addressLine3": "ETTUMANOOR", 
+   "addressLine1": "OPP.ST. MARY'S CHAPPEL"
+  }
+ }, 
+ {
+  "lat": 10.989163, 
+  "name": "EVM Nissan", 
+  "long": 76.166781, 
+  "address": {
+   "postalCode": "679321", 
+   "city": "Mallapuram", 
+   "addressLine2": "PERINTHALMANNA", 
+   "addressLine1": "HADI COMMERCIAL COMPLEX,PANAGANGARA 38"
+  }
+ }, 
+ {
+  "lat": 10.091329, 
+  "name": "EVM Nissan", 
+  "long": 76.497067, 
+  "address": {
+   "postalCode": "683542", 
+   "city": "Muvattupuzha", 
+   "addressLine2": "M C Road, Perumbavoor", 
+   "addressLine3": "Muvattupuzha", 
+   "addressLine1": "Nangelipady, Pulluvazhy- P O"
+  }
+ }, 
+ {
+  "lat": 23.522222, 
+  "name": "East Nissan", 
+  "long": 72.615278, 
+  "address": {
+   "postalCode": "380008", 
+   "city": "Ahmedabad", 
+   "addressLine2": "Opp. Ashima Mill,", 
+   "addressLine3": "Anupam Cinema Road, Khokhra.", 
+   "addressLine1": "GF- Sharnam Estate-4,"
+  }
+ }, 
+ {
+  "lat": 12.91414, 
+  "name": "Excelsior Nissan", 
+  "long": 74.85596, 
+  "address": {
+   "postalCode": "575010", 
+   "city": "Mangalore", 
+   "addressLine2": "KULOOR -KAVOOR ROAD", 
+   "addressLine1": "SURVEY NO.38/2,PADUKODI VILLAGE"
+  }
+ }, 
+ {
+  "lat": 25.16951, 
+  "name": "FM Nissan", 
+  "long": 75.85399, 
+  "address": {
+   "postalCode": "324005", 
+   "city": "Kota", 
+   "addressLine2": "NEAR GOBRIYA BAWADI CIRCLE", 
+   "addressLine3": "JHALAWAR ROAD", 
+   "addressLine1": "252, TRANSPORT NAGAR"
+  }
+ }, 
+ {
+  "lat": 26.57651, 
+  "name": "Far East Nissan", 
+  "long": 93.1719, 
+  "address": {
+   "postalCode": "786125", 
+   "city": "Tinsukia", 
+   "addressLine2": "AT Road Tinsukia", 
+   "addressLine1": "Laipuli, NH 37"
+  }
+ }, 
+ {
+  "lat": 27.480255, 
+  "name": "Far East Nissan", 
+  "long": 95.332754, 
+  "address": {
+   "postalCode": "786125", 
+   "city": "Tinsukia", 
+   "addressLine2": "Hijuguri", 
+   "addressLine1": "Bansbari"
+  }
+ }, 
+ {
+  "lat": 28.67899, 
+  "name": "GS Nissan", 
+  "long": 77.42621, 
+  "address": {
+   "postalCode": "201001", 
+   "city": "Ghaziabad", 
+   "addressLine2": "C-34,MEERUT ROAD IND- AREA", 
+   "addressLine1": "C-47,MEERUT ROAD,GHAZIABAD"
+  }
+ }, 
+ {
+  "lat": 28.98446, 
+  "name": "GS Nissan", 
+  "long": 77.70641, 
+  "address": {
+   "postalCode": "250103", 
+   "city": "Meerut", 
+   "addressLine2": "Mewla  Opp. Amar Ujala", 
+   "addressLine3": "Delhi Road", 
+   "addressLine1": "Khasra No.207 HafizaBad"
+  }
+ }, 
+ {
+  "lat": 21.147653, 
+  "name": "Gandhi Nissan", 
+  "long": 79.004434, 
+  "address": {
+   "postalCode": "440016", 
+   "city": "Nagpur", 
+   "addressLine2": "Opp. Hotel Vihar,", 
+   "addressLine3": "Hingan Road, Wadi", 
+   "addressLine1": "Plot No. C-22, MIDC"
+  }
+ }, 
+ {
+  "lat": 21.112832, 
+  "name": "Gandhi Nissan", 
+  "long": 79.063588, 
+  "address": {
+   "postalCode": "440022", 
+   "city": "Nagpur", 
+   "addressLine2": "Near Khamla Sqaure,", 
+   "addressLine3": "Ring Road", 
+   "addressLine1": "Ganesh Heights, Kotwal Nagar"
+  }
+ }, 
+ {
+  "lat": 26.18296, 
+  "name": "Grand Nissan", 
+  "long": 73.04695, 
+  "address": {
+   "postalCode": "342005", 
+   "city": "Jodhpur", 
+   "addressLine2": "Basni Baghela", 
+   "addressLine3": "NH-65, Pali Road", 
+   "addressLine1": "70/1"
+  }
+ }, 
+ {
+  "lat": 30.25072, 
+  "name": "HRBM Nissan", 
+  "long": 75.91509, 
+  "address": {
+   "postalCode": "148001", 
+   "city": "Sangrur", 
+   "addressLine2": "at Village Bhindran", 
+   "addressLine3": "Patiala Road", 
+   "addressLine1": "CTS no-32//17"
+  }
+ }, 
+ {
+  "lat": 12.331868, 
+  "name": "Hara Nissan", 
+  "long": 75.095657, 
+  "address": {
+   "postalCode": "671315", 
+   "city": "Kasargod", 
+   "addressLine2": "P.O Anandashramam,", 
+   "addressLine3": "Kanhangad,", 
+   "addressLine1": "Near Sunrise Hospital, Mavungal,"
+  }
+ }, 
+ {
+  "lat": 30.7021, 
+  "name": "Hind Nissan", 
+  "long": 76.80001, 
+  "address": {
+   "postalCode": "160002", 
+   "city": "Chandigarh", 
+   "addressLine2": "INDUSTRIAL AREA", 
+   "addressLine3": "PHASE 1", 
+   "addressLine1": "PLOT  NO 9"
+  }
+ }, 
+ {
+  "lat": 12.327789, 
+  "name": "Honnassiri Nissan", 
+  "long": 76.608612, 
+  "address": {
+   "postalCode": "570017", 
+   "city": "Mysore", 
+   "addressLine2": "HUNSUR MAIN ROAD", 
+   "addressLine3": "HINKAL", 
+   "addressLine1": "#193/5"
+  }
+ }, 
+ {
+  "lat": 22.30389, 
+  "name": "IB Nissan", 
+  "long": 70.80216, 
+  "address": {
+   "postalCode": "360001", 
+   "city": "Rajkot", 
+   "addressLine2": "NH-8B, At-Vavdi", 
+   "addressLine3": "Dist-Rajkot", 
+   "addressLine1": "Gondal Ahmedabad By-Pass Circle, Gondal Road"
+  }
+ }, 
+ {
+  "lat": 23.054993, 
+  "name": "IB Nissan", 
+  "long": 70.14245, 
+  "address": {
+   "postalCode": "370201", 
+   "city": "Gandhidham", 
+   "addressLine2": "G.I.D.C., Sector-11, K.P.T. port,", 
+   "addressLine1": "Plot no-79, Opp. Cargo Motors service station,"
+  }
+ }, 
+ {
+  "lat": 9.8841, 
+  "name": "Jeevan Nissan", 
+  "long": 78.04094, 
+  "address": {
+   "postalCode": "625006", 
+   "city": "Madurai", 
+   "addressLine2": "THANAKKANKULAM", 
+   "addressLine1": "204,GST ROAD"
+  }
+ }, 
+ {
+  "lat": 12.942335, 
+  "name": "Jubilant Nissan", 
+  "long": 79.183597, 
+  "address": {
+   "postalCode": "632009", 
+   "city": "Vellore", 
+   "addressLine2": "ALAMELUMANGAPURAM", 
+   "addressLine3": "VELLORE", 
+   "addressLine1": "JAIN JUBILANT CARS PVT LTD"
+  }
+ }, 
+ {
+  "lat": 13.012, 
+  "name": "Jubilant Nissan", 
+  "long": 80.13, 
+  "address": {
+   "postalCode": "602101", 
+   "city": "Chennai", 
+   "addressLine2": "301, Anna Road (off Kundrathur Road)", 
+   "addressLine3": "Gerugambakkam", 
+   "addressLine1": "JAIN JUBILANT CARS PVT LTD"
+  }
+ }, 
+ {
+  "lat": 13.05, 
+  "name": "Jubilant Nissan", 
+  "long": 80.216667, 
+  "address": {
+   "postalCode": "600056", 
+   "city": "Chennai", 
+   "addressLine2": "Iyyapanthangal", 
+   "addressLine3": "OMR", 
+   "addressLine1": "No:2/574,Mount Poonamalle High Road"
+  }
+ }, 
+ {
+  "lat": 12.948049, 
+  "name": "Jubilant Nissan", 
+  "long": 80.240359, 
+  "address": {
+   "postalCode": "600096", 
+   "city": "Chennai", 
+   "addressLine2": "131/2,Old Mahabalipuram Road", 
+   "addressLine3": "Perungudi", 
+   "addressLine1": "Hi-Style Building"
+  }
+ }, 
+ {
+  "lat": 13.052414, 
+  "name": "Jubilant Nissan", 
+  "long": 80.250825, 
+  "address": {
+   "postalCode": "600008", 
+   "city": "Chennai", 
+   "addressLine2": "18/3,Rukmini Lakshmipathi Road", 
+   "addressLine3": "Egmore", 
+   "addressLine1": "Raja Annamalai Building"
+  }
+ }, 
+ {
+  "lat": 28.57868, 
+  "name": "Kaizen Nissan", 
+  "long": 77.26123, 
+  "address": {
+   "postalCode": "110020", 
+   "city": "Delhi", 
+   "addressLine2": "Okhla Industrial Area", 
+   "addressLine3": "South Delhi", 
+   "addressLine1": "D-12, Phase-I"
+  }
+ }, 
+ {
+  "lat": 28.5189, 
+  "name": "Kaizen Nissan", 
+  "long": 77.27885, 
+  "address": {
+   "postalCode": "110020", 
+   "city": "Delhi", 
+   "addressLine2": "Okhla Industrial Area", 
+   "addressLine3": "South Delhi", 
+   "addressLine1": "F-1/9, Phase-I"
+  }
+ }, 
+ {
+  "lat": 17.71891, 
+  "name": "Kantipudi Nissan", 
+  "long": 83.20436, 
+  "address": {
+   "postalCode": "530003", 
+   "city": "Visakhapatnam", 
+   "addressLine2": "NH-5, Beside Vikas School", 
+   "addressLine1": "S.No:122/3, Sheela Nagar"
+  }
+ }, 
+ {
+  "lat": 17.73677, 
+  "name": "Kantipudi Nissan", 
+  "long": 83.26582, 
+  "address": {
+   "postalCode": "530007", 
+   "city": "Visakhapatnam", 
+   "addressLine2": "Kancharpalem Industrial Estate", 
+   "addressLine1": "Special D Unit"
+  }
+ }, 
+ {
+  "lat": 17.01085, 
+  "name": "Kantipudi Nissan", 
+  "long": 81.80886, 
+  "address": {
+   "postalCode": "533107", 
+   "city": "Rajahmundry", 
+   "addressLine2": "Opp.ONGC Base Complex", 
+   "addressLine3": "Gandhi Prakash Nagar", 
+   "addressLine1": "S No. 202/1A,NH-5"
+  }
+ }, 
+ {
+  "lat": 30.34932, 
+  "name": "Khanna Nissan", 
+  "long": 76.83257, 
+  "address": {
+   "postalCode": "133001", 
+   "city": "Ambala", 
+   "addressLine2": "13/40, KM Stone, Vill Tepla", 
+   "addressLine3": "Ambala Jagadhri  Highway, Ambala", 
+   "addressLine1": "(Unit of Mohan Vehicles Pvt. Ltd)"
+  }
+ }, 
+ {
+  "lat": 17.3746796, 
+  "name": "LAKSHMI NISSAN", 
+  "long": 78.5582184, 
+  "address": {
+   "postalCode": "500068", 
+   "city": "Hyderabad", 
+   "addressLine2": "Block No4,Beside Bharath Petrol Bunk,Nagole Main RD, R.R Dist,Hyderabad", 
+   "addressLine3": "Nagole", 
+   "addressLine1": "Survey No.110/1,111/1,112/1,Ward No.2,"
+  }
+ }, 
+ {
+  "lat": 34.405446, 
+  "name": "Lahori Nissan", 
+  "long": 76.293394, 
+  "address": {
+   "postalCode": "190004", 
+   "city": "Srinagar", 
+   "addressLine2": "Pantha Chowk,", 
+   "addressLine1": "Jammu-Srinagar Highway,"
+  }
+ }, 
+ {
+  "lat": 32.7266, 
+  "name": "Lahori Nissan", 
+  "long": 74.85703, 
+  "address": {
+   "postalCode": "180010", 
+   "city": "Jammu", 
+   "addressLine2": "GANGYAL, JAMMU", 
+   "addressLine1": "PHASE-II, INDUSTRIAL AREA"
+  }
+ }, 
+ {
+  "lat": 32.67247, 
+  "name": "Lahori Nissan", 
+  "long": 74.91211, 
+  "address": {
+   "postalCode": "180010", 
+   "city": "Jammu", 
+   "addressLine2": "SAINIK COLONY, JAMMU", 
+   "addressLine1": "NATIONAL HIGHWAY, BYE PASS"
+  }
+ }, 
+ {
+  "lat": 17.41273, 
+  "name": "Lakshmi Nissan", 
+  "long": 78.42951, 
+  "address": {
+   "postalCode": "500033", 
+   "city": "Hyderabad", 
+   "addressLine2": "SAI GALLEREIA, ROAD NO 36,", 
+   "addressLine3": "JUBILEE HILLS", 
+   "addressLine1": "# 8-2-293/82/A/472, PLOT NO 472"
+  }
+ }, 
+ {
+  "lat": 17.398584, 
+  "name": "Lakshmi Nissan", 
+  "long": 78.480866, 
+  "address": {
+   "postalCode": "500029", 
+   "city": "Himayatnagar", 
+   "addressLine2": "Beside canara bank,Narayanaguda", 
+   "addressLine1": "#3-5-880,opp old MLA Quarters"
+  }
+ }, 
+ {
+  "lat": 28.607128, 
+  "name": "Libra Nissan", 
+  "long": 77.058643, 
+  "address": {
+   "postalCode": "110059", 
+   "city": "Delhi", 
+   "addressLine2": "Opp. Dwarka Sec. 5", 
+   "addressLine3": "West Delhi", 
+   "addressLine1": "K-24 Rajapuri"
+  }
+ }, 
+ {
+  "lat": 28.68502, 
+  "name": "Libra Nissan", 
+  "long": 77.098174, 
+  "address": {
+   "postalCode": "110041", 
+   "city": "Delhi", 
+   "addressLine2": "Mundka Industrial", 
+   "addressLine3": "West Delhi", 
+   "addressLine1": "Khasra No.89(9)"
+  }
+ }, 
+ {
+  "lat": 16.51743, 
+  "name": "Lucky Nissan", 
+  "long": 80.70619, 
+  "address": {
+   "postalCode": "521108", 
+   "city": "Vijayawada", 
+   "addressLine2": "Enikepadu", 
+   "addressLine3": "Opposite Tankasala Kalyanamandapam", 
+   "addressLine1": "32295"
+  }
+ }, 
+ {
+  "lat": 16.3, 
+  "name": "Lucky Nissan", 
+  "long": 80.48333, 
+  "address": {
+   "postalCode": "522 001", 
+   "city": "Guntur", 
+   "addressLine2": "Maddirala Colony, Mangalagiri Road, Autonagar", 
+   "addressLine1": "S.No.D 143/3,144/1, 3rd Line"
+  }
+ }, 
+ {
+  "lat": 14.360079, 
+  "name": "Lucky Nissan", 
+  "long": 79.885682, 
+  "address": {
+   "postalCode": "524320", 
+   "city": "Nellore", 
+   "addressLine2": "Cheemudugunta panchayati", 
+   "addressLine3": "at-venkatachalam mandal, NH-5", 
+   "addressLine1": "Survey no-319/C1, 319/C2"
+  }
+ }, 
+ {
+  "lat": 14.4426, 
+  "name": "Lucky Nissan", 
+  "long": 79.98646, 
+  "address": {
+   "postalCode": "524320", 
+   "city": "Nellore", 
+   "addressLine2": "CHEMUDUNTA PANCHAYAT", 
+   "addressLine3": "VENKATACHALAM MANDAL", 
+   "addressLine1": "NH-5"
+  }
+ }, 
+ {
+  "lat": 26.744516, 
+  "name": "MLA Nissan", 
+  "long": 88.4355533, 
+  "address": {
+   "postalCode": "734401", 
+   "city": "Siliguri", 
+   "addressLine2": "Opp Cosmos Mall", 
+   "addressLine1": "Sevoke Road, 2nd Mile"
+  }
+ }, 
+ {
+  "lat": 31.63398, 
+  "name": "MR NISSAN", 
+  "long": 74.87226, 
+  "address": {
+   "postalCode": "143001", 
+   "city": "Amritsar", 
+   "addressLine2": "G.T. ROAD", 
+   "addressLine3": "MOHAN VIHAR", 
+   "addressLine1": "NEAR NEW AMRITSAR GATE"
+  }
+ }, 
+ {
+  "lat": 31.61396, 
+  "name": "MR NISSAN", 
+  "long": 74.8774, 
+  "address": {
+   "postalCode": "143001", 
+   "city": "Amritsar", 
+   "addressLine2": "NEAR RAILWAY WORKSHOP", 
+   "addressLine3": "PUTLIGHAR CHOWK", 
+   "addressLine1": "G T ROAD"
+  }
+ }, 
+ {
+  "lat": 28.87181, 
+  "name": "Malwa Nissan", 
+  "long": 77.11975, 
+  "address": {
+   "postalCode": "131028", 
+   "city": "Sonipat", 
+   "addressLine2": "KUNDLI, SONIPAT", 
+   "addressLine1": "NH-1, 31 K.M STONE , G.T ROAD"
+  }
+ }, 
+ {
+  "lat": 29.67367, 
+  "name": "Malwa Nissan", 
+  "long": 77.00214, 
+  "address": {
+   "postalCode": "132001", 
+   "city": "Karnal", 
+   "addressLine2": "G.T. ROAD", 
+   "addressLine1": "118/1 K.M STONE"
+  }
+ }, 
+ {
+  "lat": 29.430572, 
+  "name": "Malwa Nissan", 
+  "long": 76.969257, 
+  "address": {
+   "postalCode": "132103", 
+   "city": "Panipat", 
+   "addressLine2": "Panipat", 
+   "addressLine1": "Near Toll Plaza,"
+  }
+ }, 
+ {
+  "lat": 11.84299, 
+  "name": "Manumatic Nissan", 
+  "long": 75.4214, 
+  "address": {
+   "postalCode": "670007", 
+   "city": "Kannur", 
+   "addressLine2": "P O THOTTADA", 
+   "addressLine3": "KANNUR", 
+   "addressLine1": "NEAR KANNUR POLYTECHNIC"
+  }
+ }, 
+ {
+  "lat": 8.50446, 
+  "name": "Marikar Nissan", 
+  "long": 76.91743, 
+  "address": {
+   "postalCode": "695029", 
+   "city": "Trivandrum", 
+   "addressLine2": "ANAYARA P O", 
+   "addressLine1": "NH BYPASS, VENPALAVATTOM"
+  }
+ }, 
+ {
+  "lat": 11.65605, 
+  "name": "Marvel Nissan", 
+  "long": 78.16642, 
+  "address": {
+   "postalCode": "636001", 
+   "city": "Salem", 
+   "addressLine2": "KANDHAMPATTY BYE PASS", 
+   "addressLine3": "SALEM.", 
+   "addressLine1": "Near RTO Office(West)"
+  }
+ }, 
+ {
+  "lat": 22.541166, 
+  "name": "Mohan Motors Nissan", 
+  "long": 88.356204, 
+  "address": {
+   "postalCode": "700020", 
+   "city": "Kolkata", 
+   "addressLine1": "226/1, AJC BOSE ROAD"
+  }
+ }, 
+ {
+  "lat": 22.53766, 
+  "name": "Mohan Motors Nissan", 
+  "long": 88.401769, 
+  "address": {
+   "postalCode": "700046", 
+   "city": "Kolkata", 
+   "addressLine2": "ARUPOTA,EM BYPASS", 
+   "addressLine1": "55, EAST TOPSIA ROAD"
+  }
+ }, 
+ {
+  "lat": 28.5801, 
+  "name": "Neo Nissan", 
+  "long": 77.32171, 
+  "address": {
+   "postalCode": "201301", 
+   "city": "Noida", 
+   "addressLine2": "Sector 3", 
+   "addressLine1": "c-26"
+  }
+ }, 
+ {
+  "lat": 28.6209871, 
+  "name": "Neo Nissan", 
+  "long": 77.3811606, 
+  "address": {
+   "postalCode": "201303", 
+   "city": "Noida", 
+   "addressLine2": "SECTOR 63", 
+   "addressLine1": "D 48"
+  }
+ }, 
+ {
+  "lat": 24.57127, 
+  "name": "Nidhi kamal Nissan", 
+  "long": 73.69154, 
+  "address": {
+   "postalCode": "313001", 
+   "city": "Udaipur", 
+   "addressLine1": "E-78 MEWAR INDUSTRIAL AREA ROAD NO. 1 , MADRI"
+  }
+ }, 
+ {
+  "lat": 24.919005, 
+  "name": "Nidhi kamal Nissan", 
+  "long": 74.62446, 
+  "address": {
+   "postalCode": "305801", 
+   "city": "Chittorgarh", 
+   "addressLine2": "Bhilwara Road", 
+   "addressLine1": "Opp. Jindal Marble"
+  }
+ }, 
+ {
+  "lat": 27.1247703, 
+  "name": "Nigla Nissan", 
+  "long": 93.7258521, 
+  "address": {
+   "postalCode": "791110", 
+   "city": "Itanagar", 
+   "addressLine2": "Naharlagun", 
+   "addressLine1": "NH 52A, Lekhi,"
+  }
+ }, 
+ {
+  "lat": 25.904886, 
+  "name": "Nili Nissan", 
+  "long": 93.7492, 
+  "address": {
+   "postalCode": "792117", 
+   "city": "Dimapur", 
+   "addressLine1": "Purana  Bazar Road,"
+  }
+ }, 
+ {
+  "lat": 30.31649, 
+  "name": "Oberai Nissan", 
+  "long": 78.03219, 
+  "address": {
+   "postalCode": "248001", 
+   "city": "Dehradun", 
+   "addressLine1": "NEAR KARGI CHOWK, HARIDWAR BY PASS ROAD"
+  }
+ }, 
+ {
+  "lat": 18.552726, 
+  "name": "Oxford Nissan", 
+  "long": 73.759663, 
+  "address": {
+   "postalCode": "411021", 
+   "city": "Pune", 
+   "addressLine2": "Tal : Mulshi", 
+   "addressLine3": "Dist : Pune", 
+   "addressLine1": "S.No. 47/A, Sus Goan"
+  }
+ }, 
+ {
+  "lat": 18.56012, 
+  "name": "Oxford Nissan", 
+  "long": 73.78713, 
+  "address": {
+   "postalCode": "411045", 
+   "city": "Pune", 
+   "addressLine2": "Off Mumbai-Bangalore Highway,", 
+   "addressLine3": "Baner", 
+   "addressLine1": "Near Sus Road Over Bridge"
+  }
+ }, 
+ {
+  "lat": 29.20805, 
+  "name": "Pal Nissan", 
+  "long": 79.52137, 
+  "address": {
+   "postalCode": "263139", 
+   "city": "Haldwani", 
+   "addressLine2": "Rampur Road Haldwani", 
+   "addressLine3": "Distt:Nainital", 
+   "addressLine1": "Plot Nno. - 88, Near Ganesh Kattha Factory"
+  }
+ }, 
+ {
+  "lat": 29.87973, 
+  "name": "Parkash Nissan", 
+  "long": 73.922, 
+  "address": {
+   "postalCode": "335001", 
+   "city": "SriGanganagar", 
+   "addressLine2": "Byepass, Hanumangarh Road,", 
+   "addressLine1": "Opp. Spangle School, RIICO Agro Food"
+  }
+ }, 
+ {
+  "lat": 23.252292, 
+  "name": "Pepal Nissan", 
+  "long": 72.657986, 
+  "address": {
+   "postalCode": "392015", 
+   "city": "Gandhinagar", 
+   "addressLine2": "Sector - 28", 
+   "addressLine1": "Plot No- 201 - 202"
+  }
+ }, 
+ {
+  "lat": 22.978654, 
+  "name": "Petal Nissan", 
+  "long": 72.490925, 
+  "address": {
+   "postalCode": "382210", 
+   "city": "Ahmedabad", 
+   "addressLine2": "Near Punjab Tyre House,Ujala circle", 
+   "addressLine3": "Sarkhej Juhapura Circle Road", 
+   "addressLine1": "Plot No-279/2"
+  }
+ }, 
+ {
+  "lat": 23.034501, 
+  "name": "Petal Nissan", 
+  "long": 72.553017, 
+  "address": {
+   "postalCode": "380009", 
+   "city": "Ahmedabad", 
+   "addressLine2": "Fortune Landmark Lane,", 
+   "addressLine3": "Ashram Road, Vadaj", 
+   "addressLine1": "G.F, \"ANUSHREE\", Near Bank of Baroda,"
+  }
+ }, 
+ {
+  "lat": 23.40957, 
+  "name": "Petal Nissan", 
+  "long": 72.5076, 
+  "address": {
+   "postalCode": "380054", 
+   "city": "Ahmedabad", 
+   "addressLine2": "Near Sola fly over", 
+   "addressLine3": "S.G Highway sola", 
+   "addressLine1": "Petal nissan"
+  }
+ }, 
+ {
+  "lat": 10.508299, 
+  "name": "Pinnacle Nissan", 
+  "long": 76.258031, 
+  "address": {
+   "postalCode": "680014", 
+   "city": "Thrissur", 
+   "addressLine2": "NH-47 ,Mannuthy Bye pass", 
+   "addressLine3": "Kuttanellur P O", 
+   "addressLine1": "Pinnacle Motor Works PVT LTD"
+  }
+ }, 
+ {
+  "lat": 11.016845, 
+  "name": "Pinnacle Nissan", 
+  "long": 76.955832, 
+  "address": {
+   "postalCode": "678013", 
+   "city": "Palakkad", 
+   "addressLine2": "Coimbatore Road,", 
+   "addressLine3": "Kunnathurmedu Post", 
+   "addressLine1": "Near Sai Krishna Apartments,"
+  }
+ }, 
+ {
+  "lat": 30.14655596, 
+  "name": "Prabhav Nissan", 
+  "long": 74.22274232, 
+  "address": {
+   "postalCode": "152116", 
+   "city": "Abohar", 
+   "addressLine2": "Near Taj Marbles", 
+   "addressLine3": "Opp. CIPHET", 
+   "addressLine1": "Hanumangarh Malout Bypass"
+  }
+ }, 
+ {
+  "lat": 20.37124, 
+  "name": "Pramukh Nissan", 
+  "long": 72.90634, 
+  "address": {
+   "postalCode": "396191", 
+   "city": "Vapi", 
+   "addressLine2": "Nr. Jalaram Temple", 
+   "addressLine3": "Vapi", 
+   "addressLine1": "N.H.No:8"
+  }
+ }, 
+ {
+  "lat": 21.15434, 
+  "name": "Pramukh Nissan", 
+  "long": 72.76467, 
+  "address": {
+   "postalCode": "395008", 
+   "city": "Surat", 
+   "addressLine2": "Near Valentine cinema", 
+   "addressLine3": "Surat - Dumas Road", 
+   "addressLine1": "Opposite Central Mall"
+  }
+ }, 
+ {
+  "lat": 20.951858, 
+  "name": "Pramukh Nissan", 
+  "long": 72.956391, 
+  "address": {
+   "postalCode": "396424", 
+   "city": "Navsari", 
+   "addressLine2": "Grid Char Rasta", 
+   "addressLine3": "Kabilpore", 
+   "addressLine1": "N.H No. 8"
+  }
+ }, 
+ {
+  "lat": 20.610069, 
+  "name": "Pramukh Nissan", 
+  "long": 72.925858, 
+  "address": {
+   "postalCode": "396230", 
+   "city": "Silvasa", 
+   "addressLine2": "Silvassa-Bhaild Main Road, Village Athal", 
+   "addressLine1": "Survey No.15/1, Shade no. 01, Near Reliance Petrol Pump "
+  }
+ }, 
+ {
+  "lat": 28.72876, 
+  "name": "RC NISSAN", 
+  "long": 77.15937, 
+  "address": {
+   "postalCode": "110085", 
+   "city": "Delhi", 
+   "addressLine2": "Badli Industrial Area", 
+   "addressLine3": "Near Delhi Engineering College", 
+   "addressLine1": "CN-35, Badli Bawana Road"
+  }
+ }, 
+ {
+  "lat": 28.63531, 
+  "name": "RC NISSAN", 
+  "long": 77.22496, 
+  "address": {
+   "postalCode": "110088", 
+   "city": "Delhi", 
+   "addressLine2": "OUTER RING ROAD", 
+   "addressLine3": "SHALIMAR BAGH PLACE", 
+   "addressLine1": "AGGARWAL AUTO MALL"
+  }
+ }, 
+ {
+  "lat": 26.454351, 
+  "name": "RNG Nissan", 
+  "long": 80.278224, 
+  "address": {
+   "postalCode": "208006", 
+   "city": "Kanpur", 
+   "addressLine2": "CO-OPERATIVE INDUSTRIAL ESTATE", 
+   "addressLine3": "DADA NAGAR", 
+   "addressLine1": "82-A"
+  }
+ }, 
+ {
+  "lat": 26.44992, 
+  "name": "RNG Nissan", 
+  "long": 80.33187, 
+  "address": {
+   "postalCode": "208003", 
+   "city": "Kanpur", 
+   "addressLine2": "AFIMKOTHI", 
+   "addressLine3": "G.T.ROAD", 
+   "addressLine1": "84/105-A"
+  }
+ }, 
+ {
+  "lat": 29.569004, 
+  "name": "RPJ NISSAN", 
+  "long": 75.0231, 
+  "address": {
+   "postalCode": "125055", 
+   "city": "Sirsa", 
+   "addressLine2": "Dabwali Road", 
+   "addressLine1": "Opp. Air Force Station"
+  }
+ }, 
+ {
+  "lat": 26.466767, 
+  "name": "Raj Nissan", 
+  "long": 74.639088, 
+  "address": {
+   "postalCode": "305001", 
+   "city": "Ajmer", 
+   "addressLine2": "Ajmer road madanganj, Kishangarh", 
+   "addressLine1": "Near  Housing Board colony"
+  }
+ }, 
+ {
+  "lat": 26.1, 
+  "name": "Raj Nissan", 
+  "long": 74.32, 
+  "address": {
+   "postalCode": "305001", 
+   "city": "Beawar", 
+   "addressLine2": "Ajmer road Beawar", 
+   "addressLine1": "Rico area, purani chungi Naka"
+  }
+ }, 
+ {
+  "lat": 26.45, 
+  "name": "Raj Nissan", 
+  "long": 74.64, 
+  "address": {
+   "postalCode": "305001", 
+   "city": "Jhunjhunu", 
+   "addressLine2": "WARISHPURA ROAD, JHUNJHUNU", 
+   "addressLine1": "F5-F10 RICCO INDUSTRIAL AREA"
+  }
+ }, 
+ {
+  "lat": 26.457349, 
+  "name": "Raj Nissan", 
+  "long": 74.645899, 
+  "address": {
+   "postalCode": "305001", 
+   "city": "Kishangarh", 
+   "addressLine2": "Opp Patel Stadium", 
+   "addressLine3": "Jaipur Road", 
+   "addressLine1": "387/10,"
+  }
+ }, 
+ {
+  "lat": 21.73, 
+  "name": "Rajarshi Nissan", 
+  "long": 72.07, 
+  "address": {
+   "postalCode": "364004", 
+   "city": "BHAVNAGAR", 
+   "addressLine2": "NR.NARI CHOKDI, RAJKOT ROAD", 
+   "addressLine1": "6, CHANDRAMANI"
+  }
+ }, 
+ {
+  "lat": 11.330552, 
+  "name": "Rajeswari Nissan", 
+  "long": 77.699676, 
+  "address": {
+   "postalCode": "638011", 
+   "city": "Erode", 
+   "addressLine2": "Palayapalayam", 
+   "addressLine1": "253, Perundurai Road"
+  }
+ }, 
+ {
+  "lat": 11.33062, 
+  "name": "Rajeswari Nissan", 
+  "long": 77.70064, 
+  "address": {
+   "postalCode": "638011", 
+   "city": "Erode", 
+   "addressLine2": "Behind Sankar Mahal", 
+   "addressLine3": "Palayapalayam", 
+   "addressLine1": "SF.91/1, Sangu Nagar Main Road"
+  }
+ }, 
+ {
+  "lat": 11.075125, 
+  "name": "Ramani Nissan", 
+  "long": 77.340837, 
+  "address": {
+   "postalCode": "642604", 
+   "city": "Tirupur", 
+   "addressLine2": "Palladam Main Road", 
+   "addressLine1": "647/1E, Winners Tower"
+  }
+ }, 
+ {
+  "lat": 11.09184, 
+  "name": "Ramani Nissan", 
+  "long": 77.01828, 
+  "address": {
+   "postalCode": "641035", 
+   "city": "Coimbatore", 
+   "addressLine2": "SARAVANAMPATTY", 
+   "addressLine3": "COIMBATORE", 
+   "addressLine1": "176/2 SATHYAMANGALAM ROAD"
+  }
+ }, 
+ {
+  "lat": 10.99699, 
+  "name": "Ramani Nissan", 
+  "long": 76.981856, 
+  "address": {
+   "postalCode": "641 045", 
+   "city": "Coimbatore ", 
+   "addressLine2": "Near Sungam, Trichy Road", 
+   "addressLine1": "1217, J.S. Empire,"
+  }
+ }, 
+ {
+  "lat": 23.168486, 
+  "name": "Ranjeet Nissan", 
+  "long": 77.464816, 
+  "address": {
+   "postalCode": "462026", 
+   "city": "Bhopal", 
+   "addressLine2": "Hoshangabad Road, Misrod", 
+   "addressLine1": "Unit 3, NH-12"
+  }
+ }, 
+ {
+  "lat": 19.21833, 
+  "name": "Ritu Nissan", 
+  "long": 72.97809, 
+  "address": {
+   "postalCode": "400607", 
+   "city": "Thane", 
+   "addressLine2": "Near Hiranandani Estate", 
+   "addressLine3": "Godbhunder Road,Patlipada", 
+   "addressLine1": "Vibgyor,Gr floor"
+  }
+ }, 
+ {
+  "lat": 19.21892, 
+  "name": "Ritu Nissan", 
+  "long": 72.97888, 
+  "address": {
+   "postalCode": "400604", 
+   "city": "Thane", 
+   "addressLine2": "Near Ashar IT Park", 
+   "addressLine3": "Wagle Estate", 
+   "addressLine1": "Plot noB45,Road No 16Z"
+  }
+ }, 
+ {
+  "lat": 19.14, 
+  "name": "Ritu Nissan", 
+  "long": 72.97809, 
+  "address": {
+   "postalCode": "400078", 
+   "city": "Bhandup", 
+   "addressLine2": ",near Neptune Magnet mall, Opp Kaka petrol pump, Bhandup West", 
+   "addressLine1": "CTS No. 612/1, LBS Marg"
+  }
+ }, 
+ {
+  "lat": 26.832577, 
+  "name": "Royal Nissan", 
+  "long": 75.794162, 
+  "address": {
+   "postalCode": "302015", 
+   "city": "Jaipur", 
+   "addressLine2": "RIICO INDUSTRIAL AREA", 
+   "addressLine3": "SITAPURA", 
+   "addressLine1": "F - 700"
+  }
+ }, 
+ {
+  "lat": 26.81672, 
+  "name": "Royal Nissan", 
+  "long": 75.79881, 
+  "address": {
+   "postalCode": "302015", 
+   "city": "Jaipur", 
+   "addressLine2": "OPP. RAM MANDIR", 
+   "addressLine3": "TONK ROAD", 
+   "addressLine1": "1-2, DURGA VIHAR"
+  }
+ }, 
+ {
+  "lat": 23.542935, 
+  "name": "SAI AARAV NISSAN", 
+  "long": 72.3814, 
+  "address": {
+   "postalCode": "382710", 
+   "city": "Mehsana", 
+   "addressLine2": "Nr. Mehsana Palanpur Bypass Junction", 
+   "addressLine3": "Highway Road", 
+   "addressLine1": "Opp. Shivala Restaurant"
+  }
+ }, 
+ {
+  "lat": 10.753491, 
+  "name": "SJB Nissan", 
+  "long": 78.651002, 
+  "address": {
+   "postalCode": "620012", 
+   "city": "Trichy", 
+   "addressLine2": "Next to Saranathan Engineering College", 
+   "addressLine3": "Panjapur", 
+   "addressLine1": "# 133-A/1A. 134-A/2A, 134-A/3A, Trichy - Madurai NH"
+  }
+ }, 
+ {
+  "lat": 16.69131, 
+  "name": "SMG Nissan", 
+  "long": 74.24487, 
+  "address": {
+   "postalCode": "416004", 
+   "city": "Kolhapur", 
+   "addressLine2": "NH 4, MOUJE UJLAIWADI", 
+   "addressLine3": "TAL-KARVEER", 
+   "addressLine1": "R.S.NO.14 & 15"
+  }
+ }, 
+ {
+  "lat": 16.843122, 
+  "name": "SMG Nissan", 
+  "long": 74.563639, 
+  "address": {
+   "postalCode": "416416", 
+   "city": "Sangli", 
+   "addressLine2": "Kolhapur Sangli Road", 
+   "addressLine3": "Near Akashwani, ", 
+   "addressLine1": "Sidhivinayak Nagari, Opp Sadhana Petrol Pump"
+  }
+ }, 
+ {
+  "lat": 31.662932, 
+  "name": "SPG Nissan", 
+  "long": 76.944201, 
+  "address": {
+   "postalCode": "175022", 
+   "city": "Mandi", 
+   "addressLine2": "DISTT. MANDI,", 
+   "addressLine1": "NH-21, GUTKAR, TEHSIL - SADAR,"
+  }
+ }, 
+ {
+  "lat": 12.98683, 
+  "name": "Shahwar Nissan", 
+  "long": 77.59841, 
+  "address": {
+   "postalCode": "560052", 
+   "city": "Bangalore", 
+   "addressLine1": "# 15, Queens Road"
+  }
+ }, 
+ {
+  "lat": 12.97646, 
+  "name": "Shahwar Nissan", 
+  "long": 77.5991, 
+  "address": {
+   "postalCode": "560001", 
+   "city": "Bangalore", 
+   "addressLine1": "# 19, Kasturba Road"
+  }
+ }, 
+ {
+  "lat": 13.00163, 
+  "name": "Shahwar Nissan", 
+  "long": 77.59858, 
+  "address": {
+   "postalCode": "560046", 
+   "city": "Bangalore", 
+   "addressLine2": "Jayamahal Extn", 
+   "addressLine1": "24/48, M.M.Road, Nandidurga Road Cross"
+  }
+ }, 
+ {
+  "lat": 19.87212, 
+  "name": "Shirin Nissan", 
+  "long": 75.32325, 
+  "address": {
+   "postalCode": "431001", 
+   "city": "Aurangabad", 
+   "addressLine2": "opp Govt milk scheme", 
+   "addressLine3": "Jalna Road", 
+   "addressLine1": "Kranti Chowk"
+  }
+ }, 
+ {
+  "lat": 18.562319, 
+  "name": "Shivalik Nissan", 
+  "long": 73.921355, 
+  "address": {
+   "postalCode": "411014", 
+   "city": "Pune", 
+   "addressLine2": "VIMAN NAGAR", 
+   "addressLine3": "NAGAR ROAD", 
+   "addressLine1": "CITY SPACE,OPP INORBIT MALL"
+  }
+ }, 
+ {
+  "lat": 18.58337, 
+  "name": "Shivalik Nissan", 
+  "long": 73.96786, 
+  "address": {
+   "postalCode": "412207", 
+   "city": "Pune", 
+   "addressLine2": "NR.JAIBHAIRAVNATH WAREHOUSE", 
+   "addressLine3": "CHOKHI-DHANI ROAD, WAGHOLI", 
+   "addressLine1": "UBALE NAGAR"
+  }
+ }, 
+ {
+  "lat": 28.69061, 
+  "name": "Sidheshwar Nissan", 
+  "long": 76.93726, 
+  "address": {
+   "postalCode": "125001", 
+   "city": "Hissar", 
+   "addressLine2": "DELHI HISAR BYPASS ROAD", 
+   "addressLine3": "11 K.M.  STONE", 
+   "addressLine1": "NH-10"
+  }
+ }, 
+ {
+  "lat": 28.42896, 
+  "name": "Sidheshwar Nissan", 
+  "long": 77.01698, 
+  "address": {
+   "postalCode": "122001", 
+   "city": "Gurgaon", 
+   "addressLine3": "Sector 34", 
+   "addressLine1": "Plot No 34"
+  }
+ }, 
+ {
+  "lat": 21.0833, 
+  "name": "Silicon Nissan", 
+  "long": 72.8833, 
+  "address": {
+   "postalCode": "394210", 
+   "city": "Surat", 
+   "addressLine2": "UDHNA - NAVSARI ROAD", 
+   "addressLine3": "UDHNA", 
+   "addressLine1": "NEAR BRC TEMPLE"
+  }
+ }, 
+ {
+  "lat": 21.22926, 
+  "name": "Silicon Nissan", 
+  "long": 72.89729, 
+  "address": {
+   "postalCode": "395006", 
+   "city": "Surat", 
+   "addressLine2": "NEAR SARTHANA ZOO", 
+   "addressLine3": "VARACHHA MAIN ROAD", 
+   "addressLine1": "G-4, DEEP KAMAL COMPLEX"
+  }
+ }, 
+ {
+  "lat": 21.11645, 
+  "name": "Silicon Nissan", 
+  "long": 73.09745, 
+  "address": {
+   "postalCode": "394601", 
+   "city": "Bardoli", 
+   "addressLine2": "BESIDES NAVKAR AGENCY", 
+   "addressLine3": "KADODARA - BARDOLI HIGHWAY", 
+   "addressLine1": "NADIDA CHAR RASTA"
+  }
+ }, 
+ {
+  "lat": 28.43479, 
+  "name": "Sterling Nissan", 
+  "long": 77.05285, 
+  "address": {
+   "postalCode": "122015", 
+   "city": "Gurgaon", 
+   "addressLine2": "Maruti Ind Area", 
+   "addressLine3": "Sector-18", 
+   "addressLine1": "Plot No 39"
+  }
+ }, 
+ {
+  "lat": 28.50142, 
+  "name": "Sterling Nissan", 
+  "long": 77.06463, 
+  "address": {
+   "postalCode": "122015", 
+   "city": "Gurgaon", 
+   "addressLine2": "HUDA Industrial Area", 
+   "addressLine3": "Sector-18", 
+   "addressLine1": "Plot No GP-11"
+  }
+ }, 
+ {
+  "lat": 26.145249, 
+  "name": "Sumedha Nissan", 
+  "long": 78.166587, 
+  "address": {
+   "postalCode": "474001", 
+   "city": "Gwalior", 
+   "addressLine2": "Village Kedarpur ", 
+   "addressLine1": "Shivpuri Link Road "
+  }
+ }, 
+ {
+  "lat": 12.89728, 
+  "name": "Surya Nissan", 
+  "long": 77.63537, 
+  "address": {
+   "postalCode": "560068", 
+   "city": "Bangalore", 
+   "addressLine2": "GARVEBHAVIPALYA", 
+   "addressLine3": "HOSUR ROAD", 
+   "addressLine1": "LAKSHMI CAR ZONE PVT LTD,#8A"
+  }
+ }, 
+ {
+  "lat": 12.867336, 
+  "name": "Surya Nissan", 
+  "long": 77.663211, 
+  "address": {
+   "postalCode": "560100", 
+   "city": "Bangalore", 
+   "addressLine2": "DODDANAGAMANGALA ROAD", 
+   "addressLine3": "BEGUR HOBLI,HOSUR ROAD", 
+   "addressLine1": "#25/3,BERETENA AGRAHARA VILLAGE"
+  }
+ }, 
+ {
+  "lat": 15.469148, 
+  "name": "Swasti Nissan", 
+  "long": 74.996854, 
+  "address": {
+   "postalCode": "580008", 
+   "city": "Hubli", 
+   "addressLine2": "Vidyanagar", 
+   "addressLine1": "UNCAL Cross"
+  }
+ }, 
+ {
+  "lat": 27.564182, 
+  "name": "Tirupati Nissan", 
+  "long": 76.617482, 
+  "address": {
+   "postalCode": "301001", 
+   "city": "Alwar", 
+   "addressLine2": "Alwar-Sikandra Mega Highway", 
+   "addressLine3": "Alwar", 
+   "addressLine1": "Near Roop Bass Over Bridge"
+  }
+ }, 
+ {
+  "lat": 27.064182, 
+  "name": "Tirupati Nissan", 
+  "long": 76.614562, 
+  "address": {
+   "postalCode": "301001", 
+   "city": "Alwar", 
+   "addressLine2": "Alka Puri", 
+   "addressLine3": "Alwar", 
+   "addressLine1": "142-143"
+  }
+ }, 
+ {
+  "lat": 19.11142, 
+  "name": "Torrent Nissan", 
+  "long": 72.86039, 
+  "address": {
+   "postalCode": "400069", 
+   "city": "Mumbai", 
+   "addressLine2": "PARSI PANCHAYAT ROAD", 
+   "addressLine3": "ANDHERI EAST", 
+   "addressLine1": "15, CHAMPION SEALS COMP"
+  }
+ }, 
+ {
+  "lat": 19.11042, 
+  "name": "Torrent Nissan", 
+  "long": 72.85039, 
+  "address": {
+   "postalCode": "400053", 
+   "city": "Mumbai", 
+   "addressLine2": "G7/8/9/10 OPP. INFINITY MALL", 
+   "addressLine3": "ANDHERI (w)", 
+   "addressLine1": "SHALIMAR MORYA PARK"
+  }
+ }, 
+ {
+  "lat": 28.5691618, 
+  "name": "Treo Nissan ", 
+  "long": 77.1912798, 
+  "address": {
+   "postalCode": "110029", 
+   "city": "New Delhi", 
+   "addressLine2": "Safdarjung Enclave", 
+   "addressLine1": "A 2/9, Arica Avenue"
+  }
+ }, 
+ {
+  "lat": 28.527335, 
+  "name": "Treo Nissan ", 
+  "long": 77.151545, 
+  "address": {
+   "postalCode": "110070", 
+   "city": "New Delhi", 
+   "addressLine2": " Aruna Asaf Ali Marg, Vasant Kunj", 
+   "addressLine1": "Bawa Pottries Complex"
+  }
+ }, 
+ {
+  "lat": 25.622562, 
+  "name": "Urja Nissan", 
+  "long": 85.043537, 
+  "address": {
+   "postalCode": "801503", 
+   "city": "Patna", 
+   "addressLine2": "Saguna more", 
+   "addressLine1": "D.S.business park"
+  }
+ }, 
+ {
+  "lat": 25.62958, 
+  "name": "Urja Nissan", 
+  "long": 85.10386, 
+  "address": {
+   "postalCode": "800013", 
+   "city": "Patna", 
+   "addressLine2": "Patliputra", 
+   "addressLine1": "12/1 Patliputra Industrial Area"
+  }
+ }, 
+ {
+  "lat": 17.44085, 
+  "name": "Vibrant Nissan", 
+  "long": 78.47287, 
+  "address": {
+   "postalCode": "500003", 
+   "city": "Secunderabad", 
+   "addressLine2": "Patny Nagar", 
+   "addressLine3": "S.P.Road", 
+   "addressLine1": "160-D"
+  }
+ }, 
+ {
+  "lat": 17.394287, 
+  "name": "Vibrant Nissan", 
+  "long": 78.549853, 
+  "address": {
+   "postalCode": "500039", 
+   "city": "Secunderabad", 
+   "addressLine2": "IDA-Uppal", 
+   "addressLine3": "Uppal", 
+   "addressLine1": "15-C"
+  }
+ }, 
+ {
+  "lat": 22.030401, 
+  "name": "Vishal Nissan", 
+  "long": 82.11191, 
+  "address": {
+   "postalCode": "495220", 
+   "city": "Bilaspur", 
+   "addressLine2": "Bodri", 
+   "addressLine1": "NH-130, Bilaspur-Raipur Main Road"
+  }
+ }, 
+ {
+  "lat": 8.170758, 
+  "name": "WIN Nissan", 
+  "long": 77.411484, 
+  "address": {
+   "postalCode": "629004", 
+   "city": "Nagercoil", 
+   "addressLine2": "Industrial Estate, Konam", 
+   "addressLine1": "Plot No :13,"
+  }
+ }, 
+ {
+  "lat": 8.179251, 
+  "name": "WIN Nissan", 
+  "long": 77.419074, 
+  "address": {
+   "postalCode": "629004", 
+   "city": "Nagercoil", 
+   "addressLine1": "77/1-B, Govt Medical college Road,"
+  }
+ }, 
+ {
+  "lat": 30.32062, 
+  "name": "Yashoda Nissan", 
+  "long": 76.39513, 
+  "address": {
+   "postalCode": "147021", 
+   "city": "Patiala", 
+   "addressLine2": "RAJPURA ROAD", 
+   "addressLine3": "BAHADURGARH", 
+   "addressLine1": "VILLAGE DHARERI JATTAN"
+  }
+ }, 
+ {
+  "lat": 28.63942, 
+  "name": "Zedex Nissan", 
+  "long": 77.3109, 
+  "address": {
+   "postalCode": "110092", 
+   "city": "Delhi", 
+   "addressLine2": "PATPARGANJ", 
+   "addressLine3": "INDUSTRIAL AREA", 
+   "addressLine1": "89, F.I.E."
+  }
+ }, 
+ {
+  "lat": 28.659859, 
+  "name": "Zedex Nissan", 
+  "long": 77.349387, 
+  "address": {
+   "postalCode": "201011", 
+   "city": "Ghaziabad", 
+   "addressLine2": "INDUSTRIAL AREA", 
+   "addressLine3": "SAHIBABAD", 
+   "addressLine1": "39/3 SITE IV"
+  }
+ }
+]
