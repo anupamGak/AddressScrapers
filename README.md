@@ -1,2 +1,2 @@
 # AddressScrapers
-Contains assress scrapers for various retail websites.
+Contains address scrapers for various retail websites.
