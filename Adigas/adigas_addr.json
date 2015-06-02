@@ -1,0 +1,234 @@
+[
+ {
+  "city": "Bengaluru\n", 
+  "pincode": "560076", 
+  "longitude": "77.6016410000", 
+  "location": "Bannerghatta Road", 
+  "address": "No.204, Bilekahalli, Panduranga Nagar, Bannerghatta Road", 
+  "latitude": "12.9039420000"
+ }, 
+ {
+  "city": "Bengaluru\n", 
+  "pincode": "560042", 
+  "longitude": "77.6147180000", 
+  "location": "Dickenson Road", 
+  "address": "No.105 Dickenson Road\n", 
+  "latitude": "12.9763090000"
+ }, 
+ {
+  "city": "Bengaluru\n", 
+  "pincode": "560038", 
+  "longitude": "77.5945630000", 
+  "location": "Indira Nagar 2nd stage", 
+  "address": "No 219, Binnamangala, Opposite BDA Complex, Indiranagar 2stage", 
+  "latitude": "12.9715990000"
+ }, 
+ {
+  "city": "Bengaluru\n", 
+  "pincode": "560011", 
+  "longitude": "77.5834339000", 
+  "location": "Jayanagar 4th Block \n", 
+  "address": "#36, 12th Main, 27th Cross, 4th Block Jayanagar", 
+  "latitude": "12.9285212000"
+ }, 
+ {
+  "city": "Bengaluru\n", 
+  "pincode": "560070", 
+  "longitude": "77.5497613000", 
+  "location": "Jayanagar 8th Block \n", 
+  "address": "No. 502, 40th Cross, 8th Block Jayanagar", 
+  "latitude": "12.9304325000"
+ }, 
+ {
+  "city": "Bengaluru\n", 
+  "pincode": "560009", 
+  "longitude": "77.5852247000", 
+  "location": "K.G. Road\n", 
+  "address": "#9, 1st Cross, K.G. Road\n", 
+  "latitude": "12.9190755000"
+ }, 
+ {
+  "city": "Bengaluru\r\n", 
+  "pincode": "560043", 
+  "longitude": "77.6407258000", 
+  "location": "Kalyan Nagar\r\n", 
+  "address": "No. 46, Subbayanapalya, 80 feet Road, Kalyan Nagar ", 
+  "latitude": "13.0245231000"
+ }, 
+ {
+  "city": "Bengaluru\n", 
+  "pincode": "560062", 
+  "longitude": "77.5945627000", 
+  "location": "Kanakapura Road\n", 
+  "address": "Raghuvanahalli, Opp: Yellamma Dasappa Institute of Technology, Kanakapura Road", 
+  "latitude": "12.9715987000"
+ }, 
+ {
+  "city": "Mandya\n", 
+  "pincode": "571429", 
+  "longitude": "76.8958000000", 
+  "location": null, 
+  "address": null, 
+  "latitude": "12.5242000000"
+ }, 
+ {
+  "city": "Bengaluru\n", 
+  "pincode": "560079", 
+  "longitude": "77.5348397000", 
+  "location": "Magadi Road\n", 
+  "address": null, 
+  "latitude": "12.9813569000"
+ }, 
+ {
+  "city": "Bengaluru\n", 
+  "pincode": "560001", 
+  "longitude": "77.6106054000", 
+  "location": "MG Road\n", 
+  "address": "#21/24, PID #76-1-21/14, Next to Trinity Metro Station, MG Road\n", 
+  "latitude": "12.9744340000"
+ }, 
+ {
+  "city": "Bengaluru\n", 
+  "pincode": "560071", 
+  "longitude": "77.6387316000", 
+  "location": "Pyramid at EGL\n", 
+  "address": "Pyramid Food Court, Embassy Golf Links Business Park(Off Intermediate Ring Road)\n", 
+  "latitude": "12.9609857000"
+ }, 
+ {
+  "city": "Bengaluru\n", 
+  "pincode": "560065", 
+  "longitude": "0.0000000000", 
+  "location": "Total Mall, Madivala\n", 
+  "address": "Shop No. 5 to 7, Madivala Commercial Plazza, Total Mall, Madivala", 
+  "latitude": "0.0000000000"
+ }, 
+ {
+  "city": "Kolar", 
+  "pincode": null, 
+  "longitude": null, 
+  "location": "Kolar", 
+  "address": "Venakatapura Village, Bangalore Tirupathi Highway", 
+  "latitude": null
+ }, 
+ {
+  "city": "Bengaluru", 
+  "pincode": "560047", 
+  "longitude": null, 
+  "location": "HSR", 
+  "address": "#907/1177,Sai Optamus Building, 5th main, 7th Sector, HSR Layout,", 
+  "latitude": null
+ }, 
+ {
+  "city": " Bangalore ", 
+  "pincode": "560094", 
+  "longitude": "77.5905780000", 
+  "location": "R T Nagar", 
+  "address": "No.16,BBMP PID No.98-170-160, New PID No.034-W0106-8,Matadahalli Main Road", 
+  "latitude": "13.0178540000"
+ }, 
+ {
+  "city": "Bangalore", 
+  "pincode": "560009", 
+  "longitude": null, 
+  "location": "Gandhi Nagar", 
+  "address": "No. 30/1 (PID No. 27-5-30/1) 5th Main Rd, Gandhi Nagar  ", 
+  "latitude": "12.9798440000"
+ }, 
+ {
+  "city": "Bangalore", 
+  "pincode": "560029", 
+  "longitude": "77.6249310000", 
+  "location": "Koramangala", 
+  "address": "No-14/14, CL Layout, Hosur Main Road, Koramangala, Next to Forum Mall,", 
+  "latitude": "12.9219600000"
+ }, 
+ {
+  "city": "Bangalore", 
+  "pincode": "560001", 
+  "longitude": null, 
+  "location": "High Court", 
+  "address": "High Court Food Court, High Court of Karnataka, High Court Buildings,  Opp. to Vidhana Saudha, Ambedkar Veedhi", 
+  "latitude": null
+ }, 
+ {
+  "city": "Bangalore", 
+  "pincode": "560095", 
+  "longitude": "77.6207310000", 
+  "location": "Koramangala - 8th block", 
+  "address": "Site no- 582,Pid no -67/6/582,8th block , koramangala", 
+  "latitude": "12.9405360000"
+ }, 
+ {
+  "city": " Udupi District", 
+  "pincode": "576220", 
+  "longitude": null, 
+  "location": "Udupi", 
+  "address": "No. 46/4P2, Car Street, Sri Mookambika Palace, Kollur Village, Kundapur Taluk,", 
+  "latitude": null
+ }, 
+ {
+  "city": "Bengaluru", 
+  "pincode": "560034", 
+  "longitude": "77.6296990000", 
+  "location": " 80 Feet Main Road Koramangala ", 
+  "address": "Vasudev Adigas Fast Food, No.642 ( PID No.68-6-642 ) 80 Feet Main Road 4th Block, Koramangala ", 
+  "latitude": "12.9341950000"
+ }, 
+ {
+  "city": "Bangalore", 
+  "pincode": "560078", 
+  "longitude": "77.5774800000", 
+  "location": "JP Nagar", 
+  "address": "Ward No 57,New BBMP No 178,15th cross,6th Phase", 
+  "latitude": "12.9065530000"
+ }, 
+ {
+  "city": "Bengaluru", 
+  "pincode": "560092", 
+  "longitude": "77.5873253000", 
+  "location": "Sahakarnagar", 
+  "address": "No. 850/4, Kodigehalli Village, Sahakarnagar", 
+  "latitude": "13.0657880000"
+ }, 
+ {
+  "city": "Bangaluru", 
+  "pincode": "560060", 
+  "longitude": "77.4799970000", 
+  "location": "HARISAI COMPLEX", 
+  "address": "No.138, MIG 1st main road, Kengeri Satellite town,", 
+  "latitude": "12.9196320000"
+ }, 
+ {
+  "city": "Bangalore", 
+  "pincode": "560084", 
+  "longitude": "77.6371460000", 
+  "location": "Kamanahalli", 
+  "address": "AVS Complex Ward Number 29, Chandra Giri Cross Road, Kalyan Nagar Main Road", 
+  "latitude": "13.0165770000"
+ }, 
+ {
+  "city": "Bangalore", 
+  "pincode": "560092", 
+  "longitude": "77.6780760000", 
+  "location": "Kagdasapura", 
+  "address": "#10 Nagappa Reddy Layout Kagdasapura C V Raman Nagar Landmark:- Near Ayyappa Temple / Railway Gate.", 
+  "latitude": "12.9817500000"
+ }, 
+ {
+  "city": "Bengaluru", 
+  "pincode": "560093", 
+  "longitude": "77.6036196000", 
+  "location": "Church Street", 
+  "address": "#44, SB Towers, MG Road", 
+  "latitude": "12.9756952000"
+ }, 
+ {
+  "city": "Mangalore", 
+  "pincode": "575001", 
+  "longitude": "74.8383250000", 
+  "location": "Mangalore", 
+  "address": "Forum Mangalore Mall\r\nPrestige Mangalore Retail Ventures Private Limited", 
+  "latitude": "12.8576300000"
+ }
+]
