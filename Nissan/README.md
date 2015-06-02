@@ -14,9 +14,9 @@ The scrawler depends on ``lxml``.
 As the site requires SNI support which is unavailable by default in Python 2, the following _must_ be installed:
 
 
-	* [pyOpenSSL](https://pypi.python.org/pypi/pyOpenSSL)
-	* [ndg-httpsclient](https://pypi.python.org/pypi/ndg-httpsclient)
-	* [pyasn1](https://pypi.python.org/pypi/pyasn1/)
+*[pyOpenSSL](https://pypi.python.org/pypi/pyOpenSSL)
+* [ndg-httpsclient](https://pypi.python.org/pypi/ndg-httpsclient)
+* [pyasn1](https://pypi.python.org/pypi/pyasn1/)
 
 Usage
 -----
