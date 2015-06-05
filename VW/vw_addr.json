@@ -1,0 +1,1865 @@
+[
+ {
+  "city": "Guntur", 
+  "name": "", 
+  "pin": "522001", 
+  "locality": "    Plot No 319, A-,Complex Center ", 
+  "state": "Andhra Pradesh", 
+  "address": "    Plot No 319, A-,Complex Center G- - 522001Andhra Pradesh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Hyderabad", 
+  "name": "    PPS Motors Pvt. Ltd.", 
+  "pin": "500 034", 
+  "locality": "Khajag-,R.R dist", 
+  "state": "Andhra Pradesh", 
+  "address": "    PPS Motors Pvt. Ltd.No:7-52/27, Prasanthi Hills,Khajag-,R.R distHyderabad - 500 034Andhra Pradesh", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Hyderabad", 
+  "name": "    Mody Auto Pvt Ltd", 
+  "pin": "500039", 
+  "locality": "RR District", 
+  "state": "Andhra Pradesh", 
+  "address": "    Mody A- Pvt LtdB- No. B-8/3, IDA Uppal, RR DistrictHyderabad - 500039Andhra Pradesh", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Hyderabad", 
+  "name": "    PPS Motors Pvt. Ltd.", 
+  "pin": "500034", 
+  "locality": "Near NTV Office, J- Hills,", 
+  "state": "Andhra Pradesh", 
+  "address": "    PPS Motors Pvt. Ltd.Plot No.565b, Road No.92,Near NTV Office, J- Hills,Hyderabad - 500034Andhra Pradesh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Hyderabad", 
+  "name": "    Mody Auto Pvt Ltd", 
+  "pin": "500035", 
+  "locality": "Ranga Reddy District", 
+  "state": "Andhra Pradesh", 
+  "address": "    Mody A- Pvt LtdPlot No: 08, Sy.No. 102 / 3 BNagole, Uppal MandalRanga Reddy DistrictHyderabad - 500035Andhra Pradesh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Hyderabad", 
+  "name": "    PPS Motors Pvt Ltd.", 
+  "pin": "500082", 
+  "locality": "Somajig-,", 
+  "state": "Andhra Pradesh", 
+  "address": "    PPS Motors Pvt Ltd.6-3-1090,Flat \u00e2\u0080\u0093 C, Gro- Floor,Raj bhavan Road,Somajig-,Hyderabad - 500082Andhra Pradesh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Hyderabad", 
+  "name": "", 
+  "pin": "500029", 
+  "locality": "Ward No \u00e2\u0080\u0093 3, Block No \u00e2\u0080\u0093 5", 
+  "state": "Andhra Pradesh", 
+  "address": "    SL Sq-, Ho- No 3-5-886/1Ward No \u00e2\u0080\u0093 3, Block No \u00e2\u0080\u0093 5Hyderabad - 500029Andhra Pradesh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Secunderabad", 
+  "name": "    PPS Motors Pvt. Ltd.", 
+  "pin": "500 055", 
+  "locality": "Ramraju Nagar, Jeedimetla.", 
+  "state": "Andhra Pradesh", 
+  "address": "    PPS Motors Pvt. Ltd.S- No 73(Part), Medchal Highway No 7Ramraju Nagar, Jeedimetla.Sec- - 500 055Andhra Pradesh", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Secunderabad", 
+  "name": "    PPS Motors Pvt. Ltd.", 
+  "pin": "500014", 
+  "locality": "S- No.53 p, Trim-,", 
+  "state": "Andhra Pradesh", 
+  "address": "    PPS Motors Pvt. Ltd.S- No.53 p, Trim-,Sec- - 500014Andhra Pradesh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Tirupati", 
+  "name": "", 
+  "pin": "517501", 
+  "locality": "Tir- ", 
+  "state": "Andhra Pradesh", 
+  "address": "    D.No. 3/ B3, A- Nagar, Renig- Road, Near Park Hotel,  District ChittoorTir- Tir- - 517501Andhra Pradesh", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Tirupati", 
+  "name": "    PPS Motors Pvt Ltd,", 
+  "pin": "517501", 
+  "locality": "Renig- road", 
+  "state": "Andhra Pradesh", 
+  "address": "    PPS Motors Pvt Ltd,Address-  No 3/B3, A- roadTir- - 517501Andhra Pradesh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Guwahati", 
+  "name": "", 
+  "pin": "781 011", 
+  "locality": "Maligaon,", 
+  "state": "Assam", 
+  "address": "    Opp. Railway Gate No.01,Maligaon,G- - 781 011Assam", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Guwahati", 
+  "name": "    SM Autokrafts Pvt. Ltd.", 
+  "pin": "781011", 
+  "locality": "Maligaon,", 
+  "state": "Assam", 
+  "address": "    SM A- Pvt. Ltd.Opp. Railway Gate No.01,Maligaon,G- - 781011Assam", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Patna", 
+  "name": "    Budha Automotives Pvt. Ltd.", 
+  "pin": "800008", 
+  "locality": "Didarganj,", 
+  "state": "Bihar", 
+  "address": "    B- A- Pvt. Ltd.Patna Bypass,Didarganj,Patna - 800008Bihar", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Chandigarh", 
+  "name": "    Swami Automotives Pvt. Ltd.", 
+  "pin": "160 002", 
+  "locality": "Phase-1,", 
+  "state": "Chandigarh", 
+  "address": "    Swami A- Pvt. Ltd.Plot No. 32, Ind- Area,Phase-1,Chandigarh - 160 002Chandigarh", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Chandigarh", 
+  "name": "    Swami Automotives Pvt. Ltd.", 
+  "pin": "160002", 
+  "locality": "Phase-1,", 
+  "state": "Chandigarh", 
+  "address": "    Swami A- Pvt. Ltd.Plot No. 32, Ind- Area,Phase-1,Chandigarh - 160002Chandigarh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Bilaspur", 
+  "name": "    Amarnath Motor Pvt. Ltd Bilaspur", 
+  "pin": "495001", 
+  "locality": "Sakari", 
+  "state": "Chhattisgarh", 
+  "address": "    Amarnath Motor Pvt. Ltd Bilasp-, Sakari-Pendrideah Bipass,SakariBilasp- - 495001Chhattisgarh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Raipur", 
+  "name": "    Amarnath Vehicles Private Limited", 
+  "pin": "492 099", 
+  "locality": "Mahadev Ghat Road.", 
+  "state": "Chhattisgarh", 
+  "address": "    Amarnath Vehicles Private LimitedRing Road No. 1, Village-Raip- Ghat Road.Raip- - 492 099Chhattisgarh", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Raipur", 
+  "name": "    Amarnath Motor Pvt. Ltd Raipur ", 
+  "pin": "492099", 
+  "locality": "Mahadev Ghat Road", 
+  "state": "Chhattisgarh", 
+  "address": "    Amarnath Motor Pvt. Ltd Raip- Ring Road No. 1, Village-Raip- Ghat RoadRaip- - 492099Chhattisgarh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Panaji", 
+  "name": "    Mohite Automotive Pvt. Ltd.", 
+  "pin": "403 002", 
+  "locality": "Nr. D- Residency, Talegaon,", 
+  "state": "Goa", 
+  "address": "    Mohite A- Pvt. Ltd.18 / 328 / 2, Shankarwadi,Nr. D- Residency, Talegaon,Panaji - 403 002Goa", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Panaji", 
+  "name": "    Mohite Automotive Pvt. Ltd.", 
+  "pin": "403521", 
+  "locality": "Bardez, ", 
+  "state": "Goa", 
+  "address": "    Mohite A- Pvt. Ltd.NH 17, Porvorim,Bardez, Panaji - 403521Goa", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Salcete", 
+  "name": "", 
+  "pin": "403722", 
+  "locality": "Verna,", 
+  "state": "Goa", 
+  "address": "    Plot No. L-26-A, Verna Ind- Estate - II, Verna,Salcete - 403722Goa", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Ahmedabad", 
+  "name": "    Automark Motors Pvt. Ltd", 
+  "pin": "382 210", 
+  "locality": "Ujala Circle, Sarkhej,", 
+  "state": "Gujarat", 
+  "address": "    A- Motors Pvt. LtdShivam Ind- Estate,Nr. Ekta Hotel, Ujala Circle, Sarkhej,Ahmedabad - 382 210G-", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Ahmedabad", 
+  "name": "    Parklane Cars Pvt Ltd.", 
+  "pin": "382 405", 
+  "locality": "Narol,", 
+  "state": "Gujarat", 
+  "address": "    Parklane Cars Pvt Ltd.Opp. Kashiram BRTS B- Stop,Near Hotel Prince,Narol Cross Road to Chandola Lake Road,Narol,Ahmedabad - 382 405G-", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Ahmedabad", 
+  "name": "    Automark Motors Pvt. Ltd", 
+  "pin": "382481", 
+  "locality": "S.G. Highway,", 
+  "state": "Gujarat", 
+  "address": "    A- Motors Pvt. Ltd206, Next To Sola Highway,Nr. G- High Co-,S.G. Highway,Ahmedabad - 382481G-", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Ahmedabad", 
+  "name": "    Parklane Cars Pvt. Ltd.", 
+  "pin": "380009", 
+  "locality": "Ashram Road", 
+  "state": "Gujarat", 
+  "address": "    Parklane Cars Pvt. Ltd.B-002, Sakar-7Nehru BridgeornerAshram RoadAhmedabad - 380009G-", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Gandhidham", 
+  "name": "    Automark Motors Pvt. Ltd.", 
+  "pin": "370201", 
+  "locality": "National Highway 8-A,", 
+  "state": "Gujarat", 
+  "address": "    A- Motors Pvt. Ltd.Plot No. 9, Sector No. 10 C,National Highway 8-A,Gandhidham - 370201G-", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Gandhidham", 
+  "name": "    Automark Motors Pvt. Ltd. ", 
+  "pin": "370201", 
+  "locality": "Gandhidham \u00e2\u0080\u0093 Kandla Highway", 
+  "state": "Gujarat", 
+  "address": "    A- Motors Pvt. Ltd. Plot No. 9, Sector 10 C, National Highway 8 A,Gandhidham \u00e2\u0080\u0093 Kandla HighwayGandhidham - 370201G-", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Mehsana", 
+  "name": "", 
+  "pin": "384002", 
+  "locality": "Nr.Promect Plastic,", 
+  "state": "Gujarat", 
+  "address": "    389/Dediyasan GIDC,Maan pharmac- Road,Nr.Promect Plastic,Mehsana - 384002G-", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Navsari", 
+  "name": "    Navjivan Auto Square Pvt. Ltd.", 
+  "pin": "396 040", 
+  "locality": "Green Road,", 
+  "state": "Gujarat", 
+  "address": "    Navjivan A- Sq- Pvt. Ltd.Opp. Swami Narayan Temple, Green Road,Navsari -  396 040G-", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Rajkot", 
+  "name": "    Automark Motors Pvt. Ltd", 
+  "pin": "360 004", 
+  "locality": "N.H.8-B, Vavdi.", 
+  "state": "Gujarat", 
+  "address": "    A- Motors Pvt. LtdGondal Road, Gondal Ahmedabad Bypass Circle,N.H.8-B, Vavdi.Rajkot - 360 004G-", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Rajkot", 
+  "name": "    Automark Motors Pvt. Ltd", 
+  "pin": "360004", 
+  "locality": "N.H.8-B, Vavdi,", 
+  "state": "Gujarat", 
+  "address": "    A- Motors Pvt. LtdGondal Road, Gondal Ahmedabad Bypass Circle,N.H.8-B, Vavdi,Rajkot - 360004G-", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Surat", 
+  "name": "    M/s Navjivan Auto square Pvt. Ltd,", 
+  "pin": "395001", 
+  "locality": "Devchand Nagar, Udhna,", 
+  "state": "Gujarat", 
+  "address": "    M/s Navjivan A- sq- Pvt. Ltd,Plot 54-58, Shivashish Ind- Society, Near SMC Udhna So- Zone, Devchand Nagar, Udhna,S- - 395001G-", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Surat", 
+  "name": "    Navjivan Auto Square Pvt. Ltd", 
+  "pin": "395007", 
+  "locality": "S- D- Road, Piplod,", 
+  "state": "Gujarat", 
+  "address": "    Navjivan A- Sq- Pvt. LtdNr. Kargil Chowk, B/S Vijay Sales,S- D- Road, Piplod,S- - 395007G-", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Vadodara", 
+  "name": "    Automark Motors Pvt. Ltd", 
+  "pin": "390 002", 
+  "locality": "Chhani Road.", 
+  "state": "Gujarat", 
+  "address": "    A- Motors Pvt. LtdOld National Highway No.8, Navayard,Chhani Road.Vadodara - 390 002G-", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Vadodara", 
+  "name": "    Automark Motors Pvt. Ltd", 
+  "pin": "390002", 
+  "locality": "Navayard, Chhani Road,", 
+  "state": "Gujarat", 
+  "address": "    A- Motors Pvt. LtdOld National Highway No.8Navayard, Chhani Road,Vadodara - 390002G-", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Vapi", 
+  "name": "    Automark Motors Pvt. Ltd.,", 
+  "pin": "396195", 
+  "locality": "First Phase, G.I.D.C,", 
+  "state": "Gujarat", 
+  "address": "    A- Motors Pvt. Ltd.,Plot No. 62, Opposite Best Paper Mill,First Phase, G.I.D.C,Vapi - 396195G-", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Vapi", 
+  "name": "    Automark Motors Pvt. Ltd.", 
+  "pin": "396195", 
+  "locality": "Plot No. 62, G.I.D.C. Phase I,", 
+  "state": "Gujarat", 
+  "address": "    A- Motors Pvt. Ltd.Plot No. 62, G.I.D.C. Phase I,Vapi - 396195G-", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Ambala City", 
+  "name": "    Velocity Automotives Pvt. Ltd.", 
+  "pin": "134 002", 
+  "locality": "Near Jandli Bridge,NH-1,GT Road,", 
+  "state": "Haryana", 
+  "address": "    Velocity A- Pvt. Ltd.Near Jandli Bridge,NH-1,GT Road,Ambala City - 134 002Haryana", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Ambala City", 
+  "name": "    Velocity Automotives Pvt.Ltd.", 
+  "pin": "134002", 
+  "locality": "NH-1, G T Road", 
+  "state": "Haryana", 
+  "address": "    Velocity A- Pvt.Ltd.Near Jandli BridgeNH-1, G T RoadAmbala City - 134002Haryana", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Hisar", 
+  "name": "    Sujeet Motors  Pvt. Ltd.", 
+  "pin": "125006", 
+  "locality": "Delhi Hisar bypass, NH-9", 
+  "state": "Haryana", 
+  "address": "    S- Motors  Pvt. Ltd.10 KM Stone, Delhi Hisar bypass, NH-9Hisar - 125006Haryana", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Karnal", 
+  "name": "    Delight Cars Pvt. Ltd.", 
+  "pin": "132 001", 
+  "locality": "G.T Road, NH-1,", 
+  "state": "Haryana", 
+  "address": "    Delight Cars Pvt. Ltd.117-118 Km Stone,G.T Road, NH-1,Karnal - 132 001Haryana", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Karnal", 
+  "name": "    Delight Cars Private Limited", 
+  "pin": "132001", 
+  "locality": "G.T Road, NH-1,", 
+  "state": "Haryana", 
+  "address": "    Delight Cars Private Limited117-118 Km Stone,G.T Road, NH-1,Karnal - 132001Haryana", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Panipat", 
+  "name": "    P P Autotek Pvt. Ltd.", 
+  "pin": "132103", 
+  "locality": "GT Road, ", 
+  "state": "Haryana", 
+  "address": "    P P A- Pvt. Ltd.Works Near Toll Plaza,GT Road, Panipat - 132103Haryana", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Rewari", 
+  "name": "    Mannu Motors Pvt. Ltd.", 
+  "pin": "123401", 
+  "locality": "147, Kila No 14,Delhi Road", 
+  "state": "Haryana", 
+  "address": "    Mannu Motors Pvt. Ltd.147, Kila No 14,Delhi RoadRewari - 123401Haryana", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Rewari", 
+  "name": "    Mannu Motors Pvt Ltd", 
+  "pin": "123401", 
+  "locality": "Delhi Road ", 
+  "state": "Haryana", 
+  "address": "    Mannu Motors Pvt LtdNear Rao T- Ram Stadi- Road Rewari - 123401Haryana", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Rohtak", 
+  "name": "    Badhwar Cars Pvt.Ltd.", 
+  "pin": "124001", 
+  "locality": "Near CSD Canteen", 
+  "state": "Haryana", 
+  "address": "    Badhwar Cars Pvt.Ltd.Sonepat Road,Near CSD CanteenRohtak - 124001Haryana", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Rohtak", 
+  "name": "    Badhwar Cars Pvt.Ltd.", 
+  "pin": "124001", 
+  "locality": "Near CSD Canteen", 
+  "state": "Haryana", 
+  "address": "    Badhwar Cars Pvt.Ltd.Sonepat Road,Near CSD CanteenRohtak - 124001Haryana", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Sirsa", 
+  "name": "    Sujeet Motors Pvt. Ltd.", 
+  "pin": "125055", 
+  "locality": "Dabwali Road, ", 
+  "state": "Haryana", 
+  "address": "    S- Motors Pvt. Ltd.Opp. Maharaja Palace,Dabwali Road, Sirsa - 125055Haryana", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Yamunanagar", 
+  "name": "    Punjab Velocity Pvt. Ltd.", 
+  "pin": "135003", 
+  "locality": "Jagadhri,", 
+  "state": "Haryana", 
+  "address": "    P- Velocity Pvt. Ltd.Ambala Saharanp- Road, opp. G- Palace,Near Aggarsain Chowk, NH-73,Jagadhri,Yam- - 135003Haryana", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Jammu  ", 
+  "name": "    Indus Autowheels Pvt. Ltd.", 
+  "pin": "180 006", 
+  "locality": "NH-1A, By Pass Road,", 
+  "state": "Jammu and Kashmir", 
+  "address": "    Ind- A- Pvt. Ltd.NH-1A, By Pass Road,Jammu   - 180 006Jammu and Kashmir", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Jammu  ", 
+  "name": "    Indus Autowheels Pvt. Ltd.", 
+  "pin": "180006", 
+  "locality": "NH-1A, By Pass Road,", 
+  "state": "Jammu and Kashmir", 
+  "address": "    Ind- A- Pvt. Ltd.NH-1A, By Pass Road,Jammu   - 180006Jammu and Kashmir", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Jamshedpur ", 
+  "name": "    Imperial Automobiles Pvt.Ltd.", 
+  "pin": "831013", 
+  "locality": "Adidyap- Ind- Area", 
+  "state": "Jharkhand ", 
+  "address": "    Imperial A- Pvt.Ltd.Plot :- NS 2, Phase -2, Adidyap- Ind- AreaJamshedp-  - 831013 Jharkhand ", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Ranchi", 
+  "name": "    Sai Autowheels Pvt. Ltd.", 
+  "pin": "834005", 
+  "locality": "Piska More, Ratu Road,", 
+  "state": "Jharkhand ", 
+  "address": "    Sai A- Pvt. Ltd.Piska More, Ratu Road,Ranchi - 834005Jharkhand ", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Bangalore", 
+  "name": "    Bangalore Motors Pvt Ltd", 
+  "pin": "560 057", 
+  "locality": "Hesaragatta Main Road", 
+  "state": "Karnataka", 
+  "address": "    Bangalore Motors Pvt Ltd(Volkswagen Palace Cross)#69/2, Mallasandra VillageHesaragatta Main RoadBangalore - 560 057Karnataka", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Bangalore", 
+  "name": "    Elite Motors Pvt Ltd", 
+  "pin": "560068", 
+  "locality": "Singasandra Village,", 
+  "state": "Karnataka", 
+  "address": "    Elite Motors Pvt Ltd104/1, 13th Km, Hos- Road,Singasandra Village,Bangalore - 560068Karnataka", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Bangalore", 
+  "name": "    APPLE AUTO PVT LTD.", 
+  "pin": "560016", 
+  "locality": "B. Narayanap-, Whitefield,", 
+  "state": "Karnataka", 
+  "address": "    APPLE AUTO PVT LTD.102/1, Shanthak- Layo-, O- Ring Road,B. Narayanap-, Whitefield,Bangalore - 560016Karnataka", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Bangalore", 
+  "name": "    Bangalore Motors", 
+  "pin": "560010", 
+  "locality": "4th, 'M'- Block, Rajajinagar,", 
+  "state": "Karnataka", 
+  "address": "    Bangalore MotorsNew Corporation No: 1/1,Kodi basavanna temple street,4th, 'M'- Block, Rajajinagar,Bangalore - 560010Karnataka", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Bangalore", 
+  "name": "    Elite Motors", 
+  "pin": "560 100", 
+  "locality": "Hosa Road J-, Hos- Main Road", 
+  "state": "Karnataka", 
+  "address": "    Elite Motors49/8-9-10, Singasandra Village,Hosa Road J-, Hos- Main RoadBangalore - 560 100Karnataka", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Bangalore", 
+  "name": "    Bangalore Motors Pvt. Ltd.", 
+  "pin": "560020", 
+  "locality": "Near Bangalore Palace Main Entrance,", 
+  "state": "Karnataka", 
+  "address": "    Bangalore Motors Pvt. Ltd.1, Palace Cross Road,Near Bangalore Palace Main Entrance,Bangalore - 560020Karnataka", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Bangalore", 
+  "name": "    Apple Auto Pvt.Ltd.", 
+  "pin": "560016", 
+  "locality": "O- Ring Road, Whitefield Area,", 
+  "state": "Karnataka", 
+  "address": "    Apple A- Pvt.Ltd.#102/1, Shantha K- Layo-, B. Narayanp- Ring Road, Whitefield Area,Bangalore - 560016Karnataka", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Bangalore", 
+  "name": "    Elite Motors Pvt. Ltd. ", 
+  "pin": "560100", 
+  "locality": "Singasandra Village,", 
+  "state": "Karnataka", 
+  "address": "    Elite Motors Pvt. Ltd. 104/1, 13th Km, Hos- Road,Singasandra Village,Bangalore - 560100Karnataka", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Belgaum", 
+  "name": "    Kumar Motor Corp. Pvt. Ltd.,", 
+  "pin": "590010", 
+  "locality": "Ba- Road, Near Hindalco,", 
+  "state": "Karnataka", 
+  "address": "    K- Motor Corp. Pvt. Ltd.,Plot No.5-B, Kangrali Ind- Area,Ba- Road, Near Hindalco,Belga- - 590010Karnataka", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Belgaum", 
+  "name": "    Kumar Motor Corporation Pvt.Ltd.", 
+  "pin": "590010", 
+  "locality": "Near Hindalco, ", 
+  "state": "Karnataka", 
+  "address": "    K- Motor Corporation Pvt.Ltd.5 B, Kangrali Ind- Area,Ba- Road,Near Hindalco, Belga- - 590010Karnataka", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Hubli", 
+  "name": "    Kumar Motor Corporation Pvt.Ltd.", 
+  "pin": "580 025", 
+  "locality": "Amargol H--Dharwad Road.", 
+  "state": "Karnataka", 
+  "address": "    K- Motor Corporation Pvt.Ltd.Address: No.55/1-B,Opposite, A.P.M.C., Amargol H--Dharwad Road.H- - 580 025Karnataka", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Hubli", 
+  "name": "    Kumar Motor Corporation Pvt.Ltd.", 
+  "pin": "580025", 
+  "locality": "Amargol H--Dharwad Road.", 
+  "state": "Karnataka", 
+  "address": "    K- Motor Corporation Pvt.Ltd.No.55/1-B,Opposite, A.P.M.C.,Amargol H--Dharwad Road.H- - 580025Karnataka", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Mangalore", 
+  "name": "    Bharath Vehicle Works Pvt. Ltd.", 
+  "pin": "575 007", 
+  "locality": "Kann-,", 
+  "state": "Karnataka", 
+  "address": "    Bharath Vehicle Works Pvt. Ltd.NH 48, NH48, Bangalore \u00e2\u0080\u0093 Mangalore Road,Kann-,Mangalore - 575 007Karnataka", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Mangalore", 
+  "name": "    Bharath Vehicle Works Pvt. Ltd.", 
+  "pin": "575008", 
+  "locality": "Yeyyedi,  Mangalore \u00e2\u0080\u0093 575008.", 
+  "state": "Karnataka", 
+  "address": "    Bharath Vehicle Works Pvt. Ltd.Volkswagen Mangalore,D.No. 3-9/2-4, Airport Road, Yeyyedi,  Mangalore \u00e2\u0080\u0093 575008.Mangalore - 575008Karnataka", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Mysore", 
+  "name": "    K.P.R. Cars Pvt. Ltd.", 
+  "pin": "570017", 
+  "locality": "Mysore Tal-,", 
+  "state": "Karnataka", 
+  "address": "    K.P.R. Cars Pvt. Ltd.215/1, Hinkal Village, Kasaba Hobli,Mysore Tal-,Mysore - 570017Karnataka", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Udupi", 
+  "name": "    Bharath Vehicle Works Pvt. Ltd.", 
+  "pin": "576102", 
+  "locality": "Kadiyali", 
+  "state": "Karnataka", 
+  "address": "    Bharath Vehicle Works Pvt. Ltd.Lakshmi Narasimha Towers,Next to BookmarkKadiyaliUd- - 576102Karnataka", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Udupi", 
+  "name": "    Bharath Vehicle Works  Pvt. Ltd.", 
+  "pin": "576102", 
+  "locality": "Kadiyali", 
+  "state": "Karnataka", 
+  "address": "    Bharath Vehicle Works  Pvt. Ltd.Lakshmi Narasimha Towers,Next to BookmarkKadiyaliUd- - 576102Karnataka", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Calicut", 
+  "name": "    Phoenix Cars India Pvt. Ltd.", 
+  "pin": "673 005", 
+  "locality": "Kann- Road,", 
+  "state": "Kerala", 
+  "address": "    Phoenix Cars India Pvt. Ltd.Kann- Road,Calic- - 673 005Kerala", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Calicut", 
+  "name": "    Phoenix Cars India Private Limited", 
+  "pin": "673021", 
+  "locality": "NH-17, Kann- Road ,Pavangad,", 
+  "state": "Kerala", 
+  "address": "    Phoenix Cars India Private LimitedNH-17, Kann- Road ,Pavangad,Calic- - 673021Kerala", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Cochin", 
+  "name": "    Evm  Passngers Cars  I  Pvt. Ltd.", 
+  "pin": "682 304", 
+  "locality": "Kannadikkadu, Maradu,", 
+  "state": "Kerala", 
+  "address": "    Evm  Passngers Cars  I  Pvt. Ltd.B- No. II/4C, National Highway,Kannadikkadu, Maradu,Cochin - 682 304Kerala", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Cochin", 
+  "name": "    EVM Motors & Vehicles India Pvt.Ltd.", 
+  "pin": "682304", 
+  "locality": "Kannadikkadu, Maradu,", 
+  "state": "Kerala", 
+  "address": "    EVM Motors & Vehicles India Pvt.Ltd.B- No.II/4C, National Highway,Kannadikkadu, Maradu,Cochin - 682304Kerala", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Cochin", 
+  "name": "    KTC CARS INDIA PVT LTD", 
+  "pin": "682022", 
+  "locality": "N.H. 47, So- Kalamassery", 
+  "state": "Kerala", 
+  "address": "    KTC CARS INDIA PVT LTDXXIII / 649 A8,A9, N.H. 47, So- KalamasseryCochin - 682022Kerala", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Kannur", 
+  "name": "    Phoenix Cars India Pvt. Ltd.", 
+  "pin": "670672", 
+  "locality": "Near Nadal  Railway Gate,", 
+  "state": "Kerala", 
+  "address": "    Phoenix Cars India Pvt. Ltd.Chala Nadal Bypass,Near Nadal  Railway Gate,Kann- - 670672Kerala", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Kochi", 
+  "name": "    EVM Passenger cars India Pvt.Ltd", 
+  "pin": "682034", 
+  "locality": "Manj- kavala, NH 17,Cheranalloor PO,", 
+  "state": "Kerala", 
+  "address": "    EVM Passenger cars India Pvt.LtdBldg no:3/276A, Behind L- MallManj- kavala, NH 17,Cheranalloor PO,Kochi - 682034Kerala", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Kollam", 
+  "name": "    EVM Passenger Cars India Pvt.Ltd.", 
+  "pin": "691008", 
+  "locality": "Uliyakovil, Kadapakada PO", 
+  "state": "Kerala", 
+  "address": "    EVM Passenger Cars India Pvt.Ltd.KP XII/1012,Old Town Limit Road,Uliyakovil, Kadapakada POKollam - 691008Kerala", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Kollam", 
+  "name": "    EVM Passenger Cars India Pvt.Ltd.", 
+  "pin": "691004", 
+  "locality": "2nd Mile stone, Kilikolloor PO,", 
+  "state": "Kerala", 
+  "address": "    EVM Passenger Cars India Pvt.Ltd.KP XII/607 C, Manzoor M- B-,2nd Mile stone, Kilikolloor PO,Kollam - 691004Kerala", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Kottayam", 
+  "name": "    Evm  Passngers Cars  I  Pvt. Ltd.", 
+  "pin": "682304", 
+  "locality": "Cochin", 
+  "state": "Kerala", 
+  "address": "    Evm  Passngers Cars  I  Pvt. Ltd.B- No.II/4C,National Highway,Kannadikkad- - 682304Kerala", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Kottayam", 
+  "name": "    EVM Motors & Vehicles India Pvt.Ltd.", 
+  "pin": "686016", 
+  "locality": "Adichira,Thellakom", 
+  "state": "Kerala", 
+  "address": "    EVM Motors & Vehicles India Pvt.Ltd.Bldg no:X1/ 14, Opp.Opp:St. Mary\u00e2\u0080\u0099s Chapel,Adichira,ThellakomKottayam - 686016Kerala", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Pathanamthitta", 
+  "name": "    EVM Passenger Cars India Pvt. Ltd.", 
+  "pin": "689668", 
+  "locality": "Ch-,", 
+  "state": "Kerala", 
+  "address": "    EVM Passenger Cars India Pvt. Ltd.Thoppil B-,Ch-,Pathanamthitta - 689668Kerala", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Perumbavoor", 
+  "name": "    EVM Passenger Cars India Pvt. Ltd.", 
+  "pin": "683542", 
+  "locality": "P-, P.O.", 
+  "state": "Kerala", 
+  "address": "    EVM Passenger Cars India Pvt. Ltd.B- No-404C, MC Road,Mangelippady, P-, P.O.Per- - 683542Kerala", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Thiruvalla", 
+  "name": "", 
+  "pin": "689107", 
+  "locality": "IZHINJILLAM,MC ROAD", 
+  "state": "Kerala", 
+  "address": "    BUILDING NO.190-F/XIZHINJILLAM,MC ROADThir- - 689107Kerala", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Thiruvanathapuram", 
+  "name": "    Evm Passenger Cars India Pvt. Ltd.", 
+  "pin": "695 029", 
+  "locality": "N.H. Bypass, Venpalavattom, Anayara P.O.", 
+  "state": "Kerala", 
+  "address": "    Evm Passenger Cars India Pvt. Ltd.N.H. Bypass, Venpalavattom, Anayara P.O.Thir- - 695 029Kerala", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Thiruvanathapuram", 
+  "name": "    EVM Passenger Cars India Pvt. Ltd.", 
+  "pin": "695029", 
+  "locality": "Anayara P.O,", 
+  "state": "Kerala", 
+  "address": "    EVM Passenger Cars India Pvt. Ltd.N.H. Bypass, Venpalavattom, Anayara P.O,Thir- - 695029Kerala", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Thrissur", 
+  "name": "    Phoenix Cars India Pvt. Ltd", 
+  "pin": "680 751", 
+  "locality": "MANNUTHI BYPASS, NADATHARA P.O.", 
+  "state": "Kerala", 
+  "address": "    Phoenix Cars India Pvt. LtdAddress: 12/493/1, NH-17, MANNUTHI BYPASS, NADATHARA P.O.Thriss- - 680 751Kerala", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Thrissur", 
+  "name": "    Phoenix Cars India Pvt.Ltd.", 
+  "pin": "680751", 
+  "locality": "Nadathara P.O.", 
+  "state": "Kerala", 
+  "address": "    Phoenix Cars India Pvt.Ltd.12/493/1, NH-17, Mann- BypassNadathara P.O.Thriss- - 680751Kerala", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Bhopal", 
+  "name": "    Shirani Automotive Pvt. Ltd.", 
+  "pin": "462 026", 
+  "locality": "Hoshangabad Road,", 
+  "state": "Madhya Pradesh", 
+  "address": "    Shirani A- Pvt. Ltd.4056, Ahmedp-, Near Mosq-,Hoshangabad Road,Bhopal - 462 026Madhya Pradesh", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Bhopal", 
+  "name": "    Shirani Automotive Pvt. Ltd.", 
+  "pin": "462026", 
+  "locality": "Hoshangabad Road,", 
+  "state": "Madhya Pradesh", 
+  "address": "    Shirani A- Pvt. Ltd.4056, Ahmedp-, Near Mosq-,Hoshangabad Road,Bhopal - 462026Madhya Pradesh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Gwalior", 
+  "name": "    Samarth Cars Pvt. Ltd.", 
+  "pin": "474011", 
+  "locality": "Jhansi Road", 
+  "state": "Madhya Pradesh", 
+  "address": "    Samarth Cars Pvt. Ltd.Jhansi RoadGwalior - 474011Madhya Pradesh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Indore", 
+  "name": "    Shirani Automotive Pvt. Ltd.", 
+  "pin": "452 010", 
+  "locality": "Near Las- Police Station,", 
+  "state": "Madhya Pradesh", 
+  "address": "    Shirani A- Pvt. Ltd.20/2, A.B. Road, Dewas Naka,Near Las- Police Station,Indore - 452 010Madhya Pradesh", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Indore", 
+  "name": "    Shirani Automotive Pvt. Ltd.", 
+  "pin": "452010", 
+  "locality": "Near Las- Police Station.", 
+  "state": "Madhya Pradesh", 
+  "address": "    Shirani A- Pvt. Ltd.20/2, A.B. Road, Dewas Naka,Near Las- Police Station.Indore - 452010Madhya Pradesh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Jabalpur", 
+  "name": "    Frontier Cars (I) Pvt. Ltd.", 
+  "pin": "482003", 
+  "locality": "By Pass Crossing,P.O. K-,", 
+  "state": "Madhya Pradesh", 
+  "address": "    Frontier Cars (I) Pvt. Ltd.(A Frontier Gro- Company)Bhedaghat Road,By Pass Crossing,P.O. K-,Jabalp- - 482003Madhya Pradesh", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Jabalpur", 
+  "name": "    Frontier Cars (I) Pvt. Ltd.", 
+  "pin": "482003", 
+  "locality": "By Pass Crossing,P.O. K-,", 
+  "state": "Madhya Pradesh", 
+  "address": "    Frontier Cars (I) Pvt. Ltd.(A Frontier Gro- Company)Bhedaghat Road,By Pass Crossing,P.O. K-,Jabalp- - 482003Madhya Pradesh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Ahmednagar", 
+  "name": "    Park Lane Cars Pvt. Ltd.", 
+  "pin": "414001", 
+  "locality": "Ahmednagar, Maharashtra.", 
+  "state": "Maharashtra", 
+  "address": "    Park Lane Cars Pvt. Ltd.No. B -10/1/1, Ahmednagar, MIDCAhmednagar, Maharashtra.Ahmednagar - 414001Maharashtra", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Aurangabad", 
+  "name": "    Dhoot Motors Ltd", 
+  "pin": "431 210", 
+  "locality": "Plot No.E-37, Midc, Chikalthana,", 
+  "state": "Maharashtra", 
+  "address": "    Dhoot Motors LtdPlot No.E-37, Midc, Chikalthana,A- - 431 210Maharashtra", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Aurangabad", 
+  "name": "    Dhoot Motors Ltd", 
+  "pin": "431005", 
+  "locality": "Adalat Road,", 
+  "state": "Maharashtra", 
+  "address": "    Dhoot Motors LtdABC Complex, Opp. District Co-,Adalat Road,A- - 431005Maharashtra", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Dhule", 
+  "name": "    Aakash Wheels Pvt. Ltd.", 
+  "pin": "424001", 
+  "locality": "Near G-, ", 
+  "state": "Maharashtra", 
+  "address": "    Aakash Wheels Pvt. Ltd.S- No. 189, Plot No.13-14, Old M-\u00e2\u0080\u0093Agra Highway, Near G-, Dh- - 424001Maharashtra", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Kolhapur", 
+  "name": "    Unique Automobiles (Kop) Pvt. Ltd.", 
+  "pin": "416 122", 
+  "locality": "Shiroli,", 
+  "state": "Maharashtra", 
+  "address": "    Uniq- A- (Kop) Pvt. Ltd.122/1, P- \u00e2\u0080\u0093Bangalore Road,Shiroli,Kolhap- - 416 122Maharashtra", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Kolhapur", 
+  "name": "    Unique Automobiles (Kop) Pvt. Ltd.", 
+  "pin": "416122", 
+  "locality": "Shiroli,", 
+  "state": "Maharashtra", 
+  "address": "    Uniq- A- (Kop) Pvt. Ltd.122/1, P-\u00e2\u0080\u0093Bangalore Road,Shiroli,Kolhap- - 416122Maharashtra", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Mumbai", 
+  "name": "    Sewri Cross Rd., Opp. R.A. Kidwai Rd., next to Arya Honda, Sewree.", 
+  "pin": "400 015", 
+  "locality": "    Sewri Cross Rd., Opp. R.A. Kidwai Rd., next to Arya Honda, Sewree.", 
+  "state": "Maharashtra", 
+  "address": "    Sewri Cross Rd., Opp. R.A. Kidwai Rd., next to Arya Honda, Sewree.M- - 400 015Maharashtra", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Mumbai", 
+  "name": "    Automark Motors Pvt. Ltd.", 
+  "pin": "400 069", 
+  "locality": "Andheri East,", 
+  "state": "Maharashtra", 
+  "address": "    A- Motors Pvt. Ltd.15, Parsi Panchayat Road,Andheri East,M- - 400 069Maharashtra", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Mumbai", 
+  "name": "", 
+  "pin": "400 070", 
+  "locality": "    Amar Enterprises compo-, B- complex n- 117, Kale Marg, Off LBS Marg, Kamani K- (W),", 
+  "state": "Maharashtra", 
+  "address": "    Amar Enterprises compo-, B- complex n- 117, Kale Marg, Off LBS Marg, Kamani K- (W),M- - 400 070Maharashtra", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Mumbai", 
+  "name": "", 
+  "pin": "400015", 
+  "locality": "    New India Oil Mills, Indra Nagar, \"P\" Shed, Plot No. RR.1929, Unit No. 4, Next to Skoda workshop, Sewri Reay Rd, ", 
+  "state": "Maharashtra", 
+  "address": "    New India Oil Mills, Indra Nagar, \"P\" Shed, Plot No. RR.1929, Unit No. 4, Next to Skoda workshop, Sewri Reay Rd, M- - 400015Maharashtra", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Mumbai", 
+  "name": "    Shaman Cars Pvt. Ltd.", 
+  "pin": "400025", 
+  "locality": "Prabhadevi,", 
+  "state": "Maharashtra", 
+  "address": "    Shaman Cars Pvt. Ltd.S- Apartments, Shankar Ghanekar Marg,Prabhadevi,M- - 400025Maharashtra", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Mumbai", 
+  "name": "    Automark Motors Pvt. Ltd.", 
+  "pin": "400053", 
+  "locality": "M- - 400053", 
+  "state": "Maharashtra", 
+  "address": "    A- Motors Pvt. Ltd.9/10/11, Kartik Complex, Gr. Floor, Opp Laxmi Indl. Est. ,  New Link RD, Andheri WestM- - 400053M- - 400053Maharashtra", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Mumbai", 
+  "name": "    Autobahn Automotive Pvt. Ltd. ", 
+  "pin": "400074", 
+  "locality": "Chemb-,", 
+  "state": "Maharashtra", 
+  "address": "    A- A- Pvt. Ltd. 19 A/B, 20A/B, Bezzola Complex,S- Nagar, Sion Trombay Road,Chemb-,M- - 400074Maharashtra", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Mumbai", 
+  "name": "    Mody Autocorp Private Limited", 
+  "pin": "400067", 
+  "locality": "Kandivili West,", 
+  "state": "Maharashtra", 
+  "address": "    Mody A- Private LimitedUnit No. 5,6 Shiv Shr- Co-operative Ho- Society , Mahavir Nagar, Link Road, Kandivili West,M- - 400067Maharashtra", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Nagpur", 
+  "name": "    Sadiq Motors Pvt Ltd", 
+  "pin": "440 028", 
+  "locality": "Hingna Midc.", 
+  "state": "Maharashtra", 
+  "address": "    Sadiq Motors Pvt LtdC-5/1, Main Estate Road,Hingna Midc.Nagp- - 440 028Maharashtra", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Nagpur", 
+  "name": "    Sadiq Motors Pvt Ltd", 
+  "pin": "440028", 
+  "locality": "Hingna Midc,", 
+  "state": "Maharashtra", 
+  "address": "    Sadiq Motors Pvt LtdC-5/1, Main Estate Road,Hingna Midc,Nagp- - 440028Maharashtra", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Nasik", 
+  "name": "    Shreekripa Automobiles Pvt Ltd", 
+  "pin": "422 010", 
+  "locality": "Ambad.", 
+  "state": "Maharashtra", 
+  "address": "    Shreekripa A- Pvt LtdP11/1,Ambad,Midc, New M- Agra RoadAmbad.Nasik - 422 010Maharashtra", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Nasik", 
+  "name": "    Shreekripa Automobiles Pvt Ltd", 
+  "pin": "422010", 
+  "locality": "Ambad,", 
+  "state": "Maharashtra", 
+  "address": "    Shreekripa A- Pvt LtdP11/1,Ambad,Midc, New M- Agra Road,Ambad,Nasik - 422010Maharashtra", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Navi Mumbai", 
+  "name": "    Autobahn Automotive Pvt. Ltd. ", 
+  "pin": "400 706", 
+  "locality": "K-, Ner-,", 
+  "state": "Maharashtra", 
+  "address": "    A- A- Pvt. Ltd. Plot No D 396/1, TTC Ind- Area,K-, Ner-,Navi M- - 400 706Maharashtra", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Navi Mumbai", 
+  "name": "    Autobahn Automotive Pvt. Ltd.", 
+  "pin": "400706", 
+  "locality": "Sion Panvel Highway, Ner-,", 
+  "state": "Maharashtra", 
+  "address": "    A- A- Pvt. Ltd.Plot No. 45/46, Sector 1, Near J- Nagar Railway Station,Sion Panvel Highway, Ner-,Navi M- - 400706Maharashtra", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Pune", 
+  "name": "    Vidyut Motors Pvt. Ltd.", 
+  "pin": "411 005", 
+  "locality": "Shivaji Road, Next To Mangala Theatre.", 
+  "state": "Maharashtra", 
+  "address": "    Vidy- Motors Pvt. Ltd.110/ 7-8 Shivajinagar, Opp, P.M.C. B- Road, Next To Mangala Theatre.P- - 411 005Maharashtra", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Pune", 
+  "name": "", 
+  "pin": "411 057", 
+  "locality": "M- Bangalore Highway.", 
+  "state": "Maharashtra", 
+  "address": "    S- No. 142, Wakad,M- Bangalore Highway.P- - 411 057Maharashtra", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Pune", 
+  "name": "    Vidyut Motors Pvt. Ltd.", 
+  "pin": "411005", 
+  "locality": "Shivaji Road, Next To Mangala Theatre,", 
+  "state": "Maharashtra", 
+  "address": "    Vidy- Motors Pvt. Ltd.110/ 7-8 Shivajinagar, Opp, P.M.C. B- Road, Next To Mangala Theatre,P- - 411005Maharashtra", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Pune", 
+  "name": "    B. U. Bhandari Automotive Pvt. Ltd.", 
+  "pin": "411008", 
+  "locality": "Pashan Road, Pashan,", 
+  "state": "Maharashtra", 
+  "address": "    B. U. Bhandari A- Pvt. Ltd.A-3,Abhimanshree Society,Pashan Road, Pashan,P- - 411008Maharashtra", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Sangli", 
+  "name": "    Unique Automobiles (Kolhapur) Pvt.Ltd.", 
+  "pin": "416416", 
+  "locality": "Sangli-Kolhap- Road,", 
+  "state": "Maharashtra", 
+  "address": "    Uniq- A- (Kolhap-) Pvt.Ltd.485/3A- 3B, Opp Akashwani Kendra, Sangli-Kolhap- Road,Sangli - 416416Maharashtra", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Satara", 
+  "name": "    Unique Automobiles (Kolhapur) Pvt.Ltd.", 
+  "pin": "415003", 
+  "locality": "Khed Chowk, NH-4, ", 
+  "state": "Maharashtra", 
+  "address": "    Uniq- A- (Kolhap-) Pvt.Ltd.Dalvi Complex ,Near Hotel Pranjali ,Khed Chowk, NH-4, Satara - 415003Maharashtra", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Solapur", 
+  "name": "    ABS Wheels Pvt. Ltd.", 
+  "pin": "413255", 
+  "locality": "Solap- P- Road, Solap-", 
+  "state": "Maharashtra", 
+  "address": "    ABS Wheels Pvt. Ltd.G- No. 304/2B,Kondi, Tal North, Solap- P- Road, Solap- - 413255Maharashtra", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Thane", 
+  "name": "", 
+  "pin": "400 607", 
+  "locality": "    Global Gallarie Motors Pvt. Ltd.\r\nPlot No. 1, Mohan Mill Compo-,\r\nGhodb- Road, Opp. Levis Showroom...", 
+  "state": "Maharashtra", 
+  "address": "    Global Gallarie Motors Pvt. Ltd.\r\nPlot No. 1, Mohan Mill Compo-,\r\nGhodb- Road, Opp. Levis Showroom...Thane - 400 607Maharashtra", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Thane", 
+  "name": "    Punjab Foundry, Kashimira, ", 
+  "pin": "401104", 
+  "locality": "Opposite Classic St-, ", 
+  "state": "Maharashtra", 
+  "address": "    P- Fo-, Kashimira, Mira Road (East), Mira Bhayandar, Opposite Classic St-, Thane - 401104Maharashtra", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Thane", 
+  "name": "    Global Gallarie Motors Pvt. Ltd.", 
+  "pin": "400607", 
+  "locality": "Ghodb- Road, Opp. Levi's Showroom.", 
+  "state": "Maharashtra", 
+  "address": "    Global Gallarie Motors Pvt. Ltd.Plot No. 1, Mohan Mill Compo-,Ghodb- Road, Opp. Levi's Showroom.Thane - 400607Maharashtra", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Faridabad", 
+  "name": "    Broadway Autoworld Pvt. Ltd.", 
+  "pin": "121 003", 
+  "locality": "Main Math- Road", 
+  "state": "New Delhi & NCR", 
+  "address": "    Broadway A- Pvt. Ltd.15/1, Milestone, Main Math- RoadFaridabad - 121 003New Delhi & NCR", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Faridabad", 
+  "name": "    Broadway Autoworld Pvt. Ltd.", 
+  "pin": "121003", 
+  "locality": "Main Math- Road", 
+  "state": "New Delhi & NCR", 
+  "address": "    Broadway A- Pvt. Ltd.15/1, Milestone, Main Math- RoadFaridabad - 121003New Delhi & NCR", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Gurgaon", 
+  "name": "    Frontier Autoworld Pvt. Ltd.", 
+  "pin": "122 002", 
+  "locality": "Nr. Aardee City, Sector-52,", 
+  "state": "New Delhi & NCR", 
+  "address": "    Frontier A- Pvt. Ltd.Khasra No. 2482-84,Nr. Aardee City, Sector-52,G- - 122 002New Delhi & NCR", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Gurgaon", 
+  "name": "    Frontier Autoworld Pvt. Ltd.", 
+  "pin": "122001", 
+  "locality": "G-1, Vatika City Point, M.G. Road,", 
+  "state": "New Delhi & NCR", 
+  "address": "    Frontier A- Pvt. Ltd.G-1, Vatika City Point, M.G. Road,G- - 122001New Delhi & NCR", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "New Delhi", 
+  "name": "    World Class Automobiles Pvt. Ltd.", 
+  "pin": "110 015", 
+  "locality": "Near Moti Nagar Metro Station,", 
+  "state": "New Delhi & NCR", 
+  "address": "    World Class A- Pvt. Ltd.68/3, Near Moti nagar,Najaffgarh road, Moti nagar,Near Moti Nagar Metro Station,New Delhi - 110 015New Delhi & NCR", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "New Delhi", 
+  "name": "    Atrica Automobiles PVT LTD", 
+  "pin": "201301", 
+  "locality": "D-197, Sector-63, Noida", 
+  "state": "New Delhi & NCR", 
+  "address": "    Atrica A- PVT LTDD-197, Sector-63, NoidaNew Delhi - 201301New Delhi & NCR", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "New Delhi", 
+  "name": "    Frontier Autoworld Pvt. Ltd.", 
+  "pin": "110 044", 
+  "locality": "Mohan Cooperative Ind- Estate.", 
+  "state": "New Delhi & NCR", 
+  "address": "    Frontier A- Pvt. Ltd.J3, B1 Extension, Mohan Cooperative Ind- Estate.New Delhi - 110 044New Delhi & NCR", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "New Delhi", 
+  "name": "    World Class Automobiles Pvt. Ltd.", 
+  "pin": "110 015", 
+  "locality": "Near Moti Nagar Metro Station,", 
+  "state": "New Delhi & NCR", 
+  "address": "    World Class A- Pvt. Ltd.68/3,Near Moti Nagar,Najafgarh Road, Moti Nagar,Near Moti Nagar Metro Station,New Delhi - 110 015New Delhi & NCR", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "New Delhi", 
+  "name": "    Globus Cars Pvt. Ltd.", 
+  "pin": "110033", 
+  "locality": "Near Jahangir P- Metro Station", 
+  "state": "New Delhi & NCR", 
+  "address": "    Glob- Cars Pvt. Ltd.34 SSI Ind- AreaNear Jahangir P- Metro StationNew Delhi - 110033New Delhi & NCR", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "New Delhi", 
+  "name": "    Frontier Autoworld Pvt. Ltd.", 
+  "pin": "110062", 
+  "locality": "Mehra- Badarp- Road", 
+  "state": "New Delhi & NCR", 
+  "address": "    Frontier A- Pvt. Ltd.730 Lal K- (Okhla) Mehra- Badarp- RoadNew Delhi - 110062New Delhi & NCR", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "New Delhi", 
+  "name": "    Automark Motors Pvt. Ltd.", 
+  "pin": "110044", 
+  "locality": "Math- Road, Opp. Sarita Vihar", 
+  "state": "New Delhi & NCR", 
+  "address": "    A- Motors Pvt. Ltd.A/ 39, Mohan Cooperative Ind- Estate,Math- Road, Opp. Sarita ViharNew Delhi - 110044New Delhi & NCR", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "New Delhi", 
+  "name": "    Globus Cars Pvt. Ltd.", 
+  "pin": "110009", 
+  "locality": "Near Ashok Vihar,", 
+  "state": "New Delhi & NCR", 
+  "address": "    Glob- Cars Pvt. Ltd.A - 82, G- Town, Part - I,Main G. T. Karnal Road,Near Ashok Vihar,New Delhi - 110009New Delhi & NCR", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "New Delhi", 
+  "name": "    Atrica Automobiles Pvt. Ltd,", 
+  "pin": "110092", 
+  "locality": "78, Patparganj Ind- Area,", 
+  "state": "New Delhi & NCR", 
+  "address": "    Atrica A- Pvt. Ltd,78, Patparganj Ind- Area,New Delhi - 110092New Delhi & NCR", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "New Delhi", 
+  "name": "    World Class Automobiles Pvt. Ltd.", 
+  "pin": "110015", 
+  "locality": "Najafgarh Road, Moti Nagar,", 
+  "state": "New Delhi & NCR", 
+  "address": "    World Class A- Pvt. Ltd.68/3, Near Moti Nagar,Najafgarh Road, Moti Nagar,New Delhi - 110015New Delhi & NCR", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "New Delhi", 
+  "name": "    Frontier Autoworld Pvt. Ltd.", 
+  "pin": "110017", 
+  "locality": "Sector 2,", 
+  "state": "New Delhi & NCR", 
+  "address": "    Frontier A- Pvt. Ltd.G2, MGF Metropolitan Mall, Saket,Sector 2,New Delhi - 110017New Delhi & NCR", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "New Delhi", 
+  "name": "    Frontier Autoworld Pvt.Ltd.", 
+  "pin": "110029", 
+  "locality": "Opposite Bikaji Kama Place", 
+  "state": "New Delhi & NCR", 
+  "address": "    Frontier A- Pvt.Ltd.A2/8, Safdarj- EnclaveOpposite Bikaji Kama PlaceNew Delhi - 110029New Delhi & NCR", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "New Delhi", 
+  "name": "    Automark Motors Pvt. Ltd.", 
+  "pin": "110044", 
+  "locality": "Main Math- Road, Opp. Metro Pillar No. 321,", 
+  "state": "New Delhi & NCR", 
+  "address": "    A- Motors Pvt. Ltd.B 1 / F-5, Mohan Cooperative Ind- Estate,Main Math- Road, Opp. Metro Pillar No. 321,New Delhi - 110044New Delhi & NCR", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Noida", 
+  "name": "    Viraj automobiles pvt. Ltd.", 
+  "pin": "201 301", 
+  "locality": "A-18 sector-6,", 
+  "state": "New Delhi & NCR", 
+  "address": "    Viraj a- pvt. Ltd.A-18 sector-6,Noida - 201 301New Delhi & NCR", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Noida", 
+  "name": "    Viraj Automobiles Pvt. Ltd.", 
+  "pin": "201301", 
+  "locality": "A-18, Sector 6,", 
+  "state": "New Delhi & NCR", 
+  "address": "    Viraj A- Pvt. Ltd.A-18, Sector 6,Noida - 201301New Delhi & NCR", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Bhubaneswar", 
+  "name": "    Bharat Motors Ltd.", 
+  "pin": "751 010", 
+  "locality": "Ras-,", 
+  "state": "Orissa", 
+  "address": "    Bharat Motors Ltd.S-3/61, Mancheswar Ind- Estate,Ras-,Bh- - 751 010Orissa", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Bhubaneswar", 
+  "name": "    Bharat Motors Ltd.", 
+  "pin": "752101", 
+  "locality": "Mancheswar Ind- Estate,", 
+  "state": "Orissa", 
+  "address": "    Bharat Motors Ltd.Nh-5, Pahal, S-3/61,Mancheswar Ind- Estate,Bh- - 752101Orissa", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Amritsar", 
+  "name": "    Bhagat Automobiles Pvt.Ltd.", 
+  "pin": "143001", 
+  "locality": "Near Canal ", 
+  "state": "Punjab", 
+  "address": "    Bhagat A- Pvt.Ltd.Main GT Road , Near Canal Amritsar - 143001P-", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Bathinda", 
+  "name": "    Bhagat Automobiles Pvt. Ltd.", 
+  "pin": "151001", 
+  "locality": "Malo- Road ", 
+  "state": "Punjab", 
+  "address": "    Bhagat A- Pvt. Ltd.Near M- Road Byepass , Malo- Road Bathinda - 151001P-", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Hoshiarpur", 
+  "name": "    Lally Motors India Pvt Ltd", 
+  "pin": "146022", 
+  "locality": "Jalandhar Road, ", 
+  "state": "Punjab", 
+  "address": "    Lally Motors India Pvt LtdVillage Chak G-, P.O. Piplanwala, Jalandhar Road, Hoshiarp- - 146022P-", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Hoshiarpur", 
+  "name": "    Lally Motors India Pvt. Ltd.", 
+  "pin": "146022", 
+  "locality": "Hoshiarp-.", 
+  "state": "Punjab", 
+  "address": "    Lally Motors India Pvt. Ltd.Village Chak G-, P.O. Piplanwala, Jalandhar Road, Hoshiarp-.Hoshiarp- - 146022P-", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Jalandhar", 
+  "name": "    Lally Motors India (P) Ltd.", 
+  "pin": "144 005", 
+  "locality": "back side Lilly Resort, Kot Kalan", 
+  "state": "Punjab", 
+  "address": "    Lally Motors India (P) Ltd.Deep Nagar RoadOpp L & T Concrete plant, back side Lilly Resort, Kot KalanJalandhar - 144 005P-", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Jalandhar", 
+  "name": "    Lally Motors India (P) Ltd.", 
+  "pin": "144005", 
+  "locality": "G.T. Road, Near Ansal Plaza,", 
+  "state": "Punjab", 
+  "address": "    Lally Motors India (P) Ltd.G.T. Road, Near Ansal Plaza,Jalandhar - 144005P-", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Ludhiana", 
+  "name": "    Lally Motors India Pvt Ltd", 
+  "pin": "141 010", 
+  "locality": "G.T. Road, J-", 
+  "state": "Punjab", 
+  "address": "    Lally Motors India Pvt LtdG.T. Road, J- - 141 010P-", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Ludhiana", 
+  "name": "    Lally Motors India Pvt Ltd", 
+  "pin": "141010", 
+  "locality": "G.T. Road, J-,", 
+  "state": "Punjab", 
+  "address": "    Lally Motors India Pvt LtdG.T. Road, J-,L- - 141010P-", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Pathankot", 
+  "name": "    CPL Cars Pvt.Ltd.", 
+  "pin": "145001", 
+  "locality": "Mamoon", 
+  "state": "Punjab", 
+  "address": "    CPL Cars Pvt.Ltd.Dalho- Road, MamoonPathankot - 145001P-", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Patiala", 
+  "name": "    Jhill Adda, Near Rajpura Byepass,", 
+  "pin": "147 001", 
+  "locality": "Sirhind Road.", 
+  "state": "Punjab", 
+  "address": "    Jhill Adda, Near Rajp- Byepass,Sirhind Road.Patiala - 147 001P-", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Patiala", 
+  "name": "    Bhagat Automobiles Pvt. Ltd.", 
+  "pin": "147001", 
+  "locality": "Sirhind Road,", 
+  "state": "Punjab", 
+  "address": "    Bhagat A- Pvt. Ltd.Jhill Adda, Near Rajp- Byepass,Sirhind Road,Patiala - 147001P-", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Ajmer", 
+  "name": "    RDB Cars Pvt. Ltd.", 
+  "pin": "305001", 
+  "locality": "Sendriya. ", 
+  "state": "Rajasthan", 
+  "address": "    RDB Cars Pvt. Ltd.35-36, NH-8, Near Nagar Nigam Fire Station, Sendriya. Ajmer - 305001Rajasthan", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Ajmer", 
+  "name": "    RDB Cars Pvt. Ltd", 
+  "pin": "305001", 
+  "locality": "Sendriya", 
+  "state": "Rajasthan", 
+  "address": "    RDB Cars Pvt. Ltd35-36, NH-8,Near Nagar Nigam Fire Station, SendriyaAjmer - 305001Rajasthan", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Jaipur", 
+  "name": "    Tanya Cars Pvt. Ltd.", 
+  "pin": "302 022", 
+  "locality": "Tonk Road,", 
+  "state": "Rajasthan", 
+  "address": "    Tanya Cars Pvt. Ltd.E-706, Sitap- Ind- Area,Tonk Road,Jaip- - 302 022Rajasthan", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Jaipur", 
+  "name": "    Tanya Cars Pvt. Ltd.", 
+  "pin": "302012", 
+  "locality": "Sanghi Garden, Tonk Road,", 
+  "state": "Rajasthan", 
+  "address": "    Tanya Cars Pvt. Ltd.Sanghi Garden, Tonk Road,Jaip- - 302012Rajasthan", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Jodhpur", 
+  "name": "    M/s Shakun Motors Pvt. Ltd.,", 
+  "pin": "342001", 
+  "locality": "New Power Ho- Road,", 
+  "state": "Rajasthan", 
+  "address": "    M/s Shak- Motors Pvt. Ltd.,Shak- Motors Tiraya, 29(2/A), light Ind- Area, New Power Ho- Road,Jodhp- - 342001Rajasthan", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Jodhpur", 
+  "name": "    Shakun Motors Private Limited", 
+  "pin": "342003", 
+  "locality": "New Power Ho- Road", 
+  "state": "Rajasthan", 
+  "address": "    Shak- Motors Private LimitedShak- Motors TirayaPlot N- 29(2A)Light Ind- AreaNew Power Ho- RoadJodhp- - 342003Rajasthan", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Kota", 
+  "name": "    Skyline Automotives Pvt. Ltd.", 
+  "pin": "324005", 
+  "locality": "Road No-5,I.P.I.A.", 
+  "state": "Rajasthan", 
+  "address": "    Skyline A- Pvt. Ltd.G-2,A- zoneRoad No-5,I.P.I.A.Kota - 324005Rajasthan", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Udaipur", 
+  "name": "    Rajesh Motorcars Pvt. Ltd", 
+  "pin": "313 003", 
+  "locality": "Madri.", 
+  "state": "Rajasthan", 
+  "address": "    Rajesh Motorcars Pvt. LtdA-83, Road No.1, Mewar Ind- Area,Madri.Udaip- - 313 003Rajasthan", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Udaipur", 
+  "name": "    Rajesh Motorcars Pvt. Ltd", 
+  "pin": "313003", 
+  "locality": "Madri,", 
+  "state": "Rajasthan", 
+  "address": "    Rajesh Motorcars Pvt. LtdA-83, Road No.1, Mewar Ind- Area,Madri,Udaip- - 313003Rajasthan", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Chennai", 
+  "name": "    Kun Capital Motors P Ltd", 
+  "pin": "600016", 
+  "locality": "Aland-, Chennai.", 
+  "state": "Tamil Nadu", 
+  "address": "    K- Capital Motors P LtdNo 13, Atco Colony Road,I Street, Thillaiganga Nagar,Aland-, Chennai.Chennai - 600016Tamil Nadu", 
+  "type": "Pre \u00e2\u0080\u0093 Owned Car Dealers"
+ }, 
+ {
+  "city": "Chennai", 
+  "name": "    ABRA Motors Pvt. Ltd.", 
+  "pin": "600 058", 
+  "locality": "Ambatt-.", 
+  "state": "Tamil Nadu", 
+  "address": "    ABRA Motors Pvt. Ltd.No: 80, So- Aven-,Ambatt- Ind- Estate,Ambatt-.Chennai - 600 058Tamil Nadu", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Chennai", 
+  "name": "    Sundaram Motors", 
+  "pin": "600001", 
+  "locality": "7, whites road", 
+  "state": "Tamil Nadu", 
+  "address": "    S- Motors7, whites roadChennai - 6000014Tamil Nadu", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Chennai", 
+  "name": "    Kun Capital Motors P Ltd", 
+  "pin": "600016", 
+  "locality": "Aland-, Chennai.", 
+  "state": "Tamil Nadu", 
+  "address": "    K- Capital Motors P LtdNo 13, Atco Colony Road, I Street, Thillaiganga Nagar,Aland-, Chennai.Chennai - 600016Tamil Nadu", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Chennai", 
+  "name": "    ABRA Motors Pvt. Ltd.", 
+  "pin": "600035", 
+  "locality": "Tamilnadu ", 
+  "state": "Tamil Nadu", 
+  "address": "    ABRA Motors Pvt. Ltd.407,408, GR Complex, Anna Salai, Nandanam, Tamilnadu Chennai - 600035Tamil Nadu", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Chennai", 
+  "name": "    Sundaram Motors Pvt.Ltd.", 
+  "pin": "600014", 
+  "locality": "7, Whites Road,", 
+  "state": "Tamil Nadu", 
+  "address": "    S- Motors Pvt.Ltd.7, Whites Road,Chennai - 600014Tamil Nadu", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Chennai", 
+  "name": "    KUN Capital Motors Private Limited", 
+  "pin": "600040", 
+  "locality": "Annanagar, ", 
+  "state": "Tamil Nadu", 
+  "address": "    KUN Capital Motors Private Limited64/103 Q Block, 3rd Aven-, Chennai - 600040Tamil Nadu", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Coimbatore", 
+  "name": "    Ramani Cars Pvt. Lts.", 
+  "pin": "641 030", 
+  "locality": "Kav-,", 
+  "state": "Tamil Nadu", 
+  "address": "    Ramani Cars Pvt. Lts.54/1, Mett- Road,Kav-,Coimbatore - 641 030Tamil Nadu", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Coimbatore", 
+  "name": "    Ramani Cars Pvt. Limited.,", 
+  "pin": "641030", 
+  "locality": "Kav-,", 
+  "state": "Tamil Nadu", 
+  "address": "    Ramani Cars Pvt. Limited.,54/1, Mett- road,Kav-,Coimbatore - 641030Tamil Nadu", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Madurai", 
+  "name": "    Ramani Cars Private Limited", 
+  "pin": "625 008", 
+  "locality": "GST Road, Kappal-,", 
+  "state": "Tamil Nadu", 
+  "address": "    Ramani Cars Private LimitedD1 - SIDCO Ind- Estate,GST Road, Kappal-,Mad- - 625 008Tamil Nadu", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Madurai", 
+  "name": "    Ramani Cars Pvt. Limited ", 
+  "pin": "625008", 
+  "locality": "GST Road, Kappal-,", 
+  "state": "Tamil Nadu", 
+  "address": "    Ramani Cars Pvt. Limited H-11,SIDCO Ind- Estate,GST Road, Kappal-,Mad- - 625008Tamil Nadu", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Pondicherry", 
+  "name": "    The Star Cars Pvt. Ltd.", 
+  "pin": "605008", 
+  "locality": "90, Kamaraj Salai,Thattanchavadi,", 
+  "state": "Tamil Nadu", 
+  "address": "    The Star Cars Pvt. Ltd.90, Kamaraj Salai,Thattanchavadi,Pondicherry - 605008Tamil Nadu", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Salem", 
+  "name": "    Ramani Cars Pvt. Limited", 
+  "pin": "636004", 
+  "locality": "Near Five roads; Narasothipatty,", 
+  "state": "Tamil Nadu", 
+  "address": "    Ramani Cars Pvt. LimitedPlot #55/2B, 131/2, Omall- Main Road,Near Five roads; Narasothipatty,Salem - 636004Tamil Nadu", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Tiruchchirapalli", 
+  "name": "    Susee automotive Pvt ltd.", 
+  "pin": "620 001", 
+  "locality": "Kar-.", 
+  "state": "Tamil Nadu", 
+  "address": "    S- a- Pvt ltd.No:9, J P Nagar,Kar-.Tir- - 620 001Tamil Nadu", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Tiruchchirapalli", 
+  "name": "    Susee Automotive Pvt ltd.", 
+  "pin": "620001", 
+  "locality": "Kar-.", 
+  "state": "Tamil Nadu", 
+  "address": "    S- A- Pvt ltd.No:9, J P Nagar,Kar-.Tir- - 620001Tamil Nadu", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Tirunelveli", 
+  "name": "    Susee Automotive Pvt Ltd", 
+  "pin": "627011", 
+  "locality": "Maharaja Nagar(PO),", 
+  "state": "Tamil Nadu", 
+  "address": "    S- A- Pvt Ltd380/3B1J,Malliha colony,4 Way Track (Nagercoil to Mad- By Pass)Maharaja Nagar(PO),Tir- - 627011Tamil Nadu", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Tirupur", 
+  "name": "    RAMANI CARS (P) LTD", 
+  "pin": "641652", 
+  "locality": "AVINASHI", 
+  "state": "Tamil Nadu", 
+  "address": "    RAMANI CARS (P) LTD3/267, AVINASHI \u00e2\u0080\u0093 TIRUPUR MAIN ROAD, (NEAR SAVITHIRI TEXTILE)ANAIPUDURTHIRUMURUGAN POONDI PO.,AVINASHITir- - 641652Tamil Nadu", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Vellore", 
+  "name": "    Susee Motors (India) Private Limited", 
+  "pin": "632012", 
+  "locality": "New By-Pass Road", 
+  "state": "Tamil Nadu", 
+  "address": "    S- Motors (India) Private Limited141/A, M.P.Sarathi Nagar, New By-Pass RoadVellore - 632012Tamil Nadu", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Vellore", 
+  "name": "    Susee Motors (India) Private Limited", 
+  "pin": "632012", 
+  "locality": "141, New By-Pass Road,", 
+  "state": "Tamil Nadu", 
+  "address": "    S- Motors (India) Private Limited141, New By-Pass Road,Vellore - 632012Tamil Nadu", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Agra", 
+  "name": "    Mgrs Automotives Pvt Ltd.", 
+  "pin": "282 007", 
+  "locality": "Agra Math- Road,", 
+  "state": "Uttar Pradesh", 
+  "address": "    Mgrs A- Pvt Ltd.660/2 Ma- Artoni, Shastrip- Crossing,Agra Math- Road,Agra - 282 007Uttar Pradesh", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Agra", 
+  "name": "    M.G.R.S.Automotives Pvt. Ltd.", 
+  "pin": "282007", 
+  "locality": "Opp. Sikandra Ind- Area,", 
+  "state": "Uttar Pradesh", 
+  "address": "    M.G.R.S.A- Pvt. Ltd.Agra-Math- Road,Opp. Sikandra Ind- Area,Agra - 282007 Uttar Pradesh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Allahabad", 
+  "name": "    Puran Motors Pvt.Ltd.", 
+  "pin": "211001", 
+  "locality": "Civil Lines", 
+  "state": "Uttar Pradesh", 
+  "address": "    P- Motors Pvt.Ltd.22/26 Clive Road, Civil LinesAllahabad - 211001Uttar Pradesh", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Allahabad", 
+  "name": "    Puran Motors Pvt.Ltd.", 
+  "pin": "211001", 
+  "locality": "Civil Lines", 
+  "state": "Uttar Pradesh", 
+  "address": "    P- Motors Pvt.Ltd.22/26 Clive Road, Civil LinesAllahabad - 211001Uttar Pradesh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Bareilly", 
+  "name": "    Rohikhand Automobiles Pvt. Ltd", 
+  "pin": "243003", 
+  "locality": "C.B. Ganj", 
+  "state": "Uttar Pradesh", 
+  "address": "    Rohikhand A- Pvt. Ltd4.5 Km. Mile Stone, Ramp- Road, C.B. GanjBareilly - 243003Uttar Pradesh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Kanpur", 
+  "name": "    Viraj Motors Kanpur Private Limited   ", 
+  "pin": "208 001", 
+  "locality": "77/A Dada Nagar.", 
+  "state": "Uttar Pradesh", 
+  "address": "    Viraj Motors Kanp- Private Limited   77/A Dada Nagar.Kanp- - 208 001Uttar Pradesh", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Kanpur", 
+  "name": "    Viraj Motors Kanpur Pvt.Ltd.", 
+  "pin": "208001", 
+  "locality": "Opp P.P.N. Market.", 
+  "state": "Uttar Pradesh", 
+  "address": "    Viraj Motors Kanp- Pvt.Ltd.Ratan Uniq- B-,Opp P.P.N. Market.Kanp- - 208001Uttar Pradesh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Lucknow", 
+  "name": "    Viraj Distributors Pvt .Ltd.", 
+  "pin": "227 105", 
+  "locality": "Faizabad Road", 
+  "state": "Uttar Pradesh", 
+  "address": "    Viraj Distrib- Pvt .Ltd.403/405, Village-Uttardha-,Near Nandgaon, Adj to Ram Swaroop College,Faizabad RoadL- - 227 105Uttar Pradesh", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Lucknow", 
+  "name": "    Viraj Distributors Pvt. Ltd.", 
+  "pin": "226010", 
+  "locality": "Gomti Nagar,", 
+  "state": "Uttar Pradesh", 
+  "address": "    Viraj Distrib- Pvt. Ltd.Viraj Corporate Towers,TCG/1-A-G-2 Vibh- Khand,Shaheed Path, Off Faizabad Road,Behind Indira Gandhi Pratishthan / High Co- Premises,Gomti Nagar,L- - 226010Uttar Pradesh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Moradabad", 
+  "name": "    Maa Sheetla Autowheels Pvt. Ltd.", 
+  "pin": "244001", 
+  "locality": "Delhi Road, ", 
+  "state": "Uttar Pradesh", 
+  "address": "    Maa Sheetla A- Pvt. Ltd.Behind Akaansha,Lakdi Fazalp-, Delhi Road, Moradabad - 244001Uttar Pradesh", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Moradabad", 
+  "name": "    Maa Sheetla Autowheels Pvt. Ltd.", 
+  "pin": "244001", 
+  "locality": "Moradabad", 
+  "state": "Uttar Pradesh", 
+  "address": "    Maa Sheetla A- Pvt. Ltd.Madh- Tower, Delhi- Moradabad  Road, MoradabadMoradabad - 244001Uttar Pradesh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Varanasi ", 
+  "name": "    Varanasi Auto Cars Pvt. Ltd.", 
+  "pin": "221105", 
+  "locality": "Tehsil Pindra,", 
+  "state": "Uttar Pradesh", 
+  "address": "    Varanasi A- Cars Pvt. Ltd.S.M.Plot No. 109/2,Ma- Koirajp-, Pargana Athgawan, Tehsil Pindra,Varanasi  - 221105Uttar Pradesh", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Varanasi ", 
+  "name": "    Varanasi Auto Cars Pvt. Ltd.", 
+  "pin": "221105", 
+  "locality": "Tehsil Pindra,", 
+  "state": "Uttar Pradesh", 
+  "address": "    Varanasi A- Cars Pvt. Ltd.S.M.Plot No. 109/2,Ma- Koirajp-, Pargana Athgawan, Tehsil Pindra,Varanasi  - 221105Uttar Pradesh", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Haldwani", 
+  "name": "    Maa Sheetla Autowheels Pvt. Ltd.", 
+  "pin": "263 139", 
+  "locality": "Ramp- Road, (Nainital).", 
+  "state": "Uttarakhand", 
+  "address": "    Maa Sheetla A- Pvt. Ltd.Ramp- Road, (Nainital).Haldwani - 263 139Uttarakhand", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Haldwani", 
+  "name": "    Maa Sheetla Autowheels Pvt. Ltd.", 
+  "pin": "263139", 
+  "locality": "Ramp- Road, (Nainital)", 
+  "state": "Uttarakhand", 
+  "address": "    Maa Sheetla A- Pvt. Ltd.Ramp- Road, (Nainital)Haldwani - 263139Uttarakhand", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Kolkata", 
+  "name": "    OSL Exclusive Pvt. Ltd.", 
+  "pin": "700 143", 
+  "locality": "Opp. Children Fo- School,", 
+  "state": "West Bengal", 
+  "address": "    OSL Excl- Pvt. Ltd.Gopalp-, Sarkarpool, B- B- Tr- Road,Opp. Children Fo- School,Kolkata - 700 143West Bengal", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Kolkata", 
+  "name": "    OSL Exclusive Pvt. Ltd.", 
+  "pin": "700105", 
+  "locality": "West Bengal", 
+  "state": "West Bengal", 
+  "address": "    OSL Excl- Pvt. Ltd.43, East Topsia Road, Ar-,Near Science City,KolkataWest BengalKolkata - 700105West Bengal", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Kolkata", 
+  "name": "    OSL Exclusive Pvt. Ltd.", 
+  "pin": "700017", 
+  "locality": "Kolkata \u00e2\u0080\u0093 700017", 
+  "state": "West Bengal", 
+  "address": "    OSL Excl- Pvt. Ltd.AJC Tower, 204 AJC Bose Road, Kolkata \u00e2\u0080\u0093 700017Kolkata - 700017West Bengal", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Kolkata", 
+  "name": "    OSL Exclusive Pvt.Ltd.", 
+  "pin": "700010", 
+  "locality": "Opposite Hotel Hyatt Regency on E.M. Bypass,", 
+  "state": "West Bengal", 
+  "address": "    OSL Excl- Pvt.Ltd.Raikva 3A, Rammohan Mallick Garden Lane,Beside Big Bazar, Opposite Hotel Hyatt Regency on E.M. Bypass,Kolkata - 700010West Bengal", 
+  "type": "Showroom"
+ }, 
+ {
+  "city": "Siliguri ", 
+  "name": "    ESSENN Automotive Pvt Ltd", 
+  "pin": "734001", 
+  "locality": "B- Road", 
+  "state": "West Bengal", 
+  "address": "    ESSENN A- Pvt LtdK- Rice Mill Compo- RoadSilig-  - 734001West Bengal", 
+  "type": "Workshop"
+ }, 
+ {
+  "city": "Siliguri ", 
+  "name": "    Essenn Automotive Pvt Ltd", 
+  "pin": "734001", 
+  "locality": "Uttarayon, Matigarah,", 
+  "state": "West Bengal", 
+  "address": "    Essenn A- Pvt LtdF0019 & 20, City CentreUttarayon, Matigarah,Silig-  - 734001West Bengal", 
+  "type": "Showroom"
+ }
+]
