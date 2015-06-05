@@ -1,0 +1,783 @@
+[
+ {
+  "Sublocation": " Road No. 36", 
+  "City": "Hyderabad", 
+  "Pincode": "500 033", 
+  "State": "Andhra Pradesh", 
+  "Dealership": "SMART AUTO", 
+  "Location": " Jubilee Hills", 
+  "Address": "Plot No - 729, Kavya House, Road No. 36, Jubilee Hills,  Hyderabad", 
+  "Landmark": "Next to IBP Petrol Station,"
+ }, 
+ {
+  "Sublocation": " Himayathnagar", 
+  "City": "Hyderabad", 
+  "Pincode": "500029", 
+  "State": "Andhra Pradesh", 
+  "Dealership": "SPR Automobiles", 
+  "Location": "Hyderabad ", 
+  "Address": "3-6-772 & 3-6-773, Street no.15, Himayathnagar,Hyderabad ,Telangana", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": " S P Road", 
+  "City": "Secunderabad", 
+  "Pincode": "500003", 
+  "State": "Andhra Pradesh", 
+  "Dealership": "Shrey Automotive", 
+  "Location": "Begumpet", 
+  "Address": "2-11-30/6, S P Road,Begumpet,Secunderabad", 
+  "Landmark": "Adj to Anand Theatre,"
+ }, 
+ {
+  "Sublocation": "Ring Road", 
+  "City": "Vijayawada", 
+  "Pincode": "520008", 
+  "State": "Andhra Pradesh", 
+  "Dealership": "Populare Automotives", 
+  "Location": "Loyola Gardens", 
+  "Address": "54-15-1,Ring Road,Loyola Gardens,Vijayawada", 
+  "Landmark": "Near Vinayak Theatre,"
+ }, 
+ {
+  "Sublocation": "ATR Towers", 
+  "City": "Vishakhapatanam", 
+  "Pincode": "530003", 
+  "State": "Andhra Pradesh", 
+  "Dealership": "ORA Motors Pvt Ltd", 
+  "Location": "Harbour Park Road", 
+  "Address": "G-1,ATR Towers,Harbour Park Road, Vishakhapatanam", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": " Chandmari \"U\" Turn", 
+  "City": "Guwahati", 
+  "Pincode": "781003", 
+  "State": "Assam", 
+  "Dealership": "Far East  Auto", 
+  "Location": " RG Baruah Road", 
+  "Address": "Eureka Tower, Chandmari \"U\" Turn, RG Baruah Road, Guwahati", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "Sec-43 B", 
+  "City": "Chandigarh", 
+  "Pincode": "160017", 
+  "State": "Chandigarh", 
+  "Dealership": "Heritage Auto Sales", 
+  "Location": " Himalayan Marg", 
+  "Address": "Sco144-145,Sec-43 B, Himalayan Marg,Chandigarh", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "Dutta Complex", 
+  "City": "Raipur", 
+  "Pincode": "492001", 
+  "State": "Chhattisgarh", 
+  "Dealership": "Vardhman", 
+  "Location": "   G.E Road", 
+  "Address": "Dutta Complex,   G.E Road, Raipur", 
+  "Landmark": "Beside HDFC Bank, Opposite Maruti Bussiness Park,"
+ }, 
+ {
+  "Sublocation": "  Agalli ", 
+  "City": "Margao", 
+  "Pincode": "403601", 
+  "State": "Goa", 
+  "Dealership": "Quadros Motocorp", 
+  "Location": "Fatorda", 
+  "Address": "1,Aadarsh Chodankar Residency,Eastern Bypass ,  Agalli ,Fatorda,Margao", 
+  "Landmark": "Near Old RTO Office, Opp. HP Petrol Pump,"
+ }, 
+ {
+  "Sublocation": "Felicity Apartments ", 
+  "City": "Panaji", 
+  "Pincode": "403002", 
+  "State": "Goa", 
+  "Dealership": "Veljee  Motors", 
+  "Location": "Taleigao", 
+  "Address": "Felicity Apartments ,Taleigao,Panaji", 
+  "Landmark": "Near Hotel Shelltop,"
+ }, 
+ {
+  "Sublocation": " Gurukul", 
+  "City": "Ahmedabad", 
+  "Pincode": "380054", 
+  "State": "Gujarat", 
+  "Dealership": "Aspi Autolink", 
+  "Location": "Memnagar", 
+  "Address": "1-G.Floor,Karnavati Realty,100 Drive in Road, Gurukul,Memnagar,Ahmedabad", 
+  "Landmark": "Nr. Rajvi Tower,"
+ }, 
+ {
+  "Sublocation": " Punit Nagar", 
+  "City": "Baroda", 
+  "Pincode": "390015", 
+  "State": "Gujarat", 
+  "Dealership": "Trust Automotive", 
+  "Location": "Old Padra Road", 
+  "Address": "GF-2, SOHO Complex,41, Punit Nagar,Old Padra Road,Vadodara", 
+  "Landmark": "Near Malhar Point,"
+ }, 
+ {
+  "Sublocation": " Sector 1A", 
+  "City": "Gandhidham", 
+  "Pincode": "370201", 
+  "State": "Gujarat", 
+  "Dealership": "Swastik Autolink", 
+  "Location": " Tagore Road", 
+  "Address": "Plot No. 152, Sector 1A, Tagore Road, Gandhidham", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": " Motipura Circle", 
+  "City": "Himatnagar", 
+  "Pincode": "383001", 
+  "State": "Gujarat", 
+  "Dealership": "Kadiwala Automative Pvt. Ltd.", 
+  "Location": " Himatnagar", 
+  "Address": "8,9 Sun Complex, Motipura Circle, Himatnagar, Sabarkantha District", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "Bhaktinagar Station Road", 
+  "City": "Rajkot", 
+  "Pincode": "360002", 
+  "State": "Gujarat", 
+  "Dealership": "Aastha Autolink (India) Pvt. Ltd.", 
+  "Location": "  Gondal Road", 
+  "Address": "Bhaktinagar Station Road,  Gondal Road, Rajkot", 
+  "Landmark": "Near Satyavijay Ice-cream,"
+ }, 
+ {
+  "Sublocation": "Plot-6-10", 
+  "City": "Surat", 
+  "Pincode": "395007", 
+  "State": "Gujarat", 
+  "Dealership": "Legacy Bikes", 
+  "Location": "Umiyanagar Industrial Estate", 
+  "Address": "Udhana Magdalla Road,Plot-6-10,Umiyanagar Industrial Estate,Surat", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "Online24x7 India Pvt Ltd", 
+  "City": "Gurgaon", 
+  "Pincode": "122001", 
+  "State": "Haryana", 
+  "Dealership": "Maya Autos", 
+  "Location": " 503/2 M G Road", 
+  "Address": "Online24x7 India Pvt Ltd, 503/2 M G Road,  Gurgaon", 
+  "Landmark": "Near Kalyani Hospital,"
+ }, 
+ {
+  "Sublocation": "Taara Mansion ", 
+  "City": "Ranchi", 
+  "Pincode": "834001", 
+  "State": "Jharkhand", 
+  "Dealership": "Taara Corp", 
+  "Location": " 5 Kanke Road ", 
+  "Address": "Taara Mansion , 5 Kanke Road ,  Ranchi", 
+  "Landmark": "Opposite CM House ,"
+ }, 
+ {
+  "Sublocation": "Aashray Empire", 
+  "City": "Belgaum", 
+  "Pincode": "590006", 
+  "State": "Karnataka", 
+  "Dealership": "Shobha Bi-Wheelers Pvt Ltd", 
+  "Location": " Shop No. 2 & 3.RPD Cross Tilakwadi", 
+  "Address": "Aashray Empire, Shop No. 2 & 3.RPD Cross Tilakwadi, Belgaum", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "Hosakerehalli Cross", 
+  "City": "Bengaluru", 
+  "Pincode": "560085", 
+  "State": "Karnataka", 
+  "Dealership": "Falcon Mobikes", 
+  "Location": "Banashankari 3rd Stage", 
+  "Address": "No.187 ,100ft Ring Road,Hosakerehalli Cross,Banashankari 3rd Stage,Benguluru", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "100 Feet Road", 
+  "City": "Bengaluru", 
+  "Pincode": "560008", 
+  "State": "Karnataka", 
+  "Dealership": "Navin Associates", 
+  "Location": " Indiranagar", 
+  "Address": "No 1201, Divya Shakti Chambers,100 Feet Road, Indiranagar, Bangalore", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "Chikkalakshmaiah Layout", 
+  "City": "Bengaluru", 
+  "Pincode": "560029", 
+  "State": "Karnataka", 
+  "Dealership": "Navin Associates", 
+  "Location": "Hosur Main Road", 
+  "Address": "No 4/4 ,Chikkalakshmaiah Layout,Hosur Main Road,Benguluru", 
+  "Landmark": "Opp Christ University,"
+ }, 
+ {
+  "Sublocation": "119 Farah Icon", 
+  "City": "Bengaluru", 
+  "Pincode": "560027", 
+  "State": "Karnataka", 
+  "Dealership": "Square Auto", 
+  "Location": "Lalbagh Road", 
+  "Address": "119 Farah Icon,Lalbagh Road,Benguluru", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "1st Main 4th Block ", 
+  "City": "Bengaluru", 
+  "Pincode": "560010", 
+  "State": "Karnataka", 
+  "Dealership": "Sunil  Mehta Marketing", 
+  "Location": " Rajajinagar ", 
+  "Address": "Dr. Rajkumar Road,# 40/1 (1015),# 40/1 (1015),1st Main 4th Block , Rajajinagar ,Benguluru", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": " Hubli -Dharawad Road", 
+  "City": "Hubli", 
+  "Pincode": "580021", 
+  "State": "Karnataka", 
+  "Dealership": "Shodha Bi-Wheelers Pvt. Ltd.", 
+  "Location": "Vidyanagar", 
+  "Address": "No. 4A, Hubli -Dharawad Road,Vidyanagar,Hubli", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "Pintos Lane", 
+  "City": "Mangalore", 
+  "Pincode": "575004", 
+  "State": "Karnataka", 
+  "Dealership": "Frontline Automobiles", 
+  "Location": " Bejai", 
+  "Address": "Veenu Building, Kodialgutha Road,Pintos Lane, Bejai, Mangalore", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": " K Block", 
+  "City": "Mysore", 
+  "Pincode": "570023", 
+  "State": "Karnataka", 
+  "Dealership": "Square Auto", 
+  "Location": " Kuvempunagar", 
+  "Address": "Arundhathi Complex,1825 J.C.S.T 1st Stage, K Block, Kuvempunagar, Mysore", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": " Kanakalaya Bank Stop", 
+  "City": "Calicut", 
+  "Pincode": "673005", 
+  "State": "Kerala", 
+  "Dealership": "Signature Rides", 
+  "Location": "  West Hill PO", 
+  "Address": "IKON, Kanakalaya Bank Stop,  West Hill PO, Calicut", 
+  "Landmark": "Near Sharadha Hospital,"
+ }, 
+ {
+  "Sublocation": "20/7 B", 
+  "City": "Kochi", 
+  "Pincode": "682033", 
+  "State": "Kerala", 
+  "Dealership": "Marikar Engineers", 
+  "Location": " NH 47 ; Changampuzha Nagar.P.O ; South Kalamassery", 
+  "Address": "20/7 B, NH 47 ; Changampuzha Nagar.P.O ; South Kalamassery,Kochi", 
+  "Landmark": "Near Kalamassery Town Hall,"
+ }, 
+ {
+  "City": "Thrissur", 
+  "Pincode": "680020", 
+  "State": "Kerala", 
+  "Dealership": "Marikar Engineers Pvt. Ltd.", 
+  "Location": "", 
+  "Address": "Karunakara Nambyar Road, Thrissur", 
+  "Landmark": "Near North Bus Stand,"
+ }, 
+ {
+  "Sublocation": "  Kalpalayam Road", 
+  "City": "Trivandrum", 
+  "Pincode": "695002", 
+  "State": "Kerala", 
+  "Dealership": "Evm Autos", 
+  "Location": " Karamana (PO)", 
+  "Address": "TC: 20/2378-12,  Kalpalayam Road, Karamana (PO), Trivandrum", 
+  "Landmark": "Near Nilgris,"
+ }, 
+ {
+  "Sublocation": " Shekhar Central", 
+  "City": "Indore", 
+  "Pincode": "452001", 
+  "State": "Madhya Pradesh", 
+  "Dealership": "ARJ Automotives", 
+  "Location": " 4-5 Manoramaganj Palasia Square", 
+  "Address": "G-1, Shekhar Central, 4-5 Manoramaganj Palasia Square, A.B Road Indore", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "  Nagar-Manmad Road", 
+  "City": "Ahmednagar", 
+  "Pincode": "414002", 
+  "State": "Maharashtra", 
+  "Dealership": "Kalpattaru Automotive", 
+  "Location": "Savedi", 
+  "Address": "F.P No. 108,  Nagar-Manmad Road,Savedi,Ahmednagar", 
+  "Landmark": "Opp. Big Bazar,"
+ }, 
+ {
+  "Sublocation": " Mondha Naka Signal", 
+  "City": "Aurangabad", 
+  "Pincode": "431001", 
+  "State": "Maharashtra", 
+  "Dealership": "Ramtara Mobility", 
+  "Location": " Jalna Road", 
+  "Address": "P.T. Compound, Mondha Naka Signal, Jalna Road, Aurangabad", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": " K/3 E Ward", 
+  "City": "Kolhapur", 
+  "Pincode": "416003", 
+  "State": "Maharashtra", 
+  "Dealership": "Sky Moto", 
+  "Location": "  Kawla Naka", 
+  "Address": "CS.No.198, K/3 E Ward,  Kawla Naka,Kolhapur", 
+  "Landmark": "Near Geeta Mandir,"
+ }, 
+ {
+  "Sublocation": " 221 Ishaq Manzil", 
+  "City": "Mumbai", 
+  "Pincode": "400007", 
+  "State": "Maharashtra", 
+  "Dealership": "Indy Italia", 
+  "Location": " Lamington Road", 
+  "Address": "Jain Tyres India, 221 Ishaq Manzil, Lamington Road, Near Apsara Cinema ", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "HPCL petrol pump (Hodiwala - Bathena & Co)", 
+  "City": "Mumbai", 
+  "Pincode": "400020", 
+  "State": "Maharashtra", 
+  "Dealership": "Indy Italia", 
+  "Location": " Behind Eros Theatre", 
+  "Address": "HPCL petrol pump (Hodiwala - Bathena & Co), Behind Eros Theatre, Church Gate (W)", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": " Kuber Complex", 
+  "City": "Mumbai", 
+  "Pincode": "400053", 
+  "State": "Maharashtra", 
+  "Dealership": "Indy Italia", 
+  "Location": " New Link Road", 
+  "Address": "15, Kuber Complex, New Link Road,  Andheri(W)", 
+  "Landmark": "Opp. Laxmi Estate,"
+ }, 
+ {
+  "Sublocation": " SV Road", 
+  "City": "Mumbai", 
+  "Pincode": "400050", 
+  "State": "Maharashtra", 
+  "Dealership": "Indy Italia", 
+  "Location": " Bandra (West)", 
+  "Address": "Unit no. 1, Ground Floor,Manu Smruti Building, Plot no. 27,Adjacent to Jari-Mari Mandir, SV Road, Bandra (West),Mumbai", 
+  "Landmark": "Near Bandra Talao,"
+ }, 
+ {
+  "Sublocation": "LBS Marg ", 
+  "City": "Mumbai", 
+  "Pincode": "400078", 
+  "State": "Maharashtra", 
+  "Dealership": "Indy Italia", 
+  "Location": " Bhandup (west)", 
+  "Address": "C1,AC Bldg ,Kantilal Maganlal Estate , Old Pannalal Silk Mill Compound,LBS Marg , Bhandup (west),Mumbai", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "Gandhi Grain market", 
+  "City": "Nagpur", 
+  "Pincode": "440008", 
+  "State": "Maharashtra", 
+  "Dealership": "Unnati Vehicles .", 
+  "Location": "CA Road", 
+  "Address": "Gandhi Grain market,CA Road,Nagpur", 
+  "Landmark": "Nr Telephone Square,"
+ }, 
+ {
+  "Sublocation": "G.R.Tapdiya Complex", 
+  "City": "Nanded", 
+  "Pincode": "431602", 
+  "State": "Maharashtra", 
+  "Dealership": "Vaishnavi Motors", 
+  "Location": "  Hingoli Road", 
+  "Address": "G.R.Tapdiya Complex,  Hingoli Road, Nanded", 
+  "Landmark": "Near Hotel Chandralok,"
+ }, 
+ {
+  "Sublocation": "Shop No 3 to 6 & 16", 
+  "City": "Nashik", 
+  "Pincode": "422001", 
+  "State": "Maharashtra", 
+  "Dealership": "Kavya Motors", 
+  "Location": "Mayur Plaza", 
+  "Address": "Shop No 3 to 6 & 16,Mayur Plaza,Nashik", 
+  "Landmark": "Near Dwarka chowk,"
+ }, 
+ {
+  "Sublocation": "Panvel Industrial Co-Op Estate Ltd. ", 
+  "City": "Panvel", 
+  "Pincode": "410206", 
+  "State": "Maharashtra", 
+  "Dealership": "Kian Motors Pvt. Ltd.", 
+  "Location": "Mumbai Pune Road ", 
+  "Address": "Plot No-44,Panvel Industrial Co-Op Estate Ltd. ,Mumbai Pune Road ,Panvel. Dist-Raigad", 
+  "Landmark": ""
+ }, 
+ {
+  "City": "Pune", 
+  "Pincode": "411007", 
+  "State": "Maharashtra", 
+  "Dealership": "AK Motors", 
+  "Location": "", 
+  "Address": "273/5 Parijatak  Baner Road", 
+  "Landmark": "Opp to Bhairavee Hotel,"
+ }, 
+ {
+  "Sublocation": " Shop No 6 to 11", 
+  "City": "Pune", 
+  "Pincode": "411019", 
+  "State": "Maharashtra", 
+  "Dealership": "Auto Lounge", 
+  "Location": "  Chinchwad", 
+  "Address": "ABC Classic, Shop No 6 to 11,  Chinchwad, Pune", 
+  "Landmark": "Near Thermax Chowk,"
+ }, 
+ {
+  "Sublocation": " Old Pune -Mumbai Road ", 
+  "City": "Pune", 
+  "Pincode": "411005", 
+  "State": "Maharashtra", 
+  "Dealership": "Kayaan Motors", 
+  "Location": " Shivajinagar", 
+  "Address": "S-3, Epicenter , 64/C/1 , Wakdewadi , Old Pune -Mumbai Road , Shivajinagar, Pune", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "2", 
+  "City": "Pune", 
+  "Pincode": "411041", 
+  "State": "Maharashtra", 
+  "Dealership": "Moto Italiaa", 
+  "Location": " Serene Estate", 
+  "Address": "Gandhi Empire 1,2, Serene Estate, Pune", 
+  "Landmark": "Near Gera Junction,"
+ }, 
+ {
+  "Sublocation": " Ajinkyata Apartment", 
+  "City": "Pune", 
+  "Pincode": "411009", 
+  "State": "Maharashtra", 
+  "Dealership": "Om Sai Automobiles", 
+  "Location": "  Sinhagad Road ", 
+  "Address": "Ground floor, Ajinkyata Apartment,  Sinhagad Road , Parvati", 
+  "Landmark": "Opp. P L Deshpande Garden,"
+ }, 
+ {
+  "Sublocation": "Sno 7B", 
+  "City": "Pune", 
+  "Pincode": "411038", 
+  "State": "Maharashtra", 
+  "Dealership": "Taurus Scooters & Motorcyles Pvt. Ltd.", 
+  "Location": " Paud Road", 
+  "Address": "47,Royal Chambers,Sno 7B, Paud Road, Pune", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "Railway Lines", 
+  "City": "Solapur", 
+  "Pincode": "413001", 
+  "State": "Maharashtra", 
+  "Dealership": "Vansh 2 Wheelers", 
+  "Location": "VIP Road", 
+  "Address": "163/2,Railway Lines,VIP Road, Solapur", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": " Prestige Precinct", 
+  "City": "Thane", 
+  "Pincode": "400604", 
+  "State": "Maharashtra", 
+  "Dealership": "Indy Italia", 
+  "Location": " A Pachpakhadi", 
+  "Address": "G7, Prestige Precinct, A Pachpakhadi,  Thane (W)", 
+  "Landmark": "lmeida Road, Nr Nitin Co.,"
+ }, 
+ {
+  "Sublocation": "Regal Complex", 
+  "City": "Ulhasnagar", 
+  "Pincode": "421003", 
+  "State": "Maharashtra", 
+  "Dealership": "Soniya Two Wheelers", 
+  "Location": " Shanti Nagar", 
+  "Address": "Gala No. 1 & 2 ,Regal Complex, Shanti Nagar, Ulhasnagar", 
+  "Landmark": "Opp Shanti Nagar Bus Stand ,"
+ }, 
+ {
+  "City": "Imphal", 
+  "Pincode": "795001", 
+  "State": "Manipur", 
+  "Dealership": "Tulshi Motors", 
+  "Location": "", 
+  "Address": "ThangmeibandKhuyathong Road, Imphal", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": " Bawngkawn", 
+  "City": "Aizawl", 
+  "Pincode": "796001", 
+  "State": "Mizoram", 
+  "Dealership": "CK Cars", 
+  "Location": " Lunglei-Road", 
+  "Address": "No 4 and 5, Bawngkawn, Lunglei-Road, Aizawl", 
+  "Landmark": ""
+ }, 
+ {
+  "City": "Delhi", 
+  "Pincode": "110051", 
+  "State": "NCR", 
+  "Dealership": "Bhawani Auto", 
+  "Location": "", 
+  "Address": "Main Jagatpuri Road, Karkarduma Court Redlight T-point Delhi", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "Opp. Sector-5 Dwarka", 
+  "City": "Delhi", 
+  "Pincode": "110059", 
+  "State": "NCR", 
+  "Dealership": "Delight", 
+  "Location": " Uttam Nagar", 
+  "Address": "K-1/8 Rajapuri ,Opp. Sector-5 Dwarka, Uttam Nagar, New Delhi", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": " Deepali chowk", 
+  "City": "Delhi", 
+  "Pincode": "110034", 
+  "State": "NCR", 
+  "Dealership": "Kaysons", 
+  "Location": " PitamPura", 
+  "Address": "A-14, Saraswati Vihar, Deepali chowk, PitamPura, Delhi", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": " Laxmi Sagar", 
+  "City": "Bhubaneswar", 
+  "Pincode": "751006", 
+  "State": "Odisha", 
+  "Dealership": "3S Motors", 
+  "Location": " Cuttack Road", 
+  "Address": "Plot No-258, Laxmi Sagar, Cuttack Road, Bhubaneswar", 
+  "Landmark": ""
+ }, 
+ {
+  "City": "Pondicherry", 
+  "Pincode": "605008", 
+  "State": "Pondicherry", 
+  "Dealership": "Vignesh Moteurx Pvt Ltd", 
+  "Location": "", 
+  "Address": "NO.10 ECR Road, Pondicherry", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": " Kokkupark", 
+  "City": "Puducherry", 
+  "Pincode": "605008", 
+  "State": "Puducherry", 
+  "Dealership": "Vignesh Moteruex", 
+  "Location": " Pakumudianpet", 
+  "Address": "No 10 ECR Road, Kokkupark, Pakumudianpet, Puducherry", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "Dholewal Chowk", 
+  "City": "Ludhiana", 
+  "Pincode": "141003", 
+  "State": "Punjab", 
+  "Dealership": "Grand Trunk Auto Works Pvt Ltd", 
+  "Location": "GT Road", 
+  "Address": "14606-1/A,Gandhi Nagar,Dholewal Chowk,GT Road,Ludhiana", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "Rajpura Road", 
+  "City": "Patiala", 
+  "Pincode": "147001", 
+  "State": "Punjab", 
+  "Dealership": "Kirishna Motors", 
+  "Location": " Hira Bagh ", 
+  "Address": "Rajpura Road, Hira Bagh , Patiala", 
+  "Landmark": ""
+ }, 
+ {
+  "City": "Ajmer", 
+  "Pincode": "305001", 
+  "State": "Rajasthan", 
+  "Dealership": "Shree Raj Autolink Pvt. Ltd.", 
+  "Location": "", 
+  "Address": "  Jaipur Road", 
+  "Landmark": "Oppo. Patel Stadium, Near Bajrang petrol pump,"
+ }, 
+ {
+  "Sublocation": "3", 
+  "City": "Jodhpur", 
+  "Pincode": "342003", 
+  "State": "Rajasthan", 
+  "Dealership": "Najoo Motors", 
+  "Location": " Heavy Industrial Area", 
+  "Address": "3, Heavy Industrial Area, Jodhpur", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "32 ", 
+  "City": "Udaipur", 
+  "Pincode": "313001", 
+  "State": "Rajasthan", 
+  "Dealership": "Divine Auto", 
+  "Location": " Shantivan Bedla Road", 
+  "Address": "32 , Shantivan Bedla Road, Fatehpura", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "No 6 Jawaharlal Nehru Road", 
+  "City": "Chennai", 
+  "Pincode": "600040", 
+  "State": "Tamil Nadu", 
+  "Dealership": "Orange Motors", 
+  "Location": "  Anna Nagar West", 
+  "Address": "No 6 Jawaharlal Nehru Road,  Anna Nagar West,Chennai", 
+  "Landmark": "Opposite Vee Care Hospital,"
+ }, 
+ {
+  "Sublocation": "127", 
+  "City": "Chennai", 
+  "Pincode": "600006", 
+  "State": "Tamil Nadu", 
+  "Dealership": "Pillai Motors", 
+  "Location": " Greams Road", 
+  "Address": "127, Greams Road,Chennai", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "1326", 
+  "City": "Coimbatore", 
+  "Pincode": "641004", 
+  "State": "Tamil Nadu", 
+  "Dealership": "Sachin Motors", 
+  "Location": "Avinashi Road", 
+  "Address": "1326,Avinashi Road, Coimbatore", 
+  "Landmark": "Opp. To Suguna Kalyana Mandapam,"
+ }, 
+ {
+  "Sublocation": "Dindigul Main Road", 
+  "City": "Madurai", 
+  "Pincode": "625018", 
+  "State": "Tamil Nadu", 
+  "Dealership": "Rajeswari Motors", 
+  "Location": " Vilangudi", 
+  "Address": "23,Dindigul Main Road, Vilangudi,Madurai", 
+  "Landmark": "Near Dina Bhoomi Office,"
+ }, 
+ {
+  "Sublocation": " M.S Road", 
+  "City": "Nagercoil", 
+  "Pincode": "629001", 
+  "State": "Tamil Nadu", 
+  "Dealership": "Keerthy Motors", 
+  "Location": "  Krishnancoil", 
+  "Address": "601, M.S Road,  Krishnancoil, Nagercoil", 
+  "Landmark": "Near Filter House,"
+ }, 
+ {
+  "City": "Salem", 
+  "Pincode": "636004", 
+  "State": "Tamil Nadu", 
+  "Dealership": "Crown Motors", 
+  "Location": "", 
+  "Address": "60/6A Meyyanor Bye Pass Road ,  Salem", 
+  "Landmark": "Near ARRS Multiplex ,"
+ }, 
+ {
+  "Sublocation": "No.5 Karur bye pass link road", 
+  "City": "Trichy", 
+  "Pincode": "620 018", 
+  "State": "Tamil Nadu", 
+  "Dealership": "Shree motors", 
+  "Location": " Annamalai nagar", 
+  "Address": "No.5 Karur bye pass link road, Annamalai nagar, Trichy", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": " M P Sarathy Nagar", 
+  "City": "Vellore ", 
+  "Pincode": "602012", 
+  "State": "Tamil Nadu", 
+  "Dealership": "Vignesh Moteurx Pvt Ltd", 
+  "Location": "   Kagithapattarai", 
+  "Address": "#73, M P Sarathy Nagar,   Kagithapattarai, Vellore ", 
+  "Landmark": "Near Chennai Silks, Opp. Collector's Office,"
+ }, 
+ {
+  "City": "Villupuram", 
+  "Pincode": "605602", 
+  "State": "Tamil Nadu", 
+  "Dealership": "Vignesh Moteurx Pvt Ltd (Villupuram)", 
+  "Location": "", 
+  "Address": "No 62 B Old chennai road,  Villupuram", 
+  "Landmark": "Opp Aanandha Mahal Marriage Hall,"
+ }, 
+ {
+  "City": "Lucknow", 
+  "Pincode": "226001", 
+  "State": "Uttar Pradesh", 
+  "Dealership": "GNV Motors", 
+  "Location": "", 
+  "Address": "Vidhan Sabha Marg,  Lucknow", 
+  "Landmark": "Near Burlington Square,"
+ }, 
+ {
+  "Sublocation": "69-Punjabipura", 
+  "City": "Meerut", 
+  "Pincode": "250002", 
+  "State": "Uttar Pradesh", 
+  "Dealership": "Vandanay Auto Zone Private Limited", 
+  "Location": " Delhi Road", 
+  "Address": "69-Punjabipura, Delhi Road, Meerut", 
+  "Landmark": ""
+ }, 
+ {
+  "Sublocation": "21/1", 
+  "City": "Dehradun", 
+  "Pincode": "248001", 
+  "State": "Uttarakhand", 
+  "Dealership": "Goyal Motors India", 
+  "Location": "Rajpur Road", 
+  "Address": "21/1,Rajpur Road,  Dehradun", 
+  "Landmark": "Near BATA Showroom,"
+ }, 
+ {
+  "Sublocation": "VIP Road", 
+  "City": "Kolkata", 
+  "Pincode": "700059", 
+  "State": "West Bengal", 
+  "Dealership": "Speed Auto Service Pvt. Ltd.", 
+  "Location": " Raghunathpur", 
+  "Address": "VIP Road, Raghunathpur,  Kolkata.", 
+  "Landmark": "Opposite- Big Bazar,"
+ }
+]
