@@ -1,0 +1,265 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	Untitled Document
+</title><link rel="stylesheet" href="css/styleTab.css" type="text/css" />
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+    <!-- SCROLLER start -->
+    <script type="text/javascript" src="js/jquery.mousewheel.js"></script>
+    <script type="text/javascript" src="js/jquery.jscrollpane.min.js"></script>
+    <script type="text/javascript" id="sourcecode">
+        jQuery(function () {
+            var api = jQuery('.scroll-pane').jScrollPane(
+               {
+                   showArrows: true,
+                   maintainPosition: false
+               }
+          ).data('jsp');
+            jQuery('#do-ajax').bind(
+               'click',
+               function () {
+                   api.getContentPane().load(
+                         'ajax_content.html',
+                         function () {
+                             api.reinitialise();
+                         }
+                    );
+                   return false;
+               }
+          );
+        });
+    </script>
+    <!-- SCROLLER end -->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            //Default Action
+            $(".tabContent").hide(); //Hide all content
+            $("ul.tabs li:first").addClass("active").show(); //Activate first tab
+            $(".tabContent:first").show(); //Show first tab content
+
+            //On Click Event
+            $("ul.tabs li").click(function () {
+                $("ul.tabs li").removeClass("active"); //Remove any "active" class
+                $(this).addClass("active"); //Add "active" class to selected tab
+                $(".tabContent").hide(); //Hide all tab content
+                var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
+                $(activeTab).fadeIn(); //Fade in the active content
+                return false;
+            });
+
+            //Default Action
+            $(".tabContent1").hide(); //Hide all content
+            $("ul.tabs1 li:first").addClass("active").show(); //Activate first tab
+            $(".tabContent1:first").show(); //Show first tab content
+
+            //On Click Event
+            $("ul.tabs1 li").click(function () {
+                $("ul.tabs1 li").removeClass("active"); //Remove any "active" class
+                $(this).addClass("active"); //Add "active" class to selected tab
+                $(".tabContent1").hide(); //Hide all tab content
+                var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
+                $(activeTab).fadeIn(); //Fade in the active content
+                return false;
+            });
+
+            //Default Action
+            $(".tabContent2").hide(); //Hide all content
+            $("ul.tabs2 li:first").addClass("active").show(); //Activate first tab
+            $(".tabContent2:first").show(); //Show first tab content
+
+            //On Click Event
+            $("ul.tabs2 li").click(function () {
+                $("ul.tabs2 li").removeClass("active"); //Remove any "active" class
+                $(this).addClass("active"); //Add "active" class to selected tab
+                $(".tabContent2").hide(); //Hide all tab content
+                var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
+                $(activeTab).fadeIn(); //Fade in the active content
+                return false;
+            });
+        });
+
+    </script>
+    
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=AIzaSyDW3dp4eJ8Oso1fOi1_SK3HW7K2-RRi8cQ"
+        type="text/javascript"></script>
+</head>
+<body>
+    <form name="form1" method="post" action="tab1.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNDEwNzkwMzcPZBYCAgMPZBYIAgMPZBYCZg9kFgYCAw8QDxYGHg5EYXRhVmFsdWVGaWVsZAUCSWQeDURhdGFUZXh0RmllbGQFBFpvbmUeC18hRGF0YUJvdW5kZ2QQFQURLS1DaG9vc2UgYSBab25lLS0ERWFzdAVOb3J0aAVTb3V0aARXZXN0FQURLS1DaG9vc2UgYSBab25lLS0BMwExATIBNBQrAwVnZ2dnZxYBZmQCBw8QZBAVARItLUNob29zZSBhIFN0YXRlLS0VARItLUNob29zZSBhIFN0YXRlLS0UKwMBZxYBZmQCCw8QZBAVARotLUNob29zZSBhIENpdHkvRGlzdHJpY3QtLRUBGi0tQ2hvb3NlIGEgQ2l0eS9EaXN0cmljdC0tFCsDAWcWAWZkAgsPZBYEAgEPFgIeBFRleHQFNVBsZWFzZSBzZWxlY3QgdGhlIGxvY2F0aW9uIGZyb20gdGhlIGFib3ZlIGRyb3AtZG93bnMuZAIEDzwrABECARAWABYAFgAMFCsAAGQCDQ9kFgICAw88KwARAgEQFgAWABYADBQrAABkAg8PZBYCAgMPPCsAEQIBEBYAFgAWAAwUKwAAZBgDBQpndjJzZGVhbGVyD2dkBQhndkJyYW5jaA9nZAUJcnB0RGVhbGVyD2dkaxHROJWHZ4HrmY0lyy+IWKI0E6Fsd/eyUFPXHn+qF6I=" />
+
+
+<script src="/ScriptResource.axd?d=dCkhyCYMeheFXJ2qG_Bpotb71xyqfPnxgofUJIBLBl02-HDXvkBarteuaoqebvWqgpIM_MLrWficGgfp6rY2PlN5sopM_MMmzwVzEte3E0hRquUHq1BXES2E0_Fyecb3HQxBDW-B5tCH8AA20_7mFA2&amp;t=ffffffffe4ec58b9" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C0380E9D" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAlZMVIYtMwIQH6aJA1bPO0VHu9kS6UjEg6NZ4KMKXeGN3G9nTUkVqOVroYYvYHyMMElG7d56KHfMsx6MvUmA7G7Fe2ZV3M1/AobCLRiv6HBP0JjS/3C9A+cZzrj8YR9bVKbJTP18WKhKhbfq3wFx9rCyZvYTRk2B6It7dKZpB02gXfAXFhh9aLdJNEjuwn7rpSWI6YujeVH2iQDAOiRAoUjFC8uPgRxnyxeV4r6UPaWMg==" />
+    
+    <div style="width: 913px; max-width: 913px;">
+        <div class="about">
+            
+            <div id="UpdatePanel1">
+	
+                    <div class="tabBlock">
+                        <div id="tab1" class="tabContent">
+                            <div class="locate">
+                                
+                                <div class="locate_1">
+                                    Search Bike and Scooter Dealers</div>
+                                <div class="locate_2">
+                                    <select name="ddlZone" id="ddlZone">
+		<option selected="selected" value="--Choose a Zone--">--Choose a Zone--</option>
+		<option value="3">East</option>
+		<option value="1">North</option>
+		<option value="2">South</option>
+		<option value="4">West</option>
+
+	</select>
+                                    
+                                </div>
+                                <div class="locate_2">
+                                    <select name="ddlstate" id="ddlstate">
+		<option selected="selected" value="--Choose a State--">--Choose a State--</option>
+
+	</select>
+                                    
+                                </div>
+                                <div class="locate_2">
+                                    <select name="ddlcity" id="ddlcity">
+		<option selected="selected" value="--Choose a City/District--">--Choose a City/District--</option>
+
+	</select>
+                                    
+                                </div>
+                                <div>
+                                    <input type="submit" name="Submit" value="Go" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;Submit&quot;, &quot;&quot;, true, &quot;val&quot;, &quot;&quot;, false, false))" id="Submit" class="l_go" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
+</div>
+            <ul class="tabs1">
+                <li id="dealer"><a href="#tab1_1">Dealers</a></li>
+                <li id="branch"><a href="#tab1_2">Dealer Branches</a></li>
+                <li id="sdetails" class="last1"><a href="#tab1_3"> SASS</a></li>
+            </ul>
+            <div class="tabBlock less-width">
+                <div id="tab1_1" class="tabContent1">
+                    <div class="address">
+                        <div class="scroll-pane">
+                            <h3>
+                                Please select the location from the above drop-downs.</h3>
+                                       <h2>Authorised Dealer</h2>
+                            <div>
+
+</div>
+                        </div>
+                    </div>
+                </div>
+                <div id="tab1_2" class="tabContent1">
+                    <div class="address">
+                        <div class="scroll-pane">
+                            <h3>
+                                </h3>
+                                 <h2>Authorised Dealer Branch</h2>
+                            <div>
+
+</div>
+                        </div>
+                    </div>
+                    
+                </div>
+                <div id="tab1_3" class="tabContent1">
+                    <div class="address">
+                        <div class="scroll-pane">
+                            <h3>
+                                
+                                  <h2>SASS</h2>
+                            </h3>
+                            <div>
+
+</div>
+                            <div>
+                                 
+                                 <span id="Lblmessage"></span>
+
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="map-block" id="map1" style="width: 514; height: 448">
+            </div>
+            <script type="text/javascript">
+    //<![CDATA[
+
+                if (GBrowserIsCompatible()) {
+
+                    // A function to create the marker and set up the event window
+                    // Dont try to unroll this function. It has to be here for the function closure
+                    // Each instance of the function preserves the contends of a different instance
+                    // of the "marker" and "html" variables which will be needed later when the event triggers.    
+                    function createMarker(point, html) {
+                        var marker = new GMarker(point);
+                        GEvent.addListener(marker, "click", function () {
+                            marker.openInfoWindowHtml(html);
+                        });
+                        return marker;
+                    }
+
+                    // Display the map, with some controls and set the initial location 
+
+                    var map = new GMap2(document.getElementById("map1"));
+                    map.addControl(new GLargeMapControl());
+                    map.addControl(new GMapTypeControl());
+
+                    //function setCenter1(center1, center2) {
+                    //map.setCenter(new GLatLng(center1, center2), 10);
+                    //}
+
+                    function setCenter(lat, log, zoom) {
+                        map.setCenter(new GLatLng(lat, log), zoom);
+                    }
+
+                    function myFunc(lat, log, add) {
+
+                        var point = new GLatLng(lat, log);
+                        var marker = createMarker(point, add);
+                        map.addOverlay(marker);
+                        // map.setUIToDefault();
+                    }
+                }
+
+                // display a warning if the browser was not compatible
+                else {
+                    alert("Sorry, the Google Maps API is not compatible with this browser");
+                }
+
+
+                // This Javascript is based on code provided by the
+                // Community Church Javascript Team
+                // http://www.bisphamchurch.org.uk/   
+                // http://econym.org.uk/gmap/
+
+    //]]>
+            </script>
+        </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+setCenter('28.6139391','77.2090212',10); //]]>
+</script>
+</form>
+</body>
+</html>
+
