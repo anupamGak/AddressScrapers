@@ -9,9 +9,9 @@ params = {
 	"geoengine" : "google",
 	"method" : "get",
 	"page" : "1",
-	"pagesize" : "600",
+	"pagesize" : "700",
 	"storetype" : "",
-	"latlng" : "21.16108585,79.07251014999997,4770"
+	"latlng" : "21.16108585,79.07251014999997,1800"
 }
 
 resp = requests.get("http://placesws.adidas-group.com/API/search", params=params)
