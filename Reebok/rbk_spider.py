@@ -55,6 +55,6 @@ for sdict in storedicts:
 
 		shopdump.append(shop)
 
-with open('addr.json', 'w') as f:
+with open('rbk_addr.json', 'w') as f:
 	dump(shopdump, f, indent=1)
 print "Done!"

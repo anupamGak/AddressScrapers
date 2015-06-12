@@ -1,0 +1,5006 @@
+[
+ {
+  "city": "Hyderabad,", 
+  "locality": " Kondapur", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "Madhapur, SMR Vinay Technopolis, Opp. Satyam, Madhapur Road, Kondapur", 
+  "landmark": " Opp. Satyam", 
+  "sublocality": " Madhapur Road"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " Food Court - II", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "Manikonda Village, Gachibowli, Infosys, Food Court - II", 
+  "landmark": "", 
+  "sublocality": " Infosys"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " Himayathnagar", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "G - 3, Aaltos A & M Trade Center, Himayathnagar", 
+  "landmark": "", 
+  "sublocality": " Aaltos A & M Trade Center"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " Banjara Hills", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "Diet Zone, KBR Park, Parking Lot # 10, Road No. 2, Opp.TDP Party Office, Banjara Hills", 
+  "landmark": " Opp.TDP Party Office", 
+  "sublocality": " Road No. 2"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " Gachibowli", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "Beeco Arcade, Plot No. 73, Shop No. A2, Vinayak Nagar Colony, Gachibowli", 
+  "landmark": "", 
+  "sublocality": " Vinayak Nagar Colony"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " Ghachibowli", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "Microsoft Campus, Manikonda Village, Ghachibowli", 
+  "landmark": "", 
+  "sublocality": " Manikonda Village"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " Somajiguda ", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "Central Plaza Complex, 6-3-902/A, Ground Floor,  Raj Bhavan Road, Somajiguda ", 
+  "landmark": "", 
+  "sublocality": "  Raj Bhavan Road"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " S R Nagar", 
+  "pincode": "500 038", 
+  "state": "Andhra Pradesh", 
+  "address": "53/3RT, Ground Floor, Thabgha Terrain, S R Nagar", 
+  "landmark": "", 
+  "sublocality": " Thabgha Terrain"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " Banjara Hills", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "GVK One Mall, Road No.1 & 10, Banjara Hills", 
+  "landmark": "", 
+  "sublocality": " Road No.1 & 10"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " Toli Chowki", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "Yousuf Tekri, 9-4-77/3/A/1, Toli Chowki", 
+  "landmark": "", 
+  "sublocality": " 9-4-77/3/A/1"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": "HITECH CITY", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "STORE # 47506, LEVEL \u2013 4, FOOD COURT, INORBIT MALL,HITECH CITY", 
+  "landmark": "", 
+  "sublocality": " INORBIT MALL"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": "  Road No.3", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "Banjara Hills, Shop # 5, Lumbini Amrutha Chambers, 8-2-248/B,  Road No.3", 
+  "landmark": "", 
+  "sublocality": " 8-2-248/B"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " Khairatabad", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "Prasad's Multiplex, 1st Floor, Beside NTR Gardens, Khairatabad", 
+  "landmark": "Beside NTR Gardens", 
+  "sublocality": " 1st Floor"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " Road No. 1 / 68", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "Jubilee Hills, Green View Plaza, Plot No. 1299 D, Road No. 1 / 68", 
+  "landmark": "", 
+  "sublocality": " Plot No. 1299 D"
+ }, 
+ {
+  "city": "HYDERABAD,", 
+  "locality": "  WAVEROCK BUILDING  GACHIBOWLI", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "FOOD COURT,  WAVEROCK BUILDING  GACHIBOWLI,", 
+  "landmark": "", 
+  "sublocality": "FOOD COURT"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": "block \u2013 2 high street dlf cybercity gachibowli", 
+  "pincode": "500032", 
+  "state": "Andhra Pradesh", 
+  "address": "SUBWAY,block \u2013 2 high street dlf cybercity gachibowli", 
+  "landmark": "", 
+  "sublocality": "SUBWAY"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " SBR Gateway", 
+  "pincode": "500081", 
+  "state": "Andhra Pradesh", 
+  "address": "Subway, SBR Gateway Opposite: Cyber Gateway Hitech City", 
+  "landmark": " Opposite: Cyber Gateway Hitech City", 
+  "sublocality": "Subway"
+ }, 
+ {
+  "city": "HYDERABAD,", 
+  "locality": " K RAHEJA IT PARKS", 
+  "pincode": "500082", 
+  "state": "Andhra Pradesh", 
+  "address": "M A M FOODS & PRODUCTS, BUILDING NO. 9, K RAHEJA IT PARKS, OPP. WESTIN HOTEL", 
+  "landmark": " OPP. WESTIN HOTEL", 
+  "sublocality": " BUILDING NO. 9"
+ }, 
+ {
+  "city": "HYDERABAD,", 
+  "locality": " SHIVAM ROAD", 
+  "pincode": "500007", 
+  "state": "Andhra Pradesh", 
+  "address": "# 2-2-7/1/3 & 4, D-8,D.D. COLONY, SHIVAM ROAD,", 
+  "landmark": "", 
+  "sublocality": "D.D. COLONY"
+ }, 
+ {
+  "city": "HYDERABAD,", 
+  "locality": " JAYABHERI FILLING STATION", 
+  "pincode": "500055", 
+  "state": "Andhra Pradesh", 
+  "address": "SUBWAY, BPCL PETROL PUMP, JAYABHERI FILLING STATION", 
+  "landmark": "", 
+  "sublocality": " BPCL PETROL PUMP"
+ }, 
+ {
+  "city": "HYDERABAD,", 
+  "locality": " YELLAREDDY GUDA", 
+  "pincode": "500073", 
+  "state": "Andhra Pradesh", 
+  "address": "SHOP NO. 8-3-1085 & 8-3-1086, RAGHAVENRA'S RESIDENCY , PLOT NO. 49, SRINAGAR COLONY, YELLAREDDY GUDA", 
+  "landmark": "", 
+  "sublocality": " SRINAGAR COLONY"
+ }, 
+ {
+  "city": "HYDERABAD,", 
+  "locality": " Kukatpalli Hyderabad 500072.", 
+  "pincode": "500072", 
+  "state": "Andhra Pradesh", 
+  "address": "Subway, Food court, 3rd Floor, ManjeeraTrinityMall, KPHB,JNTU Road, Kukatpalli Hyderabad 500072.", 
+  "landmark": "", 
+  "sublocality": "JNTU Road"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " Gachibowli", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "Food Court, Q-City IT Park, Nanakramguda, Gachibowli,", 
+  "landmark": "", 
+  "sublocality": " Nanakramguda"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " Attapur", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "Pillar # 129,Survey # 407, 4-1-11, Attapur", 
+  "landmark": "", 
+  "sublocality": " 4-1-11"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " Gachibowli", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "Food court, Continental Hospital, Nanakramguda, Gachibowli", 
+  "landmark": "", 
+  "sublocality": " Nanakramguda"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " ROAD NO 1", 
+  "pincode": "500034", 
+  "state": "Andhra Pradesh", 
+  "address": "G5, M S TOWERS, ROAD NO 1", 
+  "landmark": "", 
+  "sublocality": " M S TOWERS"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " Banjara Hills", 
+  "pincode": "500034", 
+  "state": "Andhra Pradesh", 
+  "address": "Shop # G5, M S Towers, Road # 1, Banjara Hills", 
+  "landmark": "", 
+  "sublocality": " Road # 1"
+ }, 
+ {
+  "city": "HYDERABAD,", 
+  "locality": " PANJAGUTTA", 
+  "pincode": "500004", 
+  "state": "Andhra Pradesh", 
+  "address": "SUBWAY, FOOD COURT, GROUND FLOOR, HYDERABAD CENTRAL, PANJAGUTTA", 
+  "landmark": "", 
+  "sublocality": " HYDERABAD CENTRAL"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " Panjagutta", 
+  "pincode": "040-42213405", 
+  "state": "Andhra Pradesh", 
+  "address": "Food Court, Ground Floor, Hyderabad Central Mall, Panjagutta", 
+  "landmark": "", 
+  "sublocality": " Hyderabad Central Mall"
+ }, 
+ {
+  "city": "HYDERABAD ,", 
+  "locality": "SUBWAY STREET # 4", 
+  "pincode": "500007", 
+  "state": "Andhra Pradesh", 
+  "address": "SUBWAY STREET # 4 OPP: ICICI BANK HABSIGUDA ", 
+  "landmark": " OPP: ICICI BANK HABSIGUDA ", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Kurnool,", 
+  "locality": "India.", 
+  "pincode": "518004", 
+  "state": "Andhra Pradesh", 
+  "address": "Door No:40/304, K.J Complex, Bhagyanagar, Kurnool, Andhra Pradesh-518004,India.", 
+  "landmark": "", 
+  "sublocality": " Andhra Pradesh-518004"
+ }, 
+ {
+  "city": "Nalgonda,", 
+  "locality": " suryapet mandal", 
+  "pincode": "508213", 
+  "state": "Andhra Pradesh", 
+  "address": "SUBWAY, 7 highway  food court, rayengudem village, suryapet mandal", 
+  "landmark": "", 
+  "sublocality": " rayengudem village"
+ }, 
+ {
+  "city": "Rangareddi,", 
+  "locality": " patncheru Mandal", 
+  "pincode": "502329", 
+  "state": "Andhra Pradesh", 
+  "address": "SUBWAY, Gitam University Campus Rudraram Village, patncheru Mandal", 
+  "landmark": "", 
+  "sublocality": " Gitam University Campus Rudraram Village"
+ }, 
+ {
+  "city": "Secunderabad,", 
+  "locality": " Sardar Patel Road", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "May Fari Building, 1-8-303/34/GB4, Sardar Patel Road", 
+  "landmark": "", 
+  "sublocality": " 1-8-303/34/GB4"
+ }, 
+ {
+  "city": "Secunderabad,", 
+  "locality": "Subway Laxmi Tyres BPCL Petrol Pump ", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "Subway Laxmi Tyres BPCL Petrol Pump Besides Sigma Hospital S D Road", 
+  "landmark": "Besides Sigma Hospital S D Road", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Secunderabad,", 
+  "locality": " Sainikpuri", 
+  "pincode": "500094", 
+  "state": "Andhra Pradesh", 
+  "address": "LindenFoods Pvt Ltd, 39-182, Vayupuri, Sainikpuri", 
+  "landmark": "", 
+  "sublocality": " Vayupuri"
+ }, 
+ {
+  "city": "Vijayawada ,", 
+  "locality": " fortune murali park road", 
+  "pincode": "520010", 
+  "state": "Andhra Pradesh", 
+  "address": "SUBWAY, surya satya appartments, 40-6-22/a,  revenue colony, fortune murali park road", 
+  "landmark": "", 
+  "sublocality": "  revenue colony"
+ }, 
+ {
+  "city": "Visakhapatnam,", 
+  "locality": " Siripuram Road", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "Shop 7 / 7 A, Dutt Island, 10-1-47, Siripuram Road", 
+  "landmark": "", 
+  "sublocality": " 10-1-47"
+ }, 
+ {
+  "city": "Visakhapatnam,", 
+  "locality": " RUSHIKONDA VILLAGE", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "STORE # 48325, IT BHAVAN, CHANDRAHAS, GITAM UNIVERSITY CAMPUS, RUSHIKONDA VILLAGE", 
+  "landmark": "", 
+  "sublocality": " GITAM UNIVERSITY CAMPUS"
+ }, 
+ {
+  "city": "Warangal,", 
+  "locality": "  Asian SrideviI Mall Hanamkonda", 
+  "pincode": "", 
+  "state": "Andhra Pradesh", 
+  "address": "Subway, Spicy Times Food Court,  Asian SrideviI Mall Hanamkonda", 
+  "landmark": "", 
+  "sublocality": " Spicy Times Food Court"
+ }, 
+ {
+  "city": "Guwahati ,", 
+  "locality": " Christian Basti", 
+  "pincode": "781005", 
+  "state": "Assam", 
+  "address": "556 GS Road , Christian Basti", 
+  "landmark": "", 
+  "sublocality": "556 GS Road "
+ }, 
+ {
+  "city": "Guwahati,", 
+  "locality": " Food Court ", 
+  "pincode": "781039", 
+  "state": "Assam", 
+  "address": "IIT Guwahati, Food Court ", 
+  "landmark": "", 
+  "sublocality": "IIT Guwahati"
+ }, 
+ {
+  "city": "Kishangarh,", 
+  "locality": " Rajeev Gandhi Technology Park", 
+  "pincode": "160101", 
+  "state": "Chandigarh", 
+  "address": "J & R Enterprises, Rajeev Gandhi Technology Park,", 
+  "landmark": "", 
+  "sublocality": "J & R Enterprises"
+ }, 
+ {
+  "city": "Raipur,", 
+  "locality": "Labhandi G.E. Road", 
+  "pincode": "492001", 
+  "state": "Chhattisgarh", 
+  "address": "Ground Floor , Magneto-The Mall,Labhandi G.E. Road", 
+  "landmark": "", 
+  "sublocality": " Magneto-The Mall"
+ }, 
+ {
+  "city": "Raipur,", 
+  "locality": " Pandri", 
+  "pincode": "492005", 
+  "state": "Chhattisgarh", 
+  "address": "Ground Floor, Chhatisgarh City Centre Mall, Pandri", 
+  "landmark": "", 
+  "sublocality": " Chhatisgarh City Centre Mall"
+ }, 
+ {
+  "city": "Nani Daman,", 
+  "locality": "Prince view Apt.Shop no.7&8", 
+  "pincode": "396201", 
+  "state": "Daman & Diu", 
+  "address": "Subway,Prince view Apt.Shop no.7&8 Opp. SBI Bank,near Jetty Road,", 
+  "landmark": " Opp. SBI Bank,near Jetty Road", 
+  "sublocality": "Subway"
+ }, 
+ {
+  "city": "Delhi,", 
+  "locality": " 29 Jawahar Nagar Malkaganj Road", 
+  "pincode": "110009", 
+  "state": "Delhi /NCR", 
+  "address": "Shop No.2, 29 Jawahar Nagar Malkaganj Road", 
+  "landmark": "", 
+  "sublocality": "Shop No.2"
+ }, 
+ {
+  "city": "Delhi,", 
+  "locality": " TDI Mall Rajouri Garden", 
+  "pincode": "110027", 
+  "state": "Delhi /NCR", 
+  "address": "UG-17, TDI Mall Rajouri Garden", 
+  "landmark": "", 
+  "sublocality": "UG-17"
+ }, 
+ {
+  "city": "Delhi,", 
+  "locality": " Rajouri Garden main market", 
+  "pincode": "110027", 
+  "state": "Delhi /NCR", 
+  "address": "F-115, shop no# 2, Rajouri Garden main market", 
+  "landmark": "", 
+  "sublocality": " shop no# 2"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " Sector 10 A Market", 
+  "pincode": "122004 ", 
+  "state": "Delhi /NCR", 
+  "address": "SCO No.17, Sector 10 A Market", 
+  "landmark": "", 
+  "sublocality": "SCO No.17"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " Gurgaon", 
+  "pincode": "122002", 
+  "state": "Delhi /NCR", 
+  "address": "SG 102, DLF Gallaria Arcade Phase 4, Gurgaon", 
+  "landmark": "", 
+  "sublocality": " DLF Gallaria Arcade Phase 4"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " Sector 51                           Gurgaon.", 
+  "pincode": "122001", 
+  "state": "Delhi /NCR", 
+  "address": "Food court, Artemis Hospital, Sector 51                           Gurgaon.", 
+  "landmark": "", 
+  "sublocality": " Artemis Hospital"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": "DLF Phase 4 Foodcourt Cybergreen Building", 
+  "pincode": "122002", 
+  "state": "Delhi /NCR", 
+  "address": "DLF Phase 4 Foodcourt Cybergreen Building", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": "DLF Phase 4 Foodcourt Cybergreen Building", 
+  "pincode": "122002", 
+  "state": "Delhi /NCR", 
+  "address": "DLF Phase 4 Foodcourt Cybergreen Building", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": "DLF Phase 1 Foodcourt Kiosk #303  DT Megal Mall", 
+  "pincode": "122002", 
+  "state": "Delhi /NCR", 
+  "address": "DLF Phase 1 Foodcourt Kiosk #303  DT Megal Mall", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": "Sector-53 No. G-16", 
+  "pincode": "110001", 
+  "state": "Delhi /NCR", 
+  "address": "Sector-53 No. G-16", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " 3rd Floor MGF Metropolitan Mall", 
+  "pincode": "122001", 
+  "state": "Delhi /NCR", 
+  "address": "MG Rd Shop No 4, 3rd Floor MGF Metropolitan Mall", 
+  "landmark": "", 
+  "sublocality": "MG Rd Shop No 4"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " Upper Ground Fl DLF Cyber City", 
+  "pincode": "122001", 
+  "state": "Delhi /NCR", 
+  "address": "Tower C RTC11, Upper Ground Fl DLF Cyber City", 
+  "landmark": "", 
+  "sublocality": "Tower C RTC11"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": "  Sector 21", 
+  "pincode": "122002", 
+  "state": "Delhi /NCR", 
+  "address": "SUBWAY, Food Court,, Unitech Infospace It PARK, SEZ, Dundahera,  Sector 21,", 
+  "landmark": "", 
+  "sublocality": " Dundahera"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " NH 8", 
+  "pincode": "122002", 
+  "state": "Delhi /NCR", 
+  "address": "Kiosk No 4 in the Food Court at 3rd floor, NH 8", 
+  "landmark": "", 
+  "sublocality": "Kiosk No 4 in the Food Court at 3rd floor"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " J-1 Qutab Plaza", 
+  "pincode": "122001", 
+  "state": "Delhi /NCR", 
+  "address": "DLF Phase I, J-1 Qutab Plaza", 
+  "landmark": "", 
+  "sublocality": "DLF Phase I"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": "Unit Number-4 Block-B Ground F Vatika Business Park Sector-49 Business Mall", 
+  "pincode": "122001", 
+  "state": "Delhi /NCR", 
+  "address": "Unit Number-4 Block-B Ground F Vatika Business Park Sector-49 Business Mall", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " Unit", 
+  "pincode": "", 
+  "state": "Delhi /NCR", 
+  "address": "12, Amenity Block, Old Delhi Gurgaon Rd, Dundahera, Sec 21 Infospace IT Part (Sez), Unit", 
+  "landmark": "", 
+  "sublocality": " Sec 21 Infospace IT Part (Sez)"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " DLF Phase 2", 
+  "pincode": "122002", 
+  "state": "Delhi /NCR", 
+  "address": "Building No. 10, Ground Floor Tower A, DLF Phase 2", 
+  "landmark": "", 
+  "sublocality": " Ground Floor Tower A"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " 1st Floor Hong Kong Bazaar", 
+  "pincode": "122002", 
+  "state": "Delhi /NCR", 
+  "address": "MDLR Mall, Sushant Lok Phase 2 Sec 57, Shop 17, 1st Floor Hong Kong Bazaar", 
+  "landmark": "", 
+  "sublocality": " Shop 17"
+ }, 
+ {
+  "city": "NewDelhi,", 
+  "locality": "G-18  Agarwal Funcity Mall  Prashant Vihar  Rohini  New Delhi", 
+  "pincode": "110010", 
+  "state": "Delhi /NCR", 
+  "address": "G-18  Agarwal Funcity Mall  Prashant Vihar  Rohini  New Delhi", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "NewDelhi,", 
+  "locality": " Paharganj Main Market", 
+  "pincode": "110055", 
+  "state": "Delhi /NCR", 
+  "address": "5134/4, Paharganj Main Market,  Near RK ASHRAM Metro Station,", 
+  "landmark": "Near RK ASHRAM Metro Station", 
+  "sublocality": "5134/4"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Lodhi Colony", 
+  "pincode": "110003", 
+  "state": "Delhi /NCR", 
+  "address": "Shop-107 Mehar Chand Market, Lodhi Colony", 
+  "landmark": "", 
+  "sublocality": "Shop-107 Mehar Chand Market"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Hari Nagar", 
+  "pincode": "110064", 
+  "state": "Delhi /NCR", 
+  "address": "Shop # HL 4, Jail Road, Hari Nagar", 
+  "landmark": "", 
+  "sublocality": " Jail Road"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Karol Bagh", 
+  "pincode": "110015", 
+  "state": "Delhi /NCR", 
+  "address": "WEA , Shop # 1&2, 15 A/63, Ajmal Khan Road, Karol Bagh", 
+  "landmark": "", 
+  "sublocality": " Ajmal Khan Road"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Sarojini Nagar", 
+  "pincode": "110029", 
+  "state": "Delhi /NCR", 
+  "address": "Shop no. 107/ 108, DLF South Square, MLCP, Sarojini Nagar", 
+  "landmark": "", 
+  "sublocality": " MLCP"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Alaknanda shopping centre", 
+  "pincode": "110019", 
+  "state": "Delhi /NCR", 
+  "address": "Shop # 2, Building H 2, Alaknanda shopping centre", 
+  "landmark": "", 
+  "sublocality": " Building H 2"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Jangpura", 
+  "pincode": "110010", 
+  "state": "Delhi /NCR", 
+  "address": "Shop # 1, Birbal Road, Jangpura", 
+  "landmark": "", 
+  "sublocality": " Birbal Road"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " 1 Birbal Road Jangpura Extention", 
+  "pincode": "110014", 
+  "state": "Delhi /NCR", 
+  "address": "Shop No. 5 & 6, 1 Birbal Road Jangpura Extention", 
+  "landmark": "", 
+  "sublocality": "Shop No. 5 & 6"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": "M-71 Greater Kailash Part I Market/Ground Floor Greater Kailash Market", 
+  "pincode": "110048", 
+  "state": "Delhi /NCR", 
+  "address": "M-71 Greater Kailash Part I Market/Ground Floor Greater Kailash Market", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Renu Trehan", 
+  "pincode": "11003", 
+  "state": "Delhi /NCR", 
+  "address": "8C Khan Market Balbir Singh, Renu Trehan", 
+  "landmark": "", 
+  "sublocality": "8C Khan Market Balbir Singh"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Nehru Place-Shopping Mall", 
+  "pincode": "110019", 
+  "state": "Delhi /NCR", 
+  "address": "Shop GF-03, Grandlay Cinema, Nehru Place-Shopping Mall", 
+  "landmark": "", 
+  "sublocality": " Grandlay Cinema"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Ground Floor Satyam Cineplex", 
+  "pincode": "110008", 
+  "state": "Delhi /NCR", 
+  "address": "Satyam Cineplex Patel Nagar Shop No. 1, Ground Floor Satyam Cineplex", 
+  "landmark": "", 
+  "sublocality": "Satyam Cineplex Patel Nagar Shop No. 1"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": "M-75 M Block Market Greater Kailash-11 Market", 
+  "pincode": "110048", 
+  "state": "Delhi /NCR", 
+  "address": "M-75 M Block Market Greater Kailash-11 Market", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": "Domestic Terminal 3 Food Court Indira Gandhi Int'l Airport", 
+  "pincode": "110037", 
+  "state": "Delhi /NCR", 
+  "address": "Domestic Terminal 3 Food Court Indira Gandhi Int'l Airport", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Shop #42 New Friends Colony Great India Mall", 
+  "pincode": "110025", 
+  "state": "Delhi /NCR", 
+  "address": "1 Community Centre, Shop #42 New Friends Colony Great India Mall", 
+  "landmark": "", 
+  "sublocality": "1 Community Centre"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": "Splendor Form Unit #029", 
+  "pincode": "110044", 
+  "state": "Delhi /NCR", 
+  "address": "Splendor Form Unit #029", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Grd Fl Enclave Extension", 
+  "pincode": "110029", 
+  "state": "Delhi /NCR", 
+  "address": "Main Kamal Cinema Road A-1, Grd Fl Enclave Extension", 
+  "landmark": "", 
+  "sublocality": "Main Kamal Cinema Road A-1"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Pitampura", 
+  "pincode": "110087", 
+  "state": "Delhi /NCR", 
+  "address": "Subway, Shop # 8, Netaji subhash place, Metro station, Pitampura", 
+  "landmark": "", 
+  "sublocality": " Metro station"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " 2nd Floor Inderprastha Apollo Hospital", 
+  "pincode": "110070", 
+  "state": "Delhi /NCR", 
+  "address": "DLF Place, Vasant Kunj Kiosk #FC4, 2nd Floor Inderprastha Apollo Hospital", 
+  "landmark": "", 
+  "sublocality": " Vasant Kunj Kiosk #FC4"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Sector B Vasant Square Mall", 
+  "pincode": "110070", 
+  "state": "Delhi /NCR", 
+  "address": "Pocket-5, Community Centre G-10A, Plot No. A, Sector B Vasant Square Mall", 
+  "landmark": "", 
+  "sublocality": " Plot No. A"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " UTTAM NAAGAR", 
+  "pincode": "110059", 
+  "state": "Delhi /NCR", 
+  "address": "C-47/48, NAWADA HOUSING COMPLEX,DWARKA MOR, UTTAM NAAGAR,", 
+  "landmark": "", 
+  "sublocality": "DWARKA MOR"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Saket", 
+  "pincode": "110017", 
+  "state": "Delhi /NCR", 
+  "address": "Shop No. 6, GF, 17-Community Centre, Saket", 
+  "landmark": "", 
+  "sublocality": " 17-Community Centre"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": "Nelson Mandela Road Vasant Kunj Shopping Complex Ambience Mall", 
+  "pincode": "110070", 
+  "state": "Delhi /NCR", 
+  "address": "Nelson Mandela Road Vasant Kunj Shopping Complex Ambience Mall", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": "26/32 Pal Mohan Sadan East Patel Nagar", 
+  "pincode": "110008", 
+  "state": "Delhi /NCR", 
+  "address": "26/32 Pal Mohan Sadan East Patel Nagar", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Saket Aarbee International Max Devki Devi Hospital", 
+  "pincode": "110017", 
+  "state": "Delhi /NCR", 
+  "address": "Press Road, Saket Aarbee International Max Devki Devi Hospital", 
+  "landmark": "", 
+  "sublocality": "Press Road"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Phase-1", 
+  "pincode": "110091", 
+  "state": "Delhi /NCR", 
+  "address": "Shop no. G- 7,8,9, Sikka Plaza- 2, Mayur Vihar, Phase-1", 
+  "landmark": "", 
+  "sublocality": " Mayur Vihar"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Chattarpur", 
+  "pincode": "110031", 
+  "state": "Delhi /NCR", 
+  "address": "D 88, Ground Floor, 100ft Road, Chattarpur", 
+  "landmark": "", 
+  "sublocality": " 100ft Road"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Model Town- II", 
+  "pincode": "110009", 
+  "state": "Delhi /NCR", 
+  "address": "F 14/14, Ground Floor, Model Town- II", 
+  "landmark": "", 
+  "sublocality": " Ground Floor"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Pitampura", 
+  "pincode": "110034", 
+  "state": "Delhi /NCR", 
+  "address": "Shop no.66, Harsh Vihar, Rani Bagh, Pitampura", 
+  "landmark": "", 
+  "sublocality": " Rani Bagh"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Tilak Nagar", 
+  "pincode": "110034", 
+  "state": "Delhi /NCR", 
+  "address": "Upper Ground Floor, 24/5, Mall Road, Tilak Nagar", 
+  "landmark": "", 
+  "sublocality": " Mall Road"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " South Ex Part -1", 
+  "pincode": "110049", 
+  "state": "Delhi /NCR", 
+  "address": "G-24, Ground Floor, South Ex Part -1", 
+  "landmark": "", 
+  "sublocality": " Ground Floor"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Nelson Mandela Marg", 
+  "pincode": "110067", 
+  "state": "Delhi /NCR", 
+  "address": "B-250/2 Munirka Village, Nelson Mandela Marg", 
+  "landmark": "", 
+  "sublocality": "B-250/2 Munirka Village"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Shalimar Bagh", 
+  "pincode": "110088", 
+  "state": "Delhi /NCR", 
+  "address": "AG 44, Shalimar Bagh, Near AL Market", 
+  "landmark": "Near AL Market", 
+  "sublocality": "AG 44"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " 1st Floor M Block Market GK-1", 
+  "pincode": "110048", 
+  "state": "Delhi /NCR", 
+  "address": "M-57, 1st Floor M Block Market GK-1", 
+  "landmark": "", 
+  "sublocality": "M-57"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " JANAKPURI", 
+  "pincode": "110058", 
+  "state": "Delhi /NCR", 
+  "address": "A-5B/66A, JANAKPURI, NEAR C2 BUS STAND", 
+  "landmark": "NEAR C2 BUS STAND", 
+  "sublocality": "A-5B/66A"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Defence Colony", 
+  "pincode": "110024", 
+  "state": "Delhi /NCR", 
+  "address": "Shop No. 47, Defence Colony Main Market, Defence Colony", 
+  "landmark": "", 
+  "sublocality": " Defence Colony Main Market"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " PASCHIM VIHAR", 
+  "pincode": "110087", 
+  "state": "Delhi /NCR", 
+  "address": "M-1, GURU HARKISHAN NAGAR, PASCHIM VIHAR", 
+  "landmark": "", 
+  "sublocality": " GURU HARKISHAN NAGAR"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Saket FC 7  Courtyard Food court", 
+  "pincode": "110017", 
+  "state": "Delhi /NCR", 
+  "address": "Tenancy DLF, Saket FC 7  Courtyard Food court", 
+  "landmark": "", 
+  "sublocality": "Tenancy DLF"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Ground Floor", 
+  "pincode": "110075", 
+  "state": "Delhi /NCR", 
+  "address": "Sector-5, Dwarka Shop No G-5, Ground Floor", 
+  "landmark": "", 
+  "sublocality": " Dwarka Shop No G-5"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": "No 60/17 Old Rajinder Nagar", 
+  "pincode": "110060", 
+  "state": "Delhi /NCR", 
+  "address": "No 60/17 Old Rajinder Nagar", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Phase 2", 
+  "pincode": "110009", 
+  "state": "Delhi /NCR", 
+  "address": "No. H-4/7 Model Town, Phase 2", 
+  "landmark": "", 
+  "sublocality": "No. H-4/7 Model Town"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": "V3SEast Centre Plot No. 12 Unit No. G-111 District Centre", 
+  "pincode": "110092", 
+  "state": "Delhi /NCR", 
+  "address": "V3SEast Centre Plot No. 12 Unit No. G-111 District Centre", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Unit G-8 Janakpuri Westend Mall", 
+  "pincode": "110058", 
+  "state": "Delhi /NCR", 
+  "address": "District Centre, Unit G-8 Janakpuri Westend Mall", 
+  "landmark": "", 
+  "sublocality": "District Centre"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " M2K Mall Rohini Sec-3", 
+  "pincode": "110085", 
+  "state": "Delhi /NCR", 
+  "address": "Shop no. 37, M2K Mall Rohini Sec-3", 
+  "landmark": "", 
+  "sublocality": "Shop no. 37"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": "No.2 Ajmal Khan Road Karol Bagh", 
+  "pincode": "110005", 
+  "state": "Delhi /NCR", 
+  "address": "No.2 Ajmal Khan Road Karol Bagh", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": "Shop No. 4 Rajouri Garden F-115", 
+  "pincode": "110027", 
+  "state": "Delhi /NCR", 
+  "address": "Shop No. 4 Rajouri Garden F-115", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": "No. 284 Satya Niketan Moti Bagh-II", 
+  "pincode": "110021", 
+  "state": "Delhi /NCR", 
+  "address": "No. 284 Satya Niketan Moti Bagh-II", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Food Court", 
+  "pincode": "110027", 
+  "state": "Delhi /NCR", 
+  "address": "2nd floor Paciffic Mall Khayala Road Shop no 10, Food Court", 
+  "landmark": "", 
+  "sublocality": "2nd floor Paciffic Mall Khayala Road Shop no 10"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": "  Paschim Vihar A\u20133/319", 
+  "pincode": "110063", 
+  "state": "Delhi /NCR", 
+  "address": "SUBWAY,  Paschim Vihar A\u20133/319, near Jawalahedi mkt", 
+  "landmark": "near Jawalahedi mkt", 
+  "sublocality": "SUBWAY"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Lajpat Nagar-2 ", 
+  "pincode": "110024", 
+  "state": "Delhi /NCR", 
+  "address": "SUBWAY, A-22, Lajpat Nagar-2 Near Metro Station", 
+  "landmark": "Near Metro Station", 
+  "sublocality": " A-22"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": "Punjabi Bagh(West)", 
+  "pincode": "110026", 
+  "state": "Delhi /NCR", 
+  "address": "SUBWAY  31 Central Market, Ground Floor,Punjabi Bagh(West)", 
+  "landmark": "", 
+  "sublocality": " Ground Floor"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " New Delhi 110019.", 
+  "pincode": "110019 ", 
+  "state": "Delhi /NCR", 
+  "address": "EPICURIA food court,  Shop No 11, TDI mall, metro station,  Nehru Place, New Delhi 110019.", 
+  "landmark": "", 
+  "sublocality": "  Nehru Place"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Vijay Nagar Single Storey", 
+  "pincode": "110009", 
+  "state": "Delhi /NCR", 
+  "address": "F-21B, Vijay Nagar Single Storey, Opp NDPL House", 
+  "landmark": " Opp NDPL House", 
+  "sublocality": "F-21B"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Ashok Vihar Phase - 2", 
+  "pincode": "110052", 
+  "state": "Delhi /NCR", 
+  "address": "Subway, Ashok Vihar(opp Satyawati College) 14/3 Community Centre 2, Ashok Vihar Phase - 2", 
+  "landmark": "", 
+  "sublocality": " Ashok Vihar(opp Satyawati College) 14/3 Community Centre 2"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Kalkaji", 
+  "pincode": "100019", 
+  "state": "Delhi /NCR", 
+  "address": "Shop # 3-4, K1, Kalkaji, Near Deshbandhu College,", 
+  "landmark": "Near Deshbandhu College", 
+  "sublocality": " K1"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Connaught Place", 
+  "pincode": "110001", 
+  "state": "Delhi /NCR", 
+  "address": "Shop # M-8, Plot number 3, M Block, Opposite Statesman House, Connaught Place", 
+  "landmark": " Opposite Statesman House", 
+  "sublocality": " M Block"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Malviya Nagar", 
+  "pincode": "110017", 
+  "state": "Delhi /NCR", 
+  "address": "Subway Shop # E 1/3, Main market road, Malviya Nagar,", 
+  "landmark": "", 
+  "sublocality": " Main market road"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " Main Market", 
+  "pincode": "110016", 
+  "state": "Delhi /NCR", 
+  "address": "C-8, shop # 2, SDA, Main Market,", 
+  "landmark": "", 
+  "sublocality": " SDA"
+ }, 
+ {
+  "city": "New Delhi,", 
+  "locality": " GK2", 
+  "pincode": "110048", 
+  "state": "Delhi /NCR", 
+  "address": "Subway Shop # 23&24, commercial complex, Masjid moth, GK2, ", 
+  "landmark": "", 
+  "sublocality": " Masjid moth"
+ }, 
+ {
+  "city": "Noida,", 
+  "locality": " Noida", 
+  "pincode": "201301", 
+  "state": "Delhi /NCR", 
+  "address": "2A, Sector 38A, Noida", 
+  "landmark": "", 
+  "sublocality": " Sector 38A"
+ }, 
+ {
+  "city": "Noida,", 
+  "locality": "No B-14 Sector-18", 
+  "pincode": "201301", 
+  "state": "Delhi /NCR", 
+  "address": "No B-14 Sector-18", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Noida,", 
+  "locality": " Food Court Spice Mall", 
+  "pincode": "201301", 
+  "state": "Delhi /NCR", 
+  "address": "Sec 25 A Shop No. 301, Food Court Spice Mall", 
+  "landmark": "", 
+  "sublocality": "Sec 25 A Shop No. 301"
+ }, 
+ {
+  "city": "Noida,", 
+  "locality": " Grd Floor Logix Techno Park", 
+  "pincode": "201301", 
+  "state": "Delhi /NCR", 
+  "address": "Plot No 5, Tower B Sector 127, Grd Floor Logix Techno Park", 
+  "landmark": "", 
+  "sublocality": " Tower B Sector 127"
+ }, 
+ {
+  "city": "Noida,", 
+  "locality": "No. B1/24 Sector 50 Commercial Market", 
+  "pincode": "201301", 
+  "state": "Delhi /NCR", 
+  "address": "No. B1/24 Sector 50 Commercial Market", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Noida,", 
+  "locality": " 29 Sector-62 Noida Attrium of Tower C", 
+  "pincode": "201309", 
+  "state": "Delhi /NCR", 
+  "address": "Logix Cyber Park, C-28, 29 Sector-62 Noida Attrium of Tower C", 
+  "landmark": "", 
+  "sublocality": " C-28"
+ }, 
+ {
+  "city": "Noida,", 
+  "locality": " Sec 125 Amity Campus", 
+  "pincode": "201301", 
+  "state": "Delhi /NCR", 
+  "address": "Gate no 4, Sec 125 Amity Campus", 
+  "landmark": "", 
+  "sublocality": "Gate no 4"
+ }, 
+ {
+  "city": "Goa,", 
+  "locality": " Calungute", 
+  "pincode": "403516", 
+  "state": "Goa", 
+  "address": "7/173, Saunta Vaddo, Opposite to Brittos, Baga beach, Calungute", 
+  "landmark": " Opposite to Brittos", 
+  "sublocality": " Baga beach"
+ }, 
+ {
+  "city": "Panji,", 
+  "locality": " DB Bhandodkar Road", 
+  "pincode": "403001", 
+  "state": "Goa", 
+  "address": "SUBWAY Grand Square, Predio Abilio Coelhoi Pereira, DB Bhandodkar Road,", 
+  "landmark": "", 
+  "sublocality": " Predio Abilio Coelhoi Pereira"
+ }, 
+ {
+  "city": "Ahmedabad,", 
+  "locality": "Dev Arcade", 
+  "pincode": "", 
+  "state": "Gujarat", 
+  "address": "SUBWAY, Near Iscon Circle,S.G Highway,Shop No.18/a,Dev Arcade", 
+  "landmark": "Near Iscon Circle", 
+  "sublocality": "Shop No.18/a"
+ }, 
+ {
+  "city": "Ahmedabad,", 
+  "locality": " Off S.G. Road", 
+  "pincode": "", 
+  "state": "Gujarat", 
+  "address": "SUBWAY, Corporate House, Judges Bungalow Road Bodakdev, Off S.G. Road", 
+  "landmark": "", 
+  "sublocality": " Judges Bungalow Road Bodakdev"
+ }, 
+ {
+  "city": "Ahmedabad,", 
+  "locality": "Opp.Prahladnager Auda Garden", 
+  "pincode": "", 
+  "state": "Gujarat", 
+  "address": "SUBWAY, Anand Nager Road, Satellite Shop,  Pushpak Complex,Opp.Prahladnager Auda Garden", 
+  "landmark": "", 
+  "sublocality": "  Pushpak Complex"
+ }, 
+ {
+  "city": "Ahmedabad,", 
+  "locality": "Navrangpura", 
+  "pincode": "", 
+  "state": "Gujarat", 
+  "address": "SUBWAY,Vijay Char Rasta,8 HSG house,Navrangpura", 
+  "landmark": "", 
+  "sublocality": "8 HSG house"
+ }, 
+ {
+  "city": "Ahmedabad,", 
+  "locality": " Gujarat  Domestic Terminal", 
+  "pincode": "", 
+  "state": "Gujarat", 
+  "address": "SUBWAY,SHA Domestic Terminal letter SVP Int\u2019l Airport, Ahmedabad, Gujarat  Domestic Terminal", 
+  "landmark": "", 
+  "sublocality": " Ahmedabad"
+ }, 
+ {
+  "city": "Ahmedabad,", 
+  "locality": " IIM ROAD", 
+  "pincode": "380015", 
+  "state": "Gujarat", 
+  "address": "SUBWAY  Shivalik Plaza,Shop no.6, IIM ROAD,", 
+  "landmark": "", 
+  "sublocality": "Shop no.6"
+ }, 
+ {
+  "city": "Ahmedabad,", 
+  "locality": " C.G.Road", 
+  "pincode": "380006", 
+  "state": "Gujarat", 
+  "address": "SUBWAY Shop no 1, Sachet-2, Nr.National Handloom, C.G.Road,", 
+  "landmark": "", 
+  "sublocality": " Nr.National Handloom"
+ }, 
+ {
+  "city": "Ahmedabad,", 
+  "locality": " Thaltej Cross Roads", 
+  "pincode": "", 
+  "state": "Gujarat", 
+  "address": "SUBWAY,  BG -1 Ground floor, Acropolis Mall, Sarkhej- Gandhi Nagar Highway, Thaltej Cross Roads", 
+  "landmark": "", 
+  "sublocality": " Sarkhej- Gandhi Nagar Highway"
+ }, 
+ {
+  "city": "Ahmedabad,", 
+  "locality": "  above cross word book shop", 
+  "pincode": "380009", 
+  "state": "Gujarat", 
+  "address": "Subway,  47/48 Ground Floor ,  shrikrishna centre,  above cross word book shop,  near mithakali six roads", 
+  "landmark": "near mithakali six roads", 
+  "sublocality": "  shrikrishna centre"
+ }, 
+ {
+  "city": "Ahmedabad,", 
+  "locality": "Maninagar", 
+  "pincode": "380008", 
+  "state": "Gujarat", 
+  "address": "SUBWAY Mangal Bhawan, Opp.Icchaben wadi, Rambagh Road, Nr Kankaria lake,Maninagar", 
+  "landmark": " Opp.Icchaben wadi", 
+  "sublocality": " Nr Kankaria lake"
+ }, 
+ {
+  "city": "Ahmedabad,", 
+  "locality": "  Drive In Cinema Road", 
+  "pincode": "380052", 
+  "state": "Gujarat", 
+  "address": "SUBWAY,  Drive In Cinema Road, Near Himalaya Mall, Opp.Asia Public School", 
+  "landmark": "Near Himalaya Mall, Opp.Asia Public School", 
+  "sublocality": "SUBWAY"
+ }, 
+ {
+  "city": "Ahmedabad,", 
+  "locality": " Paldi", 
+  "pincode": "380022", 
+  "state": "Gujarat", 
+  "address": "Subway, Shivalik 5, Shop no 6 , Nr. mahalaxmi cross road , Paldi", 
+  "landmark": "", 
+  "sublocality": " Nr. mahalaxmi cross road "
+ }, 
+ {
+  "city": "Ahmedabad,", 
+  "locality": " Satellite ", 
+  "pincode": "380015", 
+  "state": "Gujarat", 
+  "address": "Subway, G.F.11& 12, Gold Coin Complex, Jodhpur Char Rasta, Satellite ", 
+  "landmark": "", 
+  "sublocality": " Jodhpur Char Rasta"
+ }, 
+ {
+  "city": "Ahmedabad,", 
+  "locality": "Shymal cross road", 
+  "pincode": "380015", 
+  "state": "Gujarat", 
+  "address": "Vraj Complex, Opp.Dhananjay Tower,Shymal cross road,", 
+  "landmark": " Opp.Dhananjay Tower", 
+  "sublocality": "Vraj Complex"
+ }, 
+ {
+  "city": "Ahmedabad,", 
+  "locality": " Gujarat", 
+  "pincode": "380015", 
+  "state": "Gujarat", 
+  "address": "GF 6 & 7, Vraj Complex,   Opp.Dhananjay Tower,Shyamal Cross roads,   Satellite, Ahmedabad, Gujarat", 
+  "landmark": " Opp.Dhananjay Tower", 
+  "sublocality": " Ahmedabad"
+ }, 
+ {
+  "city": "Ahmedabad,", 
+  "locality": "Gandhinagar Highway", 
+  "pincode": "380005", 
+  "state": "Gujarat", 
+  "address": "Shop No.6,G.F.,4 D Square Mall,Vishat,Gandhinagar Highway", 
+  "landmark": "", 
+  "sublocality": "Vishat"
+ }, 
+ {
+  "city": "Ahmedabad,", 
+  "locality": "  Front of Vastrapur Lake", 
+  "pincode": "380052", 
+  "state": "Gujarat", 
+  "address": "Alpha One mall,  Shop no.DF-06,  Third Floor,  Front of Vastrapur Lake", 
+  "landmark": "", 
+  "sublocality": "  Third Floor"
+ }, 
+ {
+  "city": "Ahmedabad,", 
+  "locality": " S.G highway sola", 
+  "pincode": "380060", 
+  "state": "Gujarat", 
+  "address": "Shop 14-15 satyamev 2 Opp Kargil petrol pump, S.G highway sola", 
+  "landmark": " Opp Kargil petrol pump", 
+  "sublocality": "Shop 14-15 satyamev 2"
+ }, 
+ {
+  "city": "Ahmedabad ,", 
+  "locality": " Science city Road", 
+  "pincode": "380060", 
+  "state": "Gujarat", 
+  "address": "Shop no 3 &4 City Square, Opp Science city Main gate, Science city Road", 
+  "landmark": " Opp Science city Main gate", 
+  "sublocality": "Shop no 3 &4 City Square"
+ }, 
+ {
+  "city": "Anand ,", 
+  "locality": " Bhalej Road", 
+  "pincode": "388001", 
+  "state": "Gujarat", 
+  "address": "Subway, Yogi Arcade, Ground Floor, Near New Bus Stand, Bhalej Road, ", 
+  "landmark": "Near New Bus Stand", 
+  "sublocality": " Ground Floor"
+ }, 
+ {
+  "city": "Anand,", 
+  "locality": " Vidhya Nagar", 
+  "pincode": "", 
+  "state": "Gujarat", 
+  "address": "SUBWAY, Mota Bazaar, Vidhya Nagar", 
+  "landmark": "", 
+  "sublocality": " Mota Bazaar"
+ }, 
+ {
+  "city": "Bardoli,", 
+  "locality": " Surat Dhuliya Road", 
+  "pincode": "394601", 
+  "state": "Gujarat", 
+  "address": "C. Khan Empire, Opp. Golden Hotel, Surat Dhuliya Road", 
+  "landmark": " Opp. Golden Hotel", 
+  "sublocality": "C. Khan Empire"
+ }, 
+ {
+  "city": "Baroda,", 
+  "locality": " Ground Floor", 
+  "pincode": "", 
+  "state": "Gujarat", 
+  "address": "SUBWAY, Race Course Circle, b/s Citibk, 1 Abishek Sun Building, Ground Floor", 
+  "landmark": "", 
+  "sublocality": " 1 Abishek Sun Building"
+ }, 
+ {
+  "city": "Baroda,", 
+  "locality": " Karelibaug", 
+  "pincode": "390018", 
+  "state": "Gujarat", 
+  "address": "SUBWAY, 4/3 & 4/4 GF, Goverdhan Apartments, Near Utkarsh Petrol Pump, Karelibaug", 
+  "landmark": "Near Utkarsh Petrol Pump", 
+  "sublocality": " Goverdhan Apartments"
+ }, 
+ {
+  "city": "Baroda,", 
+  "locality": " Fatehgunj", 
+  "pincode": "390002", 
+  "state": "Gujarat", 
+  "address": "SUBWAY Seven Seas Mall Food Court Third floor, Fatehgunj", 
+  "landmark": "", 
+  "sublocality": "SUBWAY Seven Seas Mall Food Court Third floor"
+ }, 
+ {
+  "city": "Baroda,", 
+  "locality": "  Sayajigunj Circle", 
+  "pincode": "390002", 
+  "state": "Gujarat", 
+  "address": "SUBWAY,  Sayajigunj Circle Opp. M.S. University", 
+  "landmark": " Opp. M.S. University", 
+  "sublocality": "SUBWAY"
+ }, 
+ {
+  "city": "Bharuch,", 
+  "locality": " Civil Hospital Road", 
+  "pincode": "392001", 
+  "state": "Gujarat", 
+  "address": "SUBWAY 5/6, Municipal Shopping Center, Civil Hospital Road,", 
+  "landmark": "", 
+  "sublocality": " Municipal Shopping Center"
+ }, 
+ {
+  "city": "Bopal, Ahmedabad,", 
+  "locality": " S.p. Ring Road", 
+  "pincode": "380059", 
+  "state": "Gujarat", 
+  "address": "Ground Floor-1, Samarpan Complex, Bopal  Ambli cross road, S.p. Ring Road", 
+  "landmark": "", 
+  "sublocality": " Bopal  Ambli cross road"
+ }, 
+ {
+  "city": "Bulsar,", 
+  "locality": " Ta.Dist.Valsad", 
+  "pincode": "396035", 
+  "state": "Gujarat", 
+  "address": "Subway, Gundlav,N.H.8, GIDC, Plot no.105 &106, Ta.Dist.Valsad", 
+  "landmark": "", 
+  "sublocality": " Plot no.105 &106"
+ }, 
+ {
+  "city": "Gandhinagar,", 
+  "locality": " S.G.Highway", 
+  "pincode": "382009 ", 
+  "state": "Gujarat", 
+  "address": "SUBWAY, Infocity Super-mall -annexe g/f-01/a, 01/b, 01/c, 01/d, Infocity Nr. Indroda Circle, S.G.Highway,", 
+  "landmark": "", 
+  "sublocality": " Infocity Nr. Indroda Circle"
+ }, 
+ {
+  "city": "Jamnagar,", 
+  "locality": "  Pandit Nehru Marg", 
+  "pincode": "361008", 
+  "state": "Gujarat", 
+  "address": "Shop no. 1,2,3, Silver Plaza, Street no. 7, Patel Colony,  Pandit Nehru Marg", 
+  "landmark": "", 
+  "sublocality": " Patel Colony"
+ }, 
+ {
+  "city": "Kosamba ,", 
+  "locality": " AT n PO Mangrol ", 
+  "pincode": "394120", 
+  "state": "Gujarat", 
+  "address": "TRIDENT INC, Nandini Food Plaza, NH8, Nr Kosamba Cross Roads, AT n PO Mangrol ", 
+  "landmark": "", 
+  "sublocality": " Nr Kosamba Cross Roads"
+ }, 
+ {
+  "city": "LIMBDI,", 
+  "locality": " National Highway 8A", 
+  "pincode": "363421", 
+  "state": "Gujarat", 
+  "address": "Shop# 3 (Subway),Highway Food Mall, National Highway 8A", 
+  "landmark": "", 
+  "sublocality": "Highway Food Mall"
+ }, 
+ {
+  "city": "Mehsana,", 
+  "locality": " Ahmedabad-Mehsana Highway", 
+  "pincode": "384435", 
+  "state": "Gujarat", 
+  "address": "Subway, Shop no. 1, Water World Resort, Amipura, Ahmedabad-Mehsana Highway", 
+  "landmark": "", 
+  "sublocality": " Amipura"
+ }, 
+ {
+  "city": "NADIAD,", 
+  "locality": " Nadiad Uttarsanda Road", 
+  "pincode": "387001", 
+  "state": "Gujarat", 
+  "address": "OPP. D.D.U Pharmacy College, Nadiad Uttarsanda Road,", 
+  "landmark": "", 
+  "sublocality": "OPP. D.D.U Pharmacy College"
+ }, 
+ {
+  "city": "Navsari ,", 
+  "locality": " Ground Floor Prem Residency ", 
+  "pincode": "396445", 
+  "state": "Gujarat", 
+  "address": "Shop No. 1, Ground Floor Prem Residency Near Saarbatiya Talav Lunci Kui", 
+  "landmark": "Near Saarbatiya Talav Lunci Kui", 
+  "sublocality": "Shop No. 1"
+ }, 
+ {
+  "city": "Rajkot,", 
+  "locality": " Kalawad Road", 
+  "pincode": "360005", 
+  "state": "Gujarat", 
+  "address": "SUBWAY, C store gas station Bharat Petroleum, Near Rani Tower, Kalawad Road,", 
+  "landmark": "Near Rani Tower", 
+  "sublocality": " C store gas station Bharat Petroleum"
+ }, 
+ {
+  "city": "Rajkot,", 
+  "locality": " Race course ring road", 
+  "pincode": "", 
+  "state": "Gujarat", 
+  "address": "Subway Race Course Plaza, shop no 8& 9, Race course ring road", 
+  "landmark": "", 
+  "sublocality": " shop no 8& 9"
+ }, 
+ {
+  "city": "Surat,", 
+  "locality": " U-3 Amruth Dhara Apts", 
+  "pincode": "", 
+  "state": "Gujarat", 
+  "address": "SUBWAY, Opp St. Xaviers, Ghod Dod Road, U-3 Amruth Dhara Apts", 
+  "landmark": " Opp St. Xaviers", 
+  "sublocality": " Ghod Dod Road"
+ }, 
+ {
+  "city": "Surat,", 
+  "locality": " ICHANATH", 
+  "pincode": "395007", 
+  "state": "Gujarat", 
+  "address": "Subway L-11, ANMOL COMPLEX, ICHANATH", 
+  "landmark": "", 
+  "sublocality": " ANMOL COMPLEX"
+ }, 
+ {
+  "city": "Surat,", 
+  "locality": "  Main Piplod Road", 
+  "pincode": "395007", 
+  "state": "Gujarat", 
+  "address": "Subway  Shop no.9-10,  Sanskrut Appartment,  Beside Rajanse Cinema,  Main Piplod Road, ", 
+  "landmark": "Beside Rajanse Cinema", 
+  "sublocality": "  Sanskrut Appartment"
+ }, 
+ {
+  "city": "Surat,", 
+  "locality": "Gujarat", 
+  "pincode": "395001", 
+  "state": "Gujarat", 
+  "address": "President Plaza,UG-2,  Near R.T.O. Nanpura,  Ring Road,  Surat,Gujarat,", 
+  "landmark": "Near R.T.O. Nanpura", 
+  "sublocality": "  Surat"
+ }, 
+ {
+  "city": "Surat,", 
+  "locality": " Magdalla", 
+  "pincode": "395007", 
+  "state": "Gujarat", 
+  "address": "FC-1,Third Floor, V.R.Mall,Surat-Dumas Road, Magdalla", 
+  "landmark": "", 
+  "sublocality": "Surat-Dumas Road"
+ }, 
+ {
+  "city": "Surat,", 
+  "locality": " Adajan", 
+  "pincode": "395009", 
+  "state": "Gujarat", 
+  "address": "shop no. 204, Takshashila Appartment, Anand -Mahal Road, Adajan", 
+  "landmark": "", 
+  "sublocality": " Anand -Mahal Road"
+ }, 
+ {
+  "city": "Vadodara,", 
+  "locality": " Alembic road", 
+  "pincode": "390003", 
+  "state": "Gujarat", 
+  "address": "Subway, In Orbit Mall, K-9,2nd Floor, Alembic road", 
+  "landmark": "", 
+  "sublocality": "2nd Floor"
+ }, 
+ {
+  "city": "Vadodara,", 
+  "locality": " Sama-Sawli Road", 
+  "pincode": "390008", 
+  "state": "Gujarat", 
+  "address": "Siddarth Anex, Shop no. 8,9,10, Beside M.S.Hostel, Sama-Sawli Road", 
+  "landmark": "Beside M.S.Hostel", 
+  "sublocality": "10"
+ }, 
+ {
+  "city": "Vadodara,", 
+  "locality": " Harni Road", 
+  "pincode": "390022", 
+  "state": "Gujarat", 
+  "address": "Vadodara Civil Airport, Inside Security Hold Area, Harni Road", 
+  "landmark": "", 
+  "sublocality": " Inside Security Hold Area"
+ }, 
+ {
+  "city": "Vadodara,", 
+  "locality": " Vasna Road", 
+  "pincode": "390015", 
+  "state": "Gujarat", 
+  "address": "Subway, Puncham Icon, Shop no. 5/6, Vasna Road", 
+  "landmark": "", 
+  "sublocality": " Shop no. 5/6"
+ }, 
+ {
+  "city": "VADODARA,", 
+  "locality": " VADI WADI", 
+  "pincode": "390007", 
+  "state": "Gujarat", 
+  "address": "SHOP NO. 3 GF, ATLANTIS K10, NEAR GENDA CIRCLE , VADI WADI", 
+  "landmark": "NEAR GENDA CIRCLE ", 
+  "sublocality": " ATLANTIS K10"
+ }, 
+ {
+  "city": "Vadodra,", 
+  "locality": "  Dist.Vadodra", 
+  "pincode": "391240", 
+  "state": "Gujarat", 
+  "address": "Shop no. 1,2 and 3,   Near Karzan Toll Plaza,  Bharthana,Karzan,  Dist.Vadodra", 
+  "landmark": "Near Karzan Toll Plaza", 
+  "sublocality": "Karzan"
+ }, 
+ {
+  "city": "Vadodra,", 
+  "locality": " Shubhanpura Road", 
+  "pincode": "390023", 
+  "state": "Gujarat", 
+  "address": "S. Square, GF 7/8/9, Shubhanpura Road", 
+  "landmark": "", 
+  "sublocality": " GF 7/8/9"
+ }, 
+ {
+  "city": "Vadodra,", 
+  "locality": " Old Padra Road", 
+  "pincode": "390020", 
+  "state": "Gujarat", 
+  "address": "SUBWAY, Gajanand Complex, Ground Floor, Shop No.1/2, Opp.Tube Company, Old Padra Road", 
+  "landmark": " Opp.Tube Company", 
+  "sublocality": " Shop No.1/2"
+ }, 
+ {
+  "city": "Vapi,", 
+  "locality": " N.H. -8", 
+  "pincode": "396191", 
+  "state": "Gujarat", 
+  "address": "Subway, Nakshtra Vihar, Shop no. G 6&7, Gokul Vihar, N.H. -8, Opp. Jalaram Mandir,", 
+  "landmark": " Opp. Jalaram Mandir", 
+  "sublocality": " Gokul Vihar"
+ }, 
+ {
+  "city": "Faridabad,", 
+  "locality": " Faridabad", 
+  "pincode": "121007", 
+  "state": "Haryana", 
+  "address": "SCO 78/Sector 15, Faridabad", 
+  "landmark": "", 
+  "sublocality": "SCO 78/Sector 15"
+ }, 
+ {
+  "city": "G.T ROAD ( National Highway-1 ) KARNAL,", 
+  "locality": "  G.T ROAD ( National Highway-1 ) KARNAL ", 
+  "pincode": "132001", 
+  "state": "Haryana", 
+  "address": "NEELKANTH STAR  NEAR RADHA SWAMI SATSANG,  G.T ROAD ( National Highway-1 ) KARNAL ", 
+  "landmark": "NEAR RADHA SWAMI SATSANG", 
+  "sublocality": "NEELKANTH STAR  "
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " Sector 14", 
+  "pincode": "122001", 
+  "state": "Haryana", 
+  "address": "SCF - 97, Sector 14,", 
+  "landmark": "", 
+  "sublocality": "SCF - 97"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": "  Sushant Shopping Arcade", 
+  "pincode": "122002", 
+  "state": "Haryana", 
+  "address": "D-104,  Sushant Shopping Arcade", 
+  "landmark": "", 
+  "sublocality": "D-104"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": "welldone tech park  sector 48 shona road", 
+  "pincode": "122001", 
+  "state": "Haryana", 
+  "address": "SH 07  ground floor ,welldone tech park  sector 48 shona road", 
+  "landmark": "", 
+  "sublocality": "SH 07  ground floor "
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " Ground Floor", 
+  "pincode": "- 122001", 
+  "state": "Haryana", 
+  "address": "Unit No 4, Ground Floor,", 
+  "landmark": "", 
+  "sublocality": "Unit No 4"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " Sohna Road  Close to South City 2 Main Gate", 
+  "pincode": "- 122001", 
+  "state": "Haryana", 
+  "address": "SH-07, Ground Floor  WellDone Tech Park, Sohna Road  Close to South City 2 Main Gate", 
+  "landmark": "", 
+  "sublocality": " Ground Floor  WellDone Tech Park"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " Part 2 Market ", 
+  "pincode": "122001", 
+  "state": "Haryana", 
+  "address": "SUBWAY, Booth # 76,   Sector-15, Part 2 Market ", 
+  "landmark": "", 
+  "sublocality": "   Sector-15"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " Arjun Marg. DLF City Phase 1", 
+  "pincode": "122022", 
+  "state": "Haryana", 
+  "address": "SUBWAY, D-144, Shopping Mall, Arjun Marg. DLF City Phase 1", 
+  "landmark": "", 
+  "sublocality": " Shopping Mall"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " Business Zone   Nirvana Country  Sector- 50", 
+  "pincode": "122001", 
+  "state": "Haryana", 
+  "address": "SUBWAY, B - 3, Business Zone   Nirvana Country  Sector- 50", 
+  "landmark": "", 
+  "sublocality": " B - 3"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " Main Huda Market", 
+  "pincode": "122002", 
+  "state": "Haryana", 
+  "address": "Subway, SCO-46, Sector 31, 32A, Main Huda Market", 
+  "landmark": "", 
+  "sublocality": " 32A"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " Block B", 
+  "pincode": "122001", 
+  "state": "Haryana", 
+  "address": "Building No 5,DLF Cybercity, Shop#4,Food court, Block B,", 
+  "landmark": "", 
+  "sublocality": "Food court"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " Huda city centre Metro station", 
+  "pincode": "122002", 
+  "state": "Haryana", 
+  "address": "Shop # 16, Food Court, Huda city centre Metro station", 
+  "landmark": "", 
+  "sublocality": " Food Court"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": " Sector 50", 
+  "pincode": "122002", 
+  "state": "Haryana", 
+  "address": "Ground Floor -69, Good Earth City Centre, Malibu Towne, Sector 50", 
+  "landmark": "", 
+  "sublocality": " Malibu Towne"
+ }, 
+ {
+  "city": "Gurgaon,", 
+  "locality": "Udyog Vihar", 
+  "pincode": "122002", 
+  "state": "Haryana", 
+  "address": "AIRTEL Plot no.16,Phase - 4 ,Udyog Vihar", 
+  "landmark": "", 
+  "sublocality": "Phase - 4 "
+ }, 
+ {
+  "city": "Hisar,", 
+  "locality": " Delhi Road", 
+  "pincode": "", 
+  "state": "Haryana", 
+  "address": "SUBWAY  DSS-71, Urban Estate 2, Delhi Road", 
+  "landmark": "", 
+  "sublocality": " Urban Estate 2"
+ }, 
+ {
+  "city": "IMT Manesar,", 
+  "locality": " Sector 2", 
+  "pincode": "122050", 
+  "state": "Haryana", 
+  "address": "Shop No-14, K Block Ground Floor, Eros Corporate Park, Sector 2, ", 
+  "landmark": "", 
+  "sublocality": " Eros Corporate Park"
+ }, 
+ {
+  "city": "Karnal,", 
+  "locality": " Sector  45", 
+  "pincode": "132001", 
+  "state": "Haryana", 
+  "address": "Food Court Counter # 6, CHD Daana-Paani Mall, NH-1, Sector  45", 
+  "landmark": "", 
+  "sublocality": " NH-1"
+ }, 
+ {
+  "city": "Mullana,", 
+  "locality": "  MM University", 
+  "pincode": "133203", 
+  "state": "Haryana", 
+  "address": "SUBWAY, Shop No.  62,  Shopping Complex,  MM University", 
+  "landmark": "", 
+  "sublocality": "  Shopping Complex"
+ }, 
+ {
+  "city": "Panchkula,", 
+  "locality": " Sector 15", 
+  "pincode": "134113", 
+  "state": "Haryana", 
+  "address": "S.C.F. -12, Sector 15", 
+  "landmark": "", 
+  "sublocality": "S.C.F. -12"
+ }, 
+ {
+  "city": "Panchkula,", 
+  "locality": "  Main Market", 
+  "pincode": "134116", 
+  "state": "Haryana", 
+  "address": "SUBWAY, DSS-256,Sector-20,  Main Market", 
+  "landmark": "", 
+  "sublocality": "Sector-20"
+ }, 
+ {
+  "city": "Panipat,", 
+  "locality": " Model Town", 
+  "pincode": "132103", 
+  "state": "Haryana", 
+  "address": "Shop # 84 L, Model Town", 
+  "landmark": "", 
+  "sublocality": "Shop # 84 L"
+ }, 
+ {
+  "city": "Rewari,", 
+  "locality": " Rewari", 
+  "pincode": "122015", 
+  "state": "Haryana", 
+  "address": "Hans Resort, Milestone 91, Bawal, National Highway 8, Rewari", 
+  "landmark": "", 
+  "sublocality": " National Highway 8"
+ }, 
+ {
+  "city": "SONEPAT,", 
+  "locality": " KUNDLI", 
+  "pincode": "131028", 
+  "state": "Haryana", 
+  "address": "Shop # 47, Grd Floor,TDI Mall, KUNDLI", 
+  "landmark": "", 
+  "sublocality": "TDI Mall"
+ }, 
+ {
+  "city": "Yamunanagar,", 
+  "locality": " Model Town", 
+  "pincode": "135001", 
+  "state": "Haryana", 
+  "address": "524 A, Gobindpuri Road, Model Town", 
+  "landmark": "", 
+  "sublocality": " Gobindpuri Road"
+ }, 
+ {
+  "city": "Shimla,", 
+  "locality": " Shimla", 
+  "pincode": "", 
+  "state": "Himachal Pradesh", 
+  "address": "49, The Mall, Shimla", 
+  "landmark": "", 
+  "sublocality": " The Mall"
+ }, 
+ {
+  "city": "Dhanbad,", 
+  "locality": "  Govindpur Main Road", 
+  "pincode": "828127", 
+  "state": "Jharkhand", 
+  "address": "SUBWAY, Unit#407,Ozone Galleria,  Govindpur Main Road", 
+  "landmark": "", 
+  "sublocality": "Ozone Galleria"
+ }, 
+ {
+  "city": "Jamshedpur,", 
+  "locality": "Road#2 Contractors Area  Bishtupur", 
+  "pincode": "", 
+  "state": "Jharkhand", 
+  "address": "Road#2 Contractors Area  Bishtupur", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Ranchi,", 
+  "locality": "JD Mall", 
+  "pincode": "", 
+  "state": "Jharkhand", 
+  "address": "JD Mall", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " c v ramannagar", 
+  "pincode": "560093", 
+  "state": "Karnataka", 
+  "address": "SUBWAY,  Unit no 7, food court , bagamane commerz, Bagamane tech park .( opp Citibank ATM), c v ramannagar", 
+  "landmark": " opp Citibank ATM)", 
+  "sublocality": " Bagamane tech park .("
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": "No.16 Church Street G-05 Phoenix Arcade", 
+  "pincode": "560001", 
+  "state": "Karnataka", 
+  "address": "No.16 Church Street G-05 Phoenix Arcade", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Anjaneya Temple St Cor New Bel Road", 
+  "pincode": "560054", 
+  "state": "Karnataka", 
+  "address": "Devasandra, Corporation Ward No.100, Anjaneya Temple St Cor New Bel Road,", 
+  "landmark": "", 
+  "sublocality": " Corporation Ward No.100"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Village 150 151 Bengaluru Dist", 
+  "pincode": "560066 ", 
+  "state": "Karnataka", 
+  "address": "EPIP Industrial Area, Nos 75 76 85 87 149 156 Hoodi, Village 150 151 Bengaluru Dist", 
+  "landmark": "", 
+  "sublocality": " Nos 75 76 85 87 149 156 Hoodi"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Bull Temple Road Basavanagudi", 
+  "pincode": "560004", 
+  "state": "Karnataka", 
+  "address": "41 1, Bull Temple Road Basavanagudi,", 
+  "landmark": "", 
+  "sublocality": "41 1"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Mota Royal Arcade", 
+  "pincode": "560001", 
+  "state": "Karnataka", 
+  "address": "158, Brigade Road, Shop No.24-25, Mota Royal Arcade, ", 
+  "landmark": "", 
+  "sublocality": " Shop No.24-25"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Shivaji Nagar", 
+  "pincode": "", 
+  "state": "Karnataka", 
+  "address": "The Touchstone (Annex), # 2, Bowring Hospital Road, Shivaji Nagar", 
+  "landmark": "", 
+  "sublocality": " Bowring Hospital Road"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " 2nd Floor The Transit", 
+  "pincode": "560029", 
+  "state": "Karnataka", 
+  "address": "The Forum Mall, Hosur Road #213, 2nd Floor The Transit", 
+  "landmark": "", 
+  "sublocality": " Hosur Road #213"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Indira Nagar", 
+  "pincode": "560071", 
+  "state": "Karnataka", 
+  "address": "No 3, 1st Main,2nd Stage Domlur, Indira Nagar", 
+  "landmark": "", 
+  "sublocality": "2nd Stage Domlur"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": "Margrath road", 
+  "pincode": "560025", 
+  "state": "Karnataka", 
+  "address": "The food court,Garudha Mall,72,Margrath road", 
+  "landmark": "", 
+  "sublocality": "72"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Whitefield Road", 
+  "pincode": "", 
+  "state": "Karnataka", 
+  "address": "G 48, Information Tech Park, Whitefield Road", 
+  "landmark": "", 
+  "sublocality": " Information Tech Park"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Old Madras Road", 
+  "pincode": "", 
+  "state": "Karnataka", 
+  "address": "Shop # 3, RMZ Infinity, Opp Big Bazaar, Old Madras Road", 
+  "landmark": " Opp Big Bazaar", 
+  "sublocality": " RMZ Infinity"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": "EcoSpace Outer Ring Road Belan EcoSpace", 
+  "pincode": "560008", 
+  "state": "Karnataka", 
+  "address": "EcoSpace Outer Ring Road Belan EcoSpace", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": "No. 6 Kasturba Road Subway HPCL C-Store", 
+  "pincode": "560001", 
+  "state": "Karnataka", 
+  "address": "No. 6 Kasturba Road Subway HPCL C-Store", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": "#175 176 1st Fl", 
+  "pincode": "560076", 
+  "state": "Karnataka", 
+  "address": "#175 176 1st Fl Opp. Purva Ht Billekali Banner", 
+  "landmark": " Opp. Purva Ht Billekali Banner", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": "Bangalore Airport", 
+  "pincode": "", 
+  "state": "Karnataka", 
+  "address": "Bangalore Airport", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": "Off Intermediate Ring Road Embassy Golf Links Bus Park", 
+  "pincode": "560016", 
+  "state": "Karnataka", 
+  "address": "Off Intermediate Ring Road Embassy Golf Links Bus Park", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " UB City", 
+  "pincode": "560001", 
+  "state": "Karnataka", 
+  "address": "Vittal Mallaya Road The Collections, UB City", 
+  "landmark": "", 
+  "sublocality": "Vittal Mallaya Road The Collections"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Commercial Street Entrance", 
+  "pincode": "", 
+  "state": "Karnataka", 
+  "address": "Kamraj Road No. 4, Commercial Street Entrance", 
+  "landmark": "", 
+  "sublocality": "Kamraj Road No. 4"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Hosur Rd Terminal Bldg Infosys Campus", 
+  "pincode": "560012", 
+  "state": "Karnataka", 
+  "address": "Electronics City, Hosur Rd Terminal Bldg Infosys Campus", 
+  "landmark": "", 
+  "sublocality": "Electronics City"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": "Interediate Ring Road", 
+  "pincode": "", 
+  "state": "Karnataka", 
+  "address": "Interediate Ring Road", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " IBC Knowledge Park Accent", 
+  "pincode": "560029", 
+  "state": "Karnataka", 
+  "address": "Bannerghatta Road 4 1, IBC Knowledge Park Accent", 
+  "landmark": "", 
+  "sublocality": "Bannerghatta Road 4 1"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": "#81 T 11th Main Road 34 B Cross 4th T Block", 
+  "pincode": "560 041", 
+  "state": "Karnataka", 
+  "address": "#81 T 11th Main Road 34 B Cross 4th T Block", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": "Kiosk outside Arrival Gate Bangalore Int l Airport", 
+  "pincode": "560027", 
+  "state": "Karnataka", 
+  "address": "Kiosk outside Arrival Gate Bangalore Int l Airport", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Transit 2 3rd Fl ", 
+  "pincode": "560 066", 
+  "state": "Karnataka", 
+  "address": "#62 Whitefield Rd, Transit 2 3rd Fl NearVarthur Khodi Hobli", 
+  "landmark": "NearVarthur Khodi Hobli", 
+  "sublocality": "#62 Whitefield Rd"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Ulsoor The Millen", 
+  "pincode": "560 008", 
+  "state": "Karnataka", 
+  "address": "Tower-A, Plaza Level, #1 & 2 Murphy Road, Ulsoor The Millen", 
+  "landmark": "", 
+  "sublocality": " #1 & 2 Murphy Road"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Nagawara", 
+  "pincode": "", 
+  "state": "Karnataka", 
+  "address": "Beech Food Court, 1st Floor Manyata Embassy Business Park (MEBP) Outer Ring Road, Nagawara", 
+  "landmark": "", 
+  "sublocality": " 1st Floor Manyata Embassy Business Park (MEBP) Outer Ring Road"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": "#66 1 Bagmane Tech Park C.V. Raman Nagar Unit #7 Comme", 
+  "pincode": "560093", 
+  "state": "Karnataka", 
+  "address": "#66 1 Bagmane Tech Park C.V. Raman Nagar Unit #7 Comme", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": "Sampige Road FC 07", 
+  "pincode": "560003", 
+  "state": "Karnataka", 
+  "address": "Sampige Road FC 07", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Dr. Rajkumar Road Foo", 
+  "pincode": "560055", 
+  "state": "Karnataka", 
+  "address": "Orion Mall, 26 1, Bridage Gateway, Dr. Rajkumar Road Foo", 
+  "landmark": "", 
+  "sublocality": " Bridage Gateway"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " ITPB", 
+  "pincode": "", 
+  "state": "Karnataka", 
+  "address": "Unit No12, Eatree Food Court 4th Floor, Park Square Ascendas Mall, ITPB", 
+  "landmark": "", 
+  "sublocality": " Park Square Ascendas Mall"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Mosque Rd Frazer Town ", 
+  "pincode": "560005", 
+  "state": "Karnataka", 
+  "address": "92 3-1 Ground Floor, Mosque Rd Frazer Town Next to More SM ", 
+  "landmark": "Next to More SM ", 
+  "sublocality": "92 3-1 Ground Floor"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": "72 Magrath Road Store #17 Garuda Mall Foodcourt", 
+  "pincode": "560001", 
+  "state": "Karnataka", 
+  "address": "72 Magrath Road Store #17 Garuda Mall Foodcourt", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " 2nd stage Subway Food", 
+  "pincode": "560069", 
+  "state": "Karnataka", 
+  "address": "Plot no 45 1, 45th Cross JP Nagar, 2nd stage Subway Food", 
+  "landmark": "", 
+  "sublocality": " 45th Cross JP Nagar"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " No.75 EPIP area Inorbit Mall Whitefield", 
+  "pincode": "560066", 
+  "state": "Karnataka", 
+  "address": "Yosemite Hospitality Unit no, F&B 13, No.75 EPIP area Inorbit Mall Whitefield", 
+  "landmark": "", 
+  "sublocality": " F&B 13"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " 16th Main 7th cross BTM 2nd stage", 
+  "pincode": "", 
+  "state": "Karnataka", 
+  "address": "Fabtabulous Hospitality No 774, Ground floor , 16th Main 7th cross BTM 2nd stage", 
+  "landmark": "", 
+  "sublocality": " Ground floor "
+ }, 
+ {
+  "city": "Bangalore ,", 
+  "locality": " J.P Nagar 6th Phase", 
+  "pincode": "560078", 
+  "state": "Karnataka", 
+  "address": "Subway, 296, 24th Main, J.P Nagar 6th Phase,", 
+  "landmark": "", 
+  "sublocality": " 24th Main"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Domlur", 
+  "pincode": "560071 ", 
+  "state": "Karnataka", 
+  "address": "Subway, # 159, 2nd 'A' Cross, 4th Main, Domlur Second Stage, Domlur", 
+  "landmark": "", 
+  "sublocality": " Domlur Second Stage"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": "17 Cunningham road", 
+  "pincode": "560052", 
+  "state": "Karnataka", 
+  "address": "Shop # GR-3B, Grand Sigma Mall, #15,16,17 Cunningham road,", 
+  "landmark": "", 
+  "sublocality": "16"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Kalyan Nagar", 
+  "pincode": "560043", 
+  "state": "Karnataka", 
+  "address": "No 401,5th Main,2nd Block, HRBR Layout, Kalyan Nagar", 
+  "landmark": "", 
+  "sublocality": " HRBR Layout"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": "New Town Yalahanka", 
+  "pincode": "560 064", 
+  "state": "Karnataka", 
+  "address": "Opposite Seshadripuram College,New Town Yalahanka, ", 
+  "landmark": "", 
+  "sublocality": "Opposite Seshadripuram College"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " 14th MAIN", 
+  "pincode": "560 102", 
+  "state": "Karnataka", 
+  "address": "HSR 7th SECTOR, 14th MAIN", 
+  "landmark": "", 
+  "sublocality": "HSR 7th SECTOR"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": "Marathahalli Post", 
+  "pincode": "560 037", 
+  "state": "Karnataka", 
+  "address": "Store 39/2, Shop # 3 & 4, N S Complex, Kundanahalli, ITPL main Road,Marathahalli Post", 
+  "landmark": "", 
+  "sublocality": " ITPL main Road"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Gubbi Cross", 
+  "pincode": "560 077", 
+  "state": "Karnataka", 
+  "address": "#1&2, Ground Floor JNR Complex, Gubbi Cross, opp Biozeen Hennur Bagalur Mn Road Kothanur PO", 
+  "landmark": " opp Biozeen Hennur Bagalur Mn Road Kothanur PO", 
+  "sublocality": " Ground Floor JNR Complex"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Outer ring road", 
+  "pincode": "560 037", 
+  "state": "Karnataka", 
+  "address": "Arena/Total mall Counter 3 Food court, Outer ring road opp to Samsung building near Martahalli", 
+  "landmark": " opp to Samsung building near Martahalli", 
+  "sublocality": "Arena/Total mall Counter 3 Food court"
+ }, 
+ {
+  "city": "Bangalore ,", 
+  "locality": " N.Damodaran Road", 
+  "pincode": "560092", 
+  "state": "Karnataka", 
+  "address": "No 547/8, Sahakaranagar Layout,  NEAR GANESH TEMPLE, Opp Sahakarnagar Park, N.Damodaran Road", 
+  "landmark": "NEAR GANESH TEMPLE, Opp Sahakarnagar Park", 
+  "sublocality": " Sahakaranagar Layout"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": "2nd stage", 
+  "pincode": "560070", 
+  "state": "Karnataka", 
+  "address": "No-186,24th cross,2nd stage", 
+  "landmark": "", 
+  "sublocality": "24th cross"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Raja Rajeswari Nagar ", 
+  "pincode": "560098", 
+  "state": "Karnataka", 
+  "address": "#483 seetha complex 18th Main Beside ICICI/Axis Bank, Raja Rajeswari Nagar ", 
+  "landmark": "Beside ICICI/Axis Bank", 
+  "sublocality": "#483 seetha complex 18th Main "
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Seeghehalli", 
+  "pincode": "560067", 
+  "state": "Karnataka", 
+  "address": "Shop no #1,L1,Site #101,Apple City, Near HP petrol pump, Whitefield Hoskote main road, Seeghehalli", 
+  "landmark": "Near HP petrol pump", 
+  "sublocality": " Whitefield Hoskote main road"
+ }, 
+ {
+  "city": "Bangalore,", 
+  "locality": " Sarjapur Road", 
+  "pincode": "560 037", 
+  "state": "Karnataka", 
+  "address": "Market square, No 12/5,Koikondana Halli, Varthur Hobli, Sarjapur Road", 
+  "landmark": "", 
+  "sublocality": " Varthur Hobli"
+ }, 
+ {
+  "city": "Belgaum,", 
+  "locality": " Shop No. 3 Nehru Nagar", 
+  "pincode": "590010", 
+  "state": "Karnataka", 
+  "address": "JNMC Convention Centre Food Court, Shop No. 3 Nehru Nagar", 
+  "landmark": "", 
+  "sublocality": "JNMC Convention Centre Food Court"
+ }, 
+ {
+  "city": "Dharwad,", 
+  "locality": " Sattur", 
+  "pincode": "580009", 
+  "state": "Karnataka", 
+  "address": "Jannat, Plot No #296, Behind Travel Inn., Rajaji Nagar, Sattur", 
+  "landmark": "", 
+  "sublocality": " Rajaji Nagar"
+ }, 
+ {
+  "city": "Mahadevapura,", 
+  "locality": " Food Court Second Floor Phoenix Market Ci Mahadevapura", 
+  "pincode": "560048", 
+  "state": "Karnataka", 
+  "address": "SFC 10, Food Court Second Floor Phoenix Market Ci Mahadevapura", 
+  "landmark": "", 
+  "sublocality": "SFC 10"
+ }, 
+ {
+  "city": "Mangalore ,", 
+  "locality": " Bendoorwel", 
+  "pincode": "575002", 
+  "state": "Karnataka", 
+  "address": "Paramount West Gate Hotel Mallya International Balmatta Post, Bendoorwel", 
+  "landmark": "", 
+  "sublocality": "Paramount West Gate Hotel Mallya International Balmatta Post"
+ }, 
+ {
+  "city": "Manipal,", 
+  "locality": "Madhavanagar Udupi District", 
+  "pincode": "", 
+  "state": "Karnataka", 
+  "address": "Madhavanagar Udupi District", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Mysore,", 
+  "locality": " Jayalaxmipuram", 
+  "pincode": "570012", 
+  "state": "Karnataka", 
+  "address": "#121, Gokulam Main Road, Besides Easy Day, Jayalaxmipuram", 
+  "landmark": "Besides Easy Day", 
+  "sublocality": " Gokulam Main Road"
+ }, 
+ {
+  "city": "Calicut,", 
+  "locality": " Vaikkom Mohammed Basheer Road", 
+  "pincode": "673001", 
+  "state": "Kerala", 
+  "address": "No-7/1136, Ground Floor, Greenline Midcity tower, Vaikkom Mohammed Basheer Road", 
+  "landmark": "", 
+  "sublocality": " Greenline Midcity tower"
+ }, 
+ {
+  "city": "Cochin,", 
+  "locality": "  Panampilly Nagar P.O. ", 
+  "pincode": "682036", 
+  "state": "Kerala", 
+  "address": "Parappillil,  Arcade Avenue Road, Opp.Malayala Manorama,  Panampilly Nagar P.O. ", 
+  "landmark": " Opp.Malayala Manorama", 
+  "sublocality": "  Arcade Avenue Road"
+ }, 
+ {
+  "city": "Kochi ,", 
+  "locality": "Unit #410 Centre square mall M.G.Road", 
+  "pincode": "682035", 
+  "state": "Kerala", 
+  "address": "Unit #410 Centre square mall M.G.Road", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Kochi,", 
+  "locality": "Parappillil Arcade Avenue Road Panampilly Nagar P.O. CC 53 29", 
+  "pincode": "682 036", 
+  "state": "Kerala", 
+  "address": "Parappillil Arcade Avenue Road Panampilly Nagar P.O. CC 53 29", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Kochi,", 
+  "locality": " Kakkanad", 
+  "pincode": "682030", 
+  "state": "Kerala", 
+  "address": "Subway Infopark Building No: 09, Athulya InfoParks Kerala Kusumagiri PO, Kakkanad", 
+  "landmark": "", 
+  "sublocality": " Athulya InfoParks Kerala Kusumagiri PO"
+ }, 
+ {
+  "city": "Kochi,", 
+  "locality": " GROUND FLOOR", 
+  "pincode": "682019", 
+  "state": "Kerala", 
+  "address": "C/O JVR RESTAURENT, GOLD SOUK GRANDE, GROUND FLOOR,", 
+  "landmark": "", 
+  "sublocality": " GOLD SOUK GRANDE"
+ }, 
+ {
+  "city": "Kochi,", 
+  "locality": "THEVARA", 
+  "pincode": "682013", 
+  "state": "Kerala", 
+  "address": "#26/2075 A, KUTTAMPARAMBIL BUILDING, PANDIT KARUPPAN ROAD,THEVARA", 
+  "landmark": "", 
+  "sublocality": " PANDIT KARUPPAN ROAD"
+ }, 
+ {
+  "city": "Trivandrum,", 
+  "locality": " Kazhakkuttom", 
+  "pincode": "695581 ", 
+  "state": "Kerala", 
+  "address": "SUBWAY, T.C.3/6, 3(4) Reception Building Techno Park, Kazhakkuttom", 
+  "landmark": "", 
+  "sublocality": " 3(4) Reception Building Techno Park"
+ }, 
+ {
+  "city": "Trivandrum,", 
+  "locality": " Kazhakkuttom", 
+  "pincode": "695581", 
+  "state": "Kerala", 
+  "address": "SUBWAY RESTAURANT Reception Building Techno Park, Kazhakkuttom", 
+  "landmark": "", 
+  "sublocality": "SUBWAY RESTAURANT Reception Building Techno Park"
+ }, 
+ {
+  "city": "Trivandrum,", 
+  "locality": "SUBWAY RESTAURANT Style Plus  Keston Road  Devaswom Board Jn. ", 
+  "pincode": "695003", 
+  "state": "Kerala", 
+  "address": "SUBWAY RESTAURANT Style Plus  Keston Road  Devaswom Board Jn. ", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Trivandrum,", 
+  "locality": "Technopark Electronics Tech Parks-Kerala", 
+  "pincode": "695582", 
+  "state": "Kerala", 
+  "address": "Technopark Electronics Tech Parks-Kerala", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Trivandrum,", 
+  "locality": " Kowdiar", 
+  "pincode": "695003", 
+  "state": "Kerala", 
+  "address": "Styleplus T.C.4/160-8, Keston Road, Kowdiar,", 
+  "landmark": "", 
+  "sublocality": " Keston Road"
+ }, 
+ {
+  "city": "Bhopal,", 
+  "locality": " Arera Colony", 
+  "pincode": "462016", 
+  "state": "Madhya Pradesh", 
+  "address": "Food Court, 3rd Floor, DB City Mall, Arera Colony, Opp MP Nagar", 
+  "landmark": " Opp MP Nagar", 
+  "sublocality": " DB City Mall"
+ }, 
+ {
+  "city": "Bhopal,", 
+  "locality": "  E-8 Arera Colony", 
+  "pincode": "462001", 
+  "state": "Madhya Pradesh", 
+  "address": "G-8 & G-9 GF, Aura Mall,  E-8 Arera Colony", 
+  "landmark": "", 
+  "sublocality": " Aura Mall"
+ }, 
+ {
+  "city": "Indore,", 
+  "locality": " 1st Floor Showroom No. 2", 
+  "pincode": "452001", 
+  "state": "Madhya Pradesh", 
+  "address": "The Grace, 1 & 2 Kibe Compond, 1st Floor Showroom No. 2, ", 
+  "landmark": "", 
+  "sublocality": " 1 & 2 Kibe Compond"
+ }, 
+ {
+  "city": "Indore,", 
+  "locality": " Sneh Nagarl", 
+  "pincode": "91 731 6562222", 
+  "state": "Madhya Pradesh", 
+  "address": "Ground Floor Mall Atrium , Sapna Sangeeta Mall, Sapna Sangeeta Road, Sneh Nagarl", 
+  "landmark": "", 
+  "sublocality": " Sapna Sangeeta Road"
+ }, 
+ {
+  "city": "Indore,", 
+  "locality": " Old Palasia", 
+  "pincode": "452010", 
+  "state": "Madhya Pradesh", 
+  "address": "G4 - Ground Floor, The Mark, Saket Square, Old Palasia", 
+  "landmark": "", 
+  "sublocality": " Saket Square"
+ }, 
+ {
+  "city": "Indore,", 
+  "locality": " A.B. Road", 
+  "pincode": "452010", 
+  "state": "Madhya Pradesh", 
+  "address": "SUBWAY,  Mall Atrium, Ground Floor, Malhar Mega Mall, A.B. Road", 
+  "landmark": "", 
+  "sublocality": " Malhar Mega Mall"
+ }, 
+ {
+  "city": "Indore,", 
+  "locality": " C21 Mall A.B.Road", 
+  "pincode": "452010", 
+  "state": "Madhya Pradesh", 
+  "address": "Mall Atrium, Ground Floor, C21 Mall A.B.Road", 
+  "landmark": "", 
+  "sublocality": " Ground Floor"
+ }, 
+ {
+  "city": "Jabalpur,", 
+  "locality": " Russel Chowk", 
+  "pincode": "482001", 
+  "state": "Madhya Pradesh", 
+  "address": "361 & 361/1 Napier Town, Russel Chowk, Beside Jabalpur Hospital", 
+  "landmark": "Beside Jabalpur Hospital", 
+  "sublocality": "361 & 361/1 Napier Town"
+ }, 
+ {
+  "city": "Aurangabad,", 
+  "locality": " CHIKALTHANA", 
+  "pincode": "431001", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY, Unit No S-13, 1st Floor Prozone Mall PLOT \u2013 D5/P80, MIDC- API CORNER, CHIKALTHANA", 
+  "landmark": "", 
+  "sublocality": " MIDC- API CORNER"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Gateway Auto", 
+  "pincode": "400001", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY, BPCL Gas Station, Gateway Auto, Near Indigo Colaba", 
+  "landmark": "Near Indigo Colaba", 
+  "sublocality": " BPCL Gas Station"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Team India Pvt Ltd.", 
+  "pincode": "400025", 
+  "state": "Maharashtra", 
+  "address": "Shop# 9-10, Team India Pvt Ltd.", 
+  "landmark": "", 
+  "sublocality": "Shop# 9-10"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": "Shop - 6 ", 
+  "pincode": "- 412112", 
+  "state": "Maharashtra", 
+  "address": "Shop - 6 ", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Lokhandwala Complex Andheri(w). ", 
+  "pincode": "400053", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY, Shop no 10, Greenville Society, Lokhandwala Complex Andheri(w). ", 
+  "landmark": "", 
+  "sublocality": " Greenville Society"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": "Kharghar ", 
+  "pincode": "410210", 
+  "state": "Maharashtra", 
+  "address": "Shop#1 & 2,Sai Swar CHS, Near Little World Mall, Sector-2,Kharghar ", 
+  "landmark": "Near Little World Mall", 
+  "sublocality": " Sector-2"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": "Churchgate", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "Subway, Shop no. 9,Kambatta Bldg.(Eros Bldg.),next to eros cinema,J.T.Road,Churchgate", 
+  "landmark": "next to eros cinema", 
+  "sublocality": "J.T.Road"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": "Thane (W)", 
+  "pincode": "400 606", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY,Kitchen No.4, 3rd Floor,Korum Mall, Mangal Pandey Road,Near Cadbury Compound, off Eastern Express Highway,Thane (W)", 
+  "landmark": "Near Cadbury Compound", 
+  "sublocality": " off Eastern Express Highway"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " CR2  Nariman Point", 
+  "pincode": "400021", 
+  "state": "Maharashtra", 
+  "address": "Ground Floor, CR2  Nariman Point", 
+  "landmark": "", 
+  "sublocality": "Ground Floor"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " KANDIVALI EAST", 
+  "pincode": "400101", 
+  "state": "Maharashtra", 
+  "address": "SHOP NO 21/22, VASANT SARASWATI, D WING, GROUND FLOOR, THAKUR VILLAGE, KANDIVALI EAST", 
+  "landmark": "", 
+  "sublocality": " THAKUR VILLAGE"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Chembur", 
+  "pincode": "400071", 
+  "state": "Maharashtra", 
+  "address": "Kakson Holdings, A wing Plot no. 80, Sion Trombay Road Oppst R.K. Studio, Near Reliance Fresh, Chembur", 
+  "landmark": " Oppst R.K. Studio,Near Reliance Fresh", 
+  "sublocality": " Sion Trombay Road"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Akurli Road. Kandiwali East ", 
+  "pincode": "400101", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY, Unit No.7 Food Court, 3rd Floor Growel 101 Mall, Akurli Road. Kandiwali East ", 
+  "landmark": "", 
+  "sublocality": " 3rd Floor Growel 101 Mall"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Crawford Market", 
+  "pincode": "400003", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY, Shop No.4, U Marigar Building, 115, Lokmanya Tilak Road, Crawford Market,", 
+  "landmark": "", 
+  "sublocality": " Lokmanya Tilak Road"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Malad (West)", 
+  "pincode": "400064", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY Infinity Mall-2 3rd Floor  Link  Road, Malad (West)", 
+  "landmark": "", 
+  "sublocality": "SUBWAY Infinity Mall-2 3rd Floor  Link  Road"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Off Linking Road", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "Bandra West, 248, Waterfield Road, Off Linking Road", 
+  "landmark": "", 
+  "sublocality": " Waterfield Road"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Between Tulip Star and J W Marriot", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "Juhu Shop No. 1, Kings Apartment, Between Tulip Star and J W Marriot", 
+  "landmark": "", 
+  "sublocality": " Kings Apartment"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Ground Floor", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "Lower Parel, Phoenix Mills, Quorum Mall, Ground Floor", 
+  "landmark": "", 
+  "sublocality": " Quorum Mall"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Andheri (W)", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "Link Road, Infiniti Mall, Andheri (W)", 
+  "landmark": "", 
+  "sublocality": " Infiniti Mall"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " LBS Marg", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "Mulund (W), R Mall, 3rd Floor, LBS Marg", 
+  "landmark": "", 
+  "sublocality": " 3rd Floor"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Murzban Road", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "V T Sterling Cinema Food Court, GF 65, Murzban Road", 
+  "landmark": "", 
+  "sublocality": " GF 65"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Navi Mumbai", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "Sec 30, Vashi Centre One Mall, Near Vashi Station, Navi Mumbai", 
+  "landmark": "Near Vashi Station", 
+  "sublocality": " Vashi Centre One Mall"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Malad (W)", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "Inorbit Mall, Mindspace, Link Road, Malad (W)", 
+  "landmark": "", 
+  "sublocality": " Link Road"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Film City Road", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "Goregaon East, Level 3, Oberoi Mall, Spoon (Food Court), Film City Road", 
+  "landmark": "", 
+  "sublocality": " Spoon (Food Court)"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Powai", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "G - 13, City Park Building, Next to Papa Jones,Hiranandani Business Park, Powai", 
+  "landmark": "Next to Papa Jones", 
+  "sublocality": "Hiranandani Business Park"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Ghatkopar", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "R City Mall, 3rd Floor, Ghatkopar", 
+  "landmark": "", 
+  "sublocality": " 3rd Floor"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Nariman Point", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "CR2 Mall (INOX), Spoon, The Food Court, Level 1, Nariman Point", 
+  "landmark": "", 
+  "sublocality": " Level 1"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Vashi", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "Inorbit Mall, Shop No. S-18, Level - II, Sector - 30 - A, Vashi", 
+  "landmark": "", 
+  "sublocality": " Sector - 30 - A"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Prabhadevi", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "# 3, Mamta Appartments, Opp. Marathe Udyoug Bhuwan, Appa Sahed Marg, Prabhadevi", 
+  "landmark": " Opp. Marathe Udyoug Bhuwan", 
+  "sublocality": " Appa Sahed Marg"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Navi Mumbai", 
+  "pincode": "400614", 
+  "state": "Maharashtra", 
+  "address": "Shop No. 11 - 12, Citi Tower, Plot No 55, Sector 15, CBD Belapur, Navi Mumbai", 
+  "landmark": "", 
+  "sublocality": " CBD Belapur"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Darya Darshan", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "Versova 7 Bungalows Shop No. 3 & 4, Darya Darshan", 
+  "landmark": "", 
+  "sublocality": "Versova 7 Bungalows Shop No. 3 & 4"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Bandra (East)", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "Bandra Kurla BPCL Pertol Pump Inside In & Out Store, Bandra (East)", 
+  "landmark": "", 
+  "sublocality": "Bandra Kurla BPCL Pertol Pump Inside In & Out Store"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Senapati Bapat Marg", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "Lower Parel, Grand Galleria, Ground Floor, Below PVR Mutliplex, Phoenix Mills Compound, Senapati Bapat Marg", 
+  "landmark": "", 
+  "sublocality": " Phoenix Mills Compound"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Chembur", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "K-Star Mall, 3rd level, Shop No 6, Sion - Trombay Road, Chembur", 
+  "landmark": "", 
+  "sublocality": " Sion - Trombay Road"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Borivali west", 
+  "pincode": "400092", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY, Shop no.1,Mayfair 14,Off Chandavarkar Lane, Borivali west", 
+  "landmark": "", 
+  "sublocality": "Off Chandavarkar Lane"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": "goregaon east", 
+  "pincode": "400063", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY, Nirlon Knowledge Park, off western express highway, next to HUB Mall,goregaon east,", 
+  "landmark": "next to HUB Mall", 
+  "sublocality": " off western express highway"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": "Mahim", 
+  "pincode": "400016", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY, Shop no.4/5,Ground floor Halimabai Bulding no.147, I.J. Road,Mahim", 
+  "landmark": "", 
+  "sublocality": " I.J. Road"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Worli", 
+  "pincode": "400018", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY, Navneelam apt.,shop no.5 RG Thadani marg,Near Sadanand Restaurant, Worli,", 
+  "landmark": "Near Sadanand Restaurant", 
+  "sublocality": "shop no.5 RG Thadani marg"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": "Mhape", 
+  "pincode": "400703", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY, Add: Shop no.473,Hanuman Nagar,Opp.Reliance Gateno.3, Near Millennium Business Park,Sector 99,Mhape,", 
+  "landmark": "Near Millennium Business Park", 
+  "sublocality": "Sector 99"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Mira road (East)", 
+  "pincode": "", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY,Shop no.2/3 , Ostwal Orbit, Kanakia Junction, Mira Bhayandar road, Mira road (East)", 
+  "landmark": "", 
+  "sublocality": " Mira Bhayandar road"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": "  Dahisar west", 
+  "pincode": "400068", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY, Gagangiri Complex  Link Road,  Dahisar west", 
+  "landmark": "", 
+  "sublocality": " Gagangiri Complex  Link Road"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Mezzanine Flr", 
+  "pincode": "400099", 
+  "state": "Maharashtra", 
+  "address": "Chhatrapati Shivaji Int'l Arpt, Adheri East, Mezzanine Flr, Near Gate #9,", 
+  "landmark": "Near Gate #9", 
+  "sublocality": " Adheri East"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Ceasar Road / Amboli Andheri West", 
+  "pincode": "400058", 
+  "state": "Maharashtra", 
+  "address": "Subway, Shop No 5, Mayfair Meridian, Near Amboli Church, Ceasar Road / Amboli Andheri West", 
+  "landmark": "Near Amboli Church", 
+  "sublocality": " Mayfair Meridian"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Domestic Airport.Santacruz East", 
+  "pincode": "400001", 
+  "state": "Maharashtra", 
+  "address": "Travel Food Services Food Court, Domestic Airport.Santacruz East,", 
+  "landmark": "", 
+  "sublocality": "Travel Food Services Food Court"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " BANDRA (WEST)", 
+  "pincode": "400050", 
+  "state": "Maharashtra", 
+  "address": "PROGRESSIVE ENTERPRISES SHOP No. 2, CHAPEL AVENUE, CHAPEL ROAD, OPP. LILAVATI HOSPITAL, BANDRA (WEST)", 
+  "landmark": " OPP. LILAVATI HOSPITAL", 
+  "sublocality": " CHAPEL ROAD"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": "  Andheri west", 
+  "pincode": "400053", 
+  "state": "Maharashtra", 
+  "address": "Ground Floor,  Kokilaben hospital, 4 Banglow,  Andheri west,", 
+  "landmark": "", 
+  "sublocality": " 4 Banglow"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Peddar Road", 
+  "pincode": "400026", 
+  "state": "Maharashtra", 
+  "address": "Kampala Service Station, Inside BPCL Petrol Pump, Near Jaslok Hospital, Peddar Road,", 
+  "landmark": "Near Jaslok Hospital", 
+  "sublocality": " Inside BPCL Petrol Pump"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Navi Mumbai", 
+  "pincode": "400706", 
+  "state": "Maharashtra", 
+  "address": "Shop No. 8 & 9, Ramthirth CHS Plot No. 1, Sector 44-A, Seawoods, Nerul, Navi Mumbai", 
+  "landmark": "", 
+  "sublocality": " Nerul"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Nehru Road Vile Parla East.", 
+  "pincode": "400057", 
+  "state": "Maharashtra", 
+  "address": "Shop No. 2 Ankita Building,opp. Bharat Hindu Hotel, Nehru Road Vile Parla East.", 
+  "landmark": "", 
+  "sublocality": "opp. Bharat Hindu Hotel"
+ }, 
+ {
+  "city": "MUMBAI,", 
+  "locality": " BHANDUP-(W)", 
+  "pincode": "400 078", 
+  "state": "Maharashtra", 
+  "address": "NEPTUNE MAGNET MALL  F-313 , FOOD COURT , 3RD FLOOR  L.B.S ROAD , NEAR MANGAT RAM PETROL PUMP, BHANDUP-(W)", 
+  "landmark": "NEAR MANGAT RAM PETROL PUMP", 
+  "sublocality": " 3RD FLOOR  L.B.S ROAD "
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Elphinstone road (west)", 
+  "pincode": "400013", 
+  "state": "Maharashtra", 
+  "address": "India bulls finance center, Tower-3,Senapati bapat marg, Elphinstone road (west)", 
+  "landmark": "", 
+  "sublocality": "Senapati bapat marg"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Virar", 
+  "pincode": "401303", 
+  "state": "Maharashtra", 
+  "address": "Kingston Court, Ground Floor, Shop No. 3, Opposite Viva College, Virar (west), Virar", 
+  "landmark": " Opposite Viva College", 
+  "sublocality": " Virar (west)"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Bigmall Kasarvadavali Thane W", 
+  "pincode": "400601", 
+  "state": "Maharashtra", 
+  "address": "Inside Hypercity, Bigmall Kasarvadavali Thane W", 
+  "landmark": "", 
+  "sublocality": "Inside Hypercity"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Vikhroli (West)", 
+  "pincode": "400079", 
+  "state": "Maharashtra", 
+  "address": "Pauz Food Court, Shop No. 4 Plant 03, Godrej Business District, LBS Marg, Near CCD, Vikhroli (West)", 
+  "landmark": "Near CCD", 
+  "sublocality": " LBS Marg"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Thane(West)", 
+  "pincode": "400607", 
+  "state": "Maharashtra", 
+  "address": "Shop no.2, Emerald Plaza, Hiranandani Meadows, Thane(West)", 
+  "landmark": "", 
+  "sublocality": " Hiranandani Meadows"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Vasai west.", 
+  "pincode": "401201", 
+  "state": "Maharashtra", 
+  "address": "Shop no.5,Dattani Sqaure Mall, Umela Phata, Vasai west.", 
+  "landmark": "", 
+  "sublocality": " Umela Phata"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Matunga circle", 
+  "pincode": "400019", 
+  "state": "Maharashtra", 
+  "address": "5, Vora Bhawan, next to Dena Bank, Maheshwari udyan, Matunga circle", 
+  "landmark": "next to Dena Bank", 
+  "sublocality": " Maheshwari udyan"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": " Andheri (East)", 
+  "pincode": "400099", 
+  "state": "Maharashtra", 
+  "address": "Level -2, Arrivals, Chhatrapati Shivaji Int Airprt, Andheri (East)", 
+  "landmark": "", 
+  "sublocality": " Chhatrapati Shivaji Int Airprt"
+ }, 
+ {
+  "city": "Mumbai,", 
+  "locality": "  58-59 Andheri Kurla Road", 
+  "pincode": "400059", 
+  "state": "Maharashtra", 
+  "address": "Shop No 1/1A,  Dhiraj Pen Compound ,  58-59 Andheri Kurla Road, Near Chakala (JB Nagar) metro station", 
+  "landmark": "Near Chakala (JB Nagar) metro station", 
+  "sublocality": "  Dhiraj Pen Compound "
+ }, 
+ {
+  "city": "Nagpur,", 
+  "locality": " Civil Lines", 
+  "pincode": "440001", 
+  "state": "Maharashtra", 
+  "address": "Shop 3 & 4,  Vidarbha Cricket Association, Civil Lines", 
+  "landmark": "", 
+  "sublocality": "  Vidarbha Cricket Association"
+ }, 
+ {
+  "city": "Nagpur,", 
+  "locality": " Ram Nagar", 
+  "pincode": "440001", 
+  "state": "Maharashtra", 
+  "address": "Store# 52487, Franchisee: Anjan Puri, G2 Indu yash Complex, Ram Nagar,", 
+  "landmark": "", 
+  "sublocality": " G2 Indu yash Complex"
+ }, 
+ {
+  "city": "Nashik,", 
+  "locality": "Shop no. 03  Devi's Zone", 
+  "pincode": "422005", 
+  "state": "Maharashtra", 
+  "address": "Shop no. 03  Devi's Zone Opposite to BigBazar   College Road", 
+  "landmark": " Opposite to BigBazar   College Road", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " Vadgaon Sheri", 
+  "pincode": "411014", 
+  "state": "Maharashtra", 
+  "address": "3rd Floor Food Court, Inorbit Mall, Pune - Nagar Road, Vadgaon Sheri", 
+  "landmark": "", 
+  "sublocality": " Pune - Nagar Road"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " Balewadi High Street", 
+  "pincode": "411045", 
+  "state": "Maharashtra", 
+  "address": "Unit 17, Balewadi High Street,  Near Bharati Vidyapeeth School", 
+  "landmark": "Near Bharati Vidyapeeth School", 
+  "sublocality": "Unit 17"
+ }, 
+ {
+  "city": "Pune ,", 
+  "locality": " Chinchwad", 
+  "pincode": "411019", 
+  "state": "Maharashtra", 
+  "address": "Shop No. J5 & J6, Empire Estate, Chinchwad", 
+  "landmark": "", 
+  "sublocality": " Empire Estate"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " Hadapsar", 
+  "pincode": "411028", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY\u00ae Shop No. 4, East Block (2nd floor), Amanora Town Centre, Hadapsar", 
+  "landmark": "", 
+  "sublocality": " Amanora Town Centre"
+ }, 
+ {
+  "city": "pune,", 
+  "locality": " Shivar chowk pimple saudagar", 
+  "pincode": "411007", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY\u00ae Pimple Saudagar, Shop no 4,5,6, Dwarka queens park, opp fortuna, Shivar chowk pimple saudagar", 
+  "landmark": " opp fortuna", 
+  "sublocality": " Dwarka queens park"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": "Gultekadi", 
+  "pincode": "411037", 
+  "state": "Maharashtra", 
+  "address": "Subway, shop no.8,Kumar Paific Mall,Food court, Shankar Seth Road,Gultekadi", 
+  "landmark": "", 
+  "sublocality": " Shankar Seth Road"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": "  Rajiv Gandhi infotech park Hinjewadi", 
+  "pincode": "411026", 
+  "state": "Maharashtra", 
+  "address": "Wipro food court Phase2, MIDC,  Rajiv Gandhi infotech park Hinjewadi", 
+  "landmark": "", 
+  "sublocality": " MIDC"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " Wakad", 
+  "pincode": "411057", 
+  "state": "Maharashtra", 
+  "address": "Subway, Store No.27, Pride Purple Commercial Complex, Kalewadi Phata, Wakad,", 
+  "landmark": "", 
+  "sublocality": " Kalewadi Phata"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " Phase -2 Hinjewadi", 
+  "pincode": "411057", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY\u00ae Unit 5A, The Quadron Business Park , Rajiv Gandhi Infotech Park , Phase -2 Hinjewadi", 
+  "landmark": "", 
+  "sublocality": " Rajiv Gandhi Infotech Park "
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " Kharadi", 
+  "pincode": "411014", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY\u00ae Cluster B Food Court, EON Free Zone (EON IT Park), Kharadi", 
+  "landmark": "", 
+  "sublocality": " EON Free Zone (EON IT Park)"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " Shivaji Nagar", 
+  "pincode": "411004", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY\u00ae 576/6 C.L. Apt., F.C.Road, Shivaji Nagar", 
+  "landmark": "", 
+  "sublocality": " F.C.Road"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " Viman Nagar", 
+  "pincode": "411014", 
+  "state": "Maharashtra", 
+  "address": "Shop No. 14, Food Court - 2nd Floor, Phoenix Market City, Viman Nagar", 
+  "landmark": "", 
+  "sublocality": " Phoenix Market City"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " MIDC Hinjewadi", 
+  "pincode": "411057", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY\u00ae C1 Food Court \u2018Zunka\u2019 (1st Floor), Plot No. 2,3, TCS Sahyadri Park, Rajiv Gandhi Infotech Park - Phase 3, MIDC Hinjewadi", 
+  "landmark": "", 
+  "sublocality": " Rajiv Gandhi Infotech Park - Phase 3"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " Lavasa", 
+  "pincode": "412112", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY\u00ae Portofino-A, Portofino street, Near tourist information centre, Lavasa", 
+  "landmark": "Near tourist information centre", 
+  "sublocality": " Portofino street"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": "Law College Road Erandawana", 
+  "pincode": "411004", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY\u00ae Shop No. 1,Ground Floor,Ashok Path,Lunkad Villa,Law College Road Erandawana", 
+  "landmark": "", 
+  "sublocality": "Lunkad Villa"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " Hinjewadi", 
+  "pincode": "411057", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY\u00ae P.No.1, Tech Mahindra, RG IT Park, Phase 3, Hinjewadi", 
+  "landmark": "", 
+  "sublocality": " Phase 3"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " Camp", 
+  "pincode": "411001", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY\u00ae 2433 East Street, Camp", 
+  "landmark": "", 
+  "sublocality": "SUBWAY\u00ae 2433 East Street"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " MIDC Complex Plot No. P-20", 
+  "pincode": "411057", 
+  "state": "Maharashtra", 
+  "address": "Shop No G, MIDC Complex Plot No. P-20, Next to Hinjewadi Police Chowki Hinjewadi Phase 1", 
+  "landmark": "Next to Hinjewadi Police Chowki Hinjewadi Phase 1", 
+  "sublocality": "Shop No G"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " Koregaon Park", 
+  "pincode": "411001", 
+  "state": "Maharashtra", 
+  "address": "The Hub, 32.34/479,Plot No.-332 Mouje Ghorpadi,North Main Raod, Koregaon Park", 
+  "landmark": "", 
+  "sublocality": "North Main Raod"
+ }, 
+ {
+  "city": "Pune ,", 
+  "locality": " Hadpsar", 
+  "pincode": "411013", 
+  "state": "Maharashtra", 
+  "address": "Seasons Mall, Shop no. 33, 2nd floor, Magarpatta, Hadpsar", 
+  "landmark": "", 
+  "sublocality": " Magarpatta"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " Pashan Road", 
+  "pincode": "411021", 
+  "state": "Maharashtra", 
+  "address": "Shop no.1,Aditya Shagun Mall, Pashan Road", 
+  "landmark": "", 
+  "sublocality": "Aditya Shagun Mall"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " Dhole Patil Road", 
+  "pincode": "411001", 
+  "state": "Maharashtra", 
+  "address": "shop no 8 Millennium Star, Near Ruby hall, Dhole Patil Road", 
+  "landmark": "Near Ruby hall", 
+  "sublocality": "shop no 8 Millennium Star"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": "Pune-411007", 
+  "pincode": "411007", 
+  "state": "Maharashtra", 
+  "address": "1 Samar Paradise, D.P. Road, Aundh,Pune-411007", 
+  "landmark": "", 
+  "sublocality": " Aundh"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": "Green Valley. Shop # 02. Wanoworie", 
+  "pincode": "411040", 
+  "state": "Maharashtra", 
+  "address": "Green Valley. Shop # 02. Wanoworie, Near Kedari Petrol Pump", 
+  "landmark": "Near Kedari Petrol Pump", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " Baner", 
+  "pincode": "411045", 
+  "state": "Maharashtra", 
+  "address": "Subway,Next to Hotel Mahabaleshwar Building A, Plot B, Survey No 3/6/1 Baner Road, Baner", 
+  "landmark": "Next to Hotel Mahabaleshwar Building A", 
+  "sublocality": " Survey No 3/6/1 Baner Road"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": "  Kothrud", 
+  "pincode": "411 029", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY, Fountain Head Apartment,  Shop No 8 & 9,  Opp- Karishma Society,  Kothrud", 
+  "landmark": " Opp- Karishma Society", 
+  "sublocality": "  Shop No 8 & 9"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": "  Kalyani Nagar", 
+  "pincode": "411 006", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY, Store No.16,Mariplex,  Kalyani Nagar", 
+  "landmark": "", 
+  "sublocality": "Mariplex"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " Ghorpadi Unit No.K.4", 
+  "pincode": "411 001", 
+  "state": "Maharashtra", 
+  "address": "Koregaon Park Plaza, S.No.37/4, Ghorpadi Unit No.K.4, Near ABC Farm Koregaon Park Road", 
+  "landmark": "Near ABC Farm Koregaon Park Road", 
+  "sublocality": " S.No.37/4"
+ }, 
+ {
+  "city": "Pune,", 
+  "locality": " Mulshi", 
+  "pincode": "411 057", 
+  "state": "Maharashtra", 
+  "address": "SUBWAY, Infosys technologies  Plot No.24/2, Phase-11  Rajiv Gandhi Infotech park  Hinjewadi Tal, Mulshi", 
+  "landmark": "", 
+  "sublocality": " Phase-11  Rajiv Gandhi Infotech park  Hinjewadi Tal"
+ }, 
+ {
+  "city": "Sion,", 
+  "locality": " Plot no. 43-B ", 
+  "pincode": "400022", 
+  "state": "Maharashtra", 
+  "address": "Shop#10, Plot no. 43-B ", 
+  "landmark": "", 
+  "sublocality": "Shop#10"
+ }, 
+ {
+  "city": "Thane,", 
+  "locality": " 2nd floor", 
+  "pincode": "400602", 
+  "state": "Maharashtra", 
+  "address": "Vivana City Mall, 2nd floor,", 
+  "landmark": "", 
+  "sublocality": "Vivana City Mall"
+ }, 
+ {
+  "city": "Thane,", 
+  "locality": " Kalyan (East)", 
+  "pincode": "421306", 
+  "state": "Maharashtra", 
+  "address": "Food Court, 2nd floor, Metro Junction Mall, Kalyan (East)", 
+  "landmark": "", 
+  "sublocality": " Metro Junction Mall"
+ }, 
+ {
+  "city": "Shillong,", 
+  "locality": " Police Bazar", 
+  "pincode": "", 
+  "state": "Meghalaya", 
+  "address": "Subway Restaurant, MUDA Complex, Police Bazar, ", 
+  "landmark": "", 
+  "sublocality": " MUDA Complex"
+ }, 
+ {
+  "city": "Bhubaneshwar,", 
+  "locality": "KIIT Square  Patia", 
+  "pincode": "751013", 
+  "state": "Orissa", 
+  "address": "KIIT Square  Patia", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Bhubaneswar,", 
+  "locality": " chandrasekharpur", 
+  "pincode": "751016", 
+  "state": "Orissa", 
+  "address": "SUBWAY, bpcl retail outlet, chandrasekharpur", 
+  "landmark": "", 
+  "sublocality": " bpcl retail outlet"
+ }, 
+ {
+  "city": "Bhubaneswar,", 
+  "locality": " jaydev vihar", 
+  "pincode": "751013", 
+  "state": "Orissa", 
+  "address": "SUBWAY, sandy resorts, ximb square, jaydev vihar", 
+  "landmark": "", 
+  "sublocality": " ximb square"
+ }, 
+ {
+  "city": "Bhubaneswar ,", 
+  "locality": " Shahid Nagar", 
+  "pincode": "751007", 
+  "state": "Orissa", 
+  "address": "Subway, BMC Bhavani Mall, Shahid Nagar", 
+  "landmark": "", 
+  "sublocality": " BMC Bhavani Mall"
+ }, 
+ {
+  "city": "Bhubaneswar,", 
+  "locality": " chandrasekharpur", 
+  "pincode": "751016", 
+  "state": "Orissa", 
+  "address": "bpcl retail outlet, chandrasekharpur", 
+  "landmark": "", 
+  "sublocality": "bpcl retail outlet"
+ }, 
+ {
+  "city": "Bhubaneswar,", 
+  "locality": " jaydev vihar", 
+  "pincode": "751013", 
+  "state": "Orissa", 
+  "address": "SUBWAY, sandy resorts, ximb square, jaydev vihar", 
+  "landmark": "", 
+  "sublocality": " ximb square"
+ }, 
+ {
+  "city": "Bhubaneswar,", 
+  "locality": " jaydev vihar", 
+  "pincode": "751013", 
+  "state": "Orissa", 
+  "address": "SUBWAY, sandy resorts, ximb square, jaydev vihar", 
+  "landmark": "", 
+  "sublocality": " ximb square"
+ }, 
+ {
+  "city": "Mission Street,", 
+  "locality": " Mission Street", 
+  "pincode": "605001", 
+  "state": "Pondicherry", 
+  "address": "Green Olive Foods Pvt Ltd,317, Ground Floor, Mission Street", 
+  "landmark": "", 
+  "sublocality": " Ground Floor"
+ }, 
+ {
+  "city": "Amritsar,", 
+  "locality": " Ranjit Avenue", 
+  "pincode": "143006", 
+  "state": "Punjab", 
+  "address": "KK Tower, SCO 31, District Shopping Centre, B-Block, Ranjit Avenue", 
+  "landmark": "", 
+  "sublocality": " B-Block"
+ }, 
+ {
+  "city": "Amritsar,", 
+  "locality": " PO Jandiala Guru", 
+  "pincode": "", 
+  "state": "Punjab", 
+  "address": "Nijjer Farm, \u00a0NH 1 Village Meharbanpur, PO Jandiala Guru", 
+  "landmark": "", 
+  "sublocality": " \u00a0NH 1 Village Meharbanpur"
+ }, 
+ {
+  "city": "Amritsar,", 
+  "locality": " Trillium Mall", 
+  "pincode": "143001", 
+  "state": "Punjab", 
+  "address": "Counter -4, 5th Floor, Food Court, C-4, Trillium Mall", 
+  "landmark": "", 
+  "sublocality": " C-4"
+ }, 
+ {
+  "city": "Amritsar,", 
+  "locality": " Neewan Bazar", 
+  "pincode": "143001", 
+  "state": "Punjab", 
+  "address": "2489/3, Neewan Bazar, Opp. Jallianwala Bagh", 
+  "landmark": " Opp. Jallianwala Bagh", 
+  "sublocality": "2489/3"
+ }, 
+ {
+  "city": "BATHINDA,", 
+  "locality": " MITTAL MALL", 
+  "pincode": "151001", 
+  "state": "Punjab", 
+  "address": "SHOP NO 32, MITTAL MALL,NEAR ROSE GARDEN", 
+  "landmark": "NEAR ROSE GARDEN", 
+  "sublocality": "SHOP NO 32"
+ }, 
+ {
+  "city": "BATHINDA,", 
+  "locality": " NH 64", 
+  "pincode": "151001", 
+  "state": "Punjab", 
+  "address": "OPPOSITE TO ADESH MEDICAL UNIVERSITY  BATHINDA - BARNALA ROAD, NH 64", 
+  "landmark": "", 
+  "sublocality": "OPPOSITE TO ADESH MEDICAL UNIVERSITY  BATHINDA - BARNALA ROAD"
+ }, 
+ {
+  "city": "Bhatinda,", 
+  "locality": " City Center Mall", 
+  "pincode": "- 151001", 
+  "state": "Punjab", 
+  "address": "Shop no-12, City Center Mall, ", 
+  "landmark": "", 
+  "sublocality": "Shop no-12"
+ }, 
+ {
+  "city": "Chandigarh,", 
+  "locality": "  Sector 32-D", 
+  "pincode": "160032", 
+  "state": "Punjab", 
+  "address": "SUBWAY, Bay Shop No. 411,  Sector 32-D", 
+  "landmark": "", 
+  "sublocality": " Bay Shop No. 411"
+ }, 
+ {
+  "city": "Chandigarh,", 
+  "locality": "M/S Tricity Foods & Beverages  SCO NO 831 NAC MANIMAJRA ", 
+  "pincode": "160101 ", 
+  "state": "Punjab", 
+  "address": "M/S Tricity Foods & Beverages  SCO NO 831 NAC MANIMAJRA ", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Chandigarh,", 
+  "locality": "Sector -19C", 
+  "pincode": "160019", 
+  "state": "Punjab", 
+  "address": "SCF-30,Sector -19C", 
+  "landmark": "", 
+  "sublocality": "SCF-30"
+ }, 
+ {
+  "city": "Chandigarh,", 
+  "locality": " Sector 35 C", 
+  "pincode": "", 
+  "state": "Punjab", 
+  "address": "SCO 497-498, GF, Sector 35 C", 
+  "landmark": "", 
+  "sublocality": " GF"
+ }, 
+ {
+  "city": "Chandigarh,", 
+  "locality": " Sector - 11 D", 
+  "pincode": "", 
+  "state": "Punjab", 
+  "address": "Booth No.41, Sector - 11 D", 
+  "landmark": "", 
+  "sublocality": "Booth No.41"
+ }, 
+ {
+  "city": "Chandigarh,", 
+  "locality": " UT", 
+  "pincode": "", 
+  "state": "Punjab", 
+  "address": "FC 4, DLF City Centre, Chandigarh Technology Park, Village KishanGarh, UT", 
+  "landmark": "", 
+  "sublocality": " Village KishanGarh"
+ }, 
+ {
+  "city": "Chandigarh,", 
+  "locality": " Sector - 38D", 
+  "pincode": "160022", 
+  "state": "Punjab", 
+  "address": "SUBWAY, S.C.O. 314, Sector - 38D", 
+  "landmark": "", 
+  "sublocality": " S.C.O. 314"
+ }, 
+ {
+  "city": "Chandigarh,", 
+  "locality": "(Inner Market)", 
+  "pincode": "160022", 
+  "state": "Punjab", 
+  "address": "SUBWAY, S.C.F. 38, Sector 8B,(Inner Market)", 
+  "landmark": "", 
+  "sublocality": " Sector 8B"
+ }, 
+ {
+  "city": "Chandigarh,", 
+  "locality": " Bank Square", 
+  "pincode": "160017", 
+  "state": "Punjab", 
+  "address": "SCO 109, Ground Floor, Sector 17-B, K C Cinema Road, Bank Square, ", 
+  "landmark": "", 
+  "sublocality": " K C Cinema Road"
+ }, 
+ {
+  "city": "CHANDIGARH- LUDHIANA HIGHWAY,", 
+  "locality": " DISTT. MOHALI", 
+  "pincode": "140413", 
+  "state": "Punjab", 
+  "address": "CHANDIGARH UNIVERSITY, GHARUAN, DISTT. MOHALI", 
+  "landmark": "", 
+  "sublocality": " GHARUAN"
+ }, 
+ {
+  "city": "Fatehgarh,", 
+  "locality": " Distt.- Fatehgarh Sahib", 
+  "pincode": "140406", 
+  "state": "Punjab", 
+  "address": "SUBWAY, Opposite HDFC Bank, Bassi Road, Sirhind, Distt.- Fatehgarh Sahib", 
+  "landmark": " Opposite HDFC Bank", 
+  "sublocality": " Sirhind"
+ }, 
+ {
+  "city": "Hoshiarpur ,", 
+  "locality": " Below easy day", 
+  "pincode": "146001", 
+  "state": "Punjab", 
+  "address": "Mall road, Nr shimla pahari chowk, Below easy day", 
+  "landmark": "", 
+  "sublocality": " Nr shimla pahari chowk"
+ }, 
+ {
+  "city": "Jalandhar,", 
+  "locality": " Urban Estate 2 Market", 
+  "pincode": "144022", 
+  "state": "Punjab", 
+  "address": "S.C.O. 85, Urban Estate 2 Market,", 
+  "landmark": "", 
+  "sublocality": "S.C.O. 85"
+ }, 
+ {
+  "city": "Jalandhar,", 
+  "locality": " G.T. Road", 
+  "pincode": "144402", 
+  "state": "Punjab", 
+  "address": "SUBWAY, Shop No. 509  Block No. 15-A, Level 5, 3rd Floor, Lovely Professional University, G.T. Road", 
+  "landmark": "", 
+  "sublocality": " Lovely Professional University"
+ }, 
+ {
+  "city": "Jalandhar,", 
+  "locality": " Model Town", 
+  "pincode": "", 
+  "state": "Punjab", 
+  "address": "540R, Rainbow Road, Model Town", 
+  "landmark": "", 
+  "sublocality": " Rainbow Road"
+ }, 
+ {
+  "city": "Jalandhar,", 
+  "locality": "  Viva Collage Mall", 
+  "pincode": "144005", 
+  "state": "Punjab", 
+  "address": "SUBWAY, Counter No.-12B,  Food Court, 3rd Floor,  Viva Collage Mall", 
+  "landmark": "", 
+  "sublocality": " 3rd Floor"
+ }, 
+ {
+  "city": "JALANDHAR,", 
+  "locality": " BMC CHOWK", 
+  "pincode": "144001", 
+  "state": "Punjab", 
+  "address": "3rd Floor Food court, MBD NEOPOLOIS, BMC CHOWK", 
+  "landmark": "", 
+  "sublocality": " MBD NEOPOLOIS"
+ }, 
+ {
+  "city": "Khanna ,", 
+  "locality": "  Khanna City Centre", 
+  "pincode": "141101", 
+  "state": "Punjab", 
+  "address": "SUBWAY, Show Room No. -28, Block A & B,  Khanna City Centre", 
+  "landmark": "", 
+  "sublocality": " Block A & B"
+ }, 
+ {
+  "city": "Ludhiana,", 
+  "locality": " Ludhiana- Chandigarh Road", 
+  "pincode": "141010", 
+  "state": "Punjab", 
+  "address": "S.C.O. - 25, Lower Ground Floor, Ludhiana- Chandigarh Road", 
+  "landmark": "", 
+  "sublocality": " Lower Ground Floor"
+ }, 
+ {
+  "city": "Ludhiana,", 
+  "locality": " Civil lines", 
+  "pincode": "", 
+  "state": "Punjab", 
+  "address": "Subway, Green foods , B-19 / 556, Cemetery road, near fountain chownk , Civil lines", 
+  "landmark": "near fountain chownk ", 
+  "sublocality": " Cemetery road"
+ }, 
+ {
+  "city": "Ludhiana,", 
+  "locality": " V.P.O. Heeran", 
+  "pincode": "141112", 
+  "state": "Punjab", 
+  "address": "Ludhiana- Chandigarh Highway, V.P.O. Heeran, ", 
+  "landmark": "", 
+  "sublocality": "Ludhiana- Chandigarh Highway"
+ }, 
+ {
+  "city": "Ludhiana,", 
+  "locality": " Doraha", 
+  "pincode": "", 
+  "state": "Punjab", 
+  "address": "BPCL Filling Station , Doraha", 
+  "landmark": "", 
+  "sublocality": "BPCL Filling Station "
+ }, 
+ {
+  "city": "Ludhiana,", 
+  "locality": " Dugri Market", 
+  "pincode": "", 
+  "state": "Punjab", 
+  "address": "Subway,  Phase 1, Dugri Market", 
+  "landmark": "", 
+  "sublocality": "  Phase 1"
+ }, 
+ {
+  "city": "Ludhiana,", 
+  "locality": " Sarabha Nagar", 
+  "pincode": "", 
+  "state": "Punjab", 
+  "address": "SCF 20, Main Market, Sarabha Nagar", 
+  "landmark": "", 
+  "sublocality": " Main Market"
+ }, 
+ {
+  "city": "Ludhiana,", 
+  "locality": " Civil Lines", 
+  "pincode": "", 
+  "state": "Punjab", 
+  "address": "132/3/1, Rani Jhansi Road, Near Fountain Chowk, Civil Lines", 
+  "landmark": "Near Fountain Chowk", 
+  "sublocality": " Rani Jhansi Road"
+ }, 
+ {
+  "city": "Ludhiana,", 
+  "locality": " Village- Gill", 
+  "pincode": "141116", 
+  "state": "Punjab", 
+  "address": "Shop No, 48-49, Ranjit Square, Ludhiana- Malerkotla Road, Village- Gill", 
+  "landmark": "", 
+  "sublocality": " Ludhiana- Malerkotla Road"
+ }, 
+ {
+  "city": "LUDHIANA,", 
+  "locality": " PAVILLION MALL", 
+  "pincode": "141001", 
+  "state": "Punjab", 
+  "address": "FC 11, Food Court, THIRD FLOOR, PAVILLION MALL", 
+  "landmark": "", 
+  "sublocality": " THIRD FLOOR"
+ }, 
+ {
+  "city": "LUDHIANA,", 
+  "locality": " WESTEND  MALL", 
+  "pincode": "141001", 
+  "state": "Punjab", 
+  "address": "COUNTER NO 3, Food Court, FOURTH FLOOR, WESTEND  MALL", 
+  "landmark": "", 
+  "sublocality": " FOURTH FLOOR"
+ }, 
+ {
+  "city": "Mohali,", 
+  "locality": " Phase 3 B2", 
+  "pincode": "", 
+  "state": "Punjab", 
+  "address": "SCF 64, GF, Phase 3 B2,", 
+  "landmark": "", 
+  "sublocality": " GF"
+ }, 
+ {
+  "city": "Mohali,", 
+  "locality": " Phase 3B2 ", 
+  "pincode": "", 
+  "state": "Punjab", 
+  "address": "SUBWAY, SCF-64, Phase 3B2 ", 
+  "landmark": "", 
+  "sublocality": " SCF-64"
+ }, 
+ {
+  "city": "Mohali,", 
+  "locality": " Phase -10", 
+  "pincode": "160061", 
+  "state": "Punjab", 
+  "address": "SUBWAY, Scf-25, Phase -10", 
+  "landmark": "", 
+  "sublocality": " Scf-25"
+ }, 
+ {
+  "city": "Mohali,", 
+  "locality": " Sector 125", 
+  "pincode": "140301", 
+  "state": "Punjab", 
+  "address": "SUBWAY, Sunny Business Center,  NH-21, Sector 125", 
+  "landmark": "", 
+  "sublocality": "  NH-21"
+ }, 
+ {
+  "city": "Mohali,", 
+  "locality": " ZIRAKPUR", 
+  "pincode": "", 
+  "state": "Punjab", 
+  "address": "Subway, Village: Bishan Garh, Hast Bast No. 45, ZIRAKPUR, ", 
+  "landmark": "", 
+  "sublocality": " Hast Bast No. 45"
+ }, 
+ {
+  "city": "Mohali,", 
+  "locality": " Sector 68", 
+  "pincode": "160068", 
+  "state": "Punjab", 
+  "address": "Subway, Booth No. 13-14, Sector 68,", 
+  "landmark": "", 
+  "sublocality": " Booth No. 13-14"
+ }, 
+ {
+  "city": "Mohali,", 
+  "locality": " Vill. & P.O.- Landran", 
+  "pincode": "140307", 
+  "state": "Punjab", 
+  "address": "SUBWAY, Chandigarh Group of Colleges, Vill. & P.O.- Landran", 
+  "landmark": "", 
+  "sublocality": " Chandigarh Group of Colleges"
+ }, 
+ {
+  "city": "PATHANKOT,", 
+  "locality": " PATEL CHOWK", 
+  "pincode": "145001", 
+  "state": "Punjab", 
+  "address": "IMPROVEMENT TRUST MARKET, PATEL CHOWK", 
+  "landmark": "", 
+  "sublocality": "IMPROVEMENT TRUST MARKET"
+ }, 
+ {
+  "city": "PATIALA,", 
+  "locality": " URBAN ESTATE", 
+  "pincode": "147001", 
+  "state": "Punjab", 
+  "address": "S.C.O. 115, URBAN ESTATE", 
+  "landmark": "", 
+  "sublocality": "S.C.O. 115"
+ }, 
+ {
+  "city": "Patiala,", 
+  "locality": "Main Market", 
+  "pincode": "", 
+  "state": "Punjab", 
+  "address": " SCO-88, New Leela Bhawan,Main Market", 
+  "landmark": "", 
+  "sublocality": " New Leela Bhawan"
+ }, 
+ {
+  "city": "ROOPNAGAR,", 
+  "locality": " CHAKLAN ", 
+  "pincode": "140108", 
+  "state": "Punjab", 
+  "address": "BPCL COCO PUMP, NH-21, CHAKLAN ", 
+  "landmark": "", 
+  "sublocality": " NH-21"
+ }, 
+ {
+  "city": "SANGRUR,", 
+  "locality": " SHOP NO 4", 
+  "pincode": "148001", 
+  "state": "Punjab", 
+  "address": "SAHIB FOODS & BEVERAGE , SHOP NO 4", 
+  "landmark": "", 
+  "sublocality": "SAHIB FOODS & BEVERAGE "
+ }, 
+ {
+  "city": "Sirhind,", 
+  "locality": "  Rajpura to Ludhiana  Highway", 
+  "pincode": "140406", 
+  "state": "Punjab", 
+  "address": "Miles Mall, NH-1,  Rajpura to Ludhiana  Highway", 
+  "landmark": "", 
+  "sublocality": " NH-1"
+ }, 
+ {
+  "city": "Zirakpur,", 
+  "locality": "  Paras Down Town Square Mall", 
+  "pincode": "140603", 
+  "state": "Punjab", 
+  "address": "SUBWAY, Counter no. -10, Second Floor,  Paras Down Town Square Mall", 
+  "landmark": "", 
+  "sublocality": " Second Floor"
+ }, 
+ {
+  "city": "Jaipur,", 
+  "locality": " Narian Singh Circle", 
+  "pincode": "", 
+  "state": "Rajasthan", 
+  "address": "Caf\u00e9 No. 1, City Pulse, 21 Lal Niwas, Narian Singh Circle", 
+  "landmark": "", 
+  "sublocality": " 21 Lal Niwas"
+ }, 
+ {
+  "city": "Jaipur,", 
+  "locality": " 22 Godam", 
+  "pincode": "302006 ", 
+  "state": "Rajasthan", 
+  "address": "Subway, R-8, ground floor, Crystal Palm, 22 Godam,", 
+  "landmark": "", 
+  "sublocality": " Crystal Palm"
+ }, 
+ {
+  "city": "Jaipur,", 
+  "locality": " Vaishali Nagar", 
+  "pincode": "302021", 
+  "state": "Rajasthan", 
+  "address": "G-18, Evershine Tower, Vaishali Nagar", 
+  "landmark": "", 
+  "sublocality": " Evershine Tower"
+ }, 
+ {
+  "city": "Jaipur,", 
+  "locality": " Ajmer Road", 
+  "pincode": "302006", 
+  "state": "Rajasthan", 
+  "address": "Subway Ground Floor, Elements Mall, Near DCM Market, Ajmer Road", 
+  "landmark": "Near DCM Market", 
+  "sublocality": " Elements Mall"
+ }, 
+ {
+  "city": "Jaipur,", 
+  "locality": " JLN Marg", 
+  "pincode": "302017", 
+  "state": "Rajasthan", 
+  "address": "G-25, Crystal Court, Malviya nagar, JLN Marg", 
+  "landmark": "", 
+  "sublocality": " Malviya nagar"
+ }, 
+ {
+  "city": "Jodhpur,", 
+  "locality": "1st C- Road", 
+  "pincode": "342001", 
+  "state": "Rajasthan", 
+  "address": "1st C- Road, Opposite Paras Blood Bank, Near Thar Handloom", 
+  "landmark": " Opposite Paras Blood Bank,Near Thar Handloom", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Kota,", 
+  "locality": " City Mall", 
+  "pincode": "", 
+  "state": "Rajasthan", 
+  "address": "SUBWAY, S-11,2nd floor, City Mall", 
+  "landmark": "", 
+  "sublocality": "2nd floor"
+ }, 
+ {
+  "city": "Udaipur,", 
+  "locality": " Celebration mall", 
+  "pincode": "313004", 
+  "state": "Rajasthan", 
+  "address": "SUBWAY, LG-20, Ground floor, Celebration mall", 
+  "landmark": "", 
+  "sublocality": " Ground floor"
+ }, 
+ {
+  "city": "Gangtok,", 
+  "locality": "MG Murg", 
+  "pincode": "737001", 
+  "state": "Sikkim", 
+  "address": "SUBWAY,Oberoi Building,MG Murg", 
+  "landmark": "", 
+  "sublocality": "Oberoi Building"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "10 11 Radha Krishna Salai Mylapore Chennai Citi Ce", 
+  "pincode": "600004", 
+  "state": "Tamil Nadu", 
+  "address": "10 11 Radha Krishna Salai Mylapore Chennai Citi Ce", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "Anna nagar", 
+  "pincode": "600040", 
+  "state": "Tamil Nadu", 
+  "address": "Ac 112,Ground Floor,Shanti Colony,Anna nagar", 
+  "landmark": "", 
+  "sublocality": "Shanti Colony"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "Kandhanchavadi", 
+  "pincode": "600096", 
+  "state": "Tamil Nadu", 
+  "address": "The food court,RMZ millennia ,143 Dr.MGR road,Kandhanchavadi", 
+  "landmark": "", 
+  "sublocality": "143 Dr.MGR road"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "Orur Kuppam Road 5th Avenue Besant Nagar Urur Village", 
+  "pincode": "600090", 
+  "state": "Tamil Nadu", 
+  "address": "Orur Kuppam Road 5th Avenue Besant Nagar Urur Village", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "No.2 Club House Road", 
+  "pincode": "600002", 
+  "state": "Tamil Nadu", 
+  "address": "Express Avenue,3rd Floor,No.2 Club House Road,Near Royapettah Clock tower", 
+  "landmark": "Near Royapettah Clock tower", 
+  "sublocality": "3rd Floor"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " Taramani", 
+  "pincode": "600113", 
+  "state": "Tamil Nadu", 
+  "address": "Ascendas Food court, Ascendas IT park, Taramani", 
+  "landmark": "", 
+  "sublocality": " Ascendas IT park"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " Ambattur Industrial Estate AMB", 
+  "pincode": "600 053", 
+  "state": "Tamil Nadu", 
+  "address": "Akshaya Food Court, Ambattur Industrial Estate AMB", 
+  "landmark": "", 
+  "sublocality": "Akshaya Food Court"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " Chateau Calve Shop No", 
+  "pincode": "600010", 
+  "state": "Tamil Nadu", 
+  "address": "Old No 808 Poonamalle High Rd No 322, Chateau Calve Shop No", 
+  "landmark": "", 
+  "sublocality": "Old No 808 Poonamalle High Rd No 322"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " Besant nagar", 
+  "pincode": "", 
+  "state": "Tamil Nadu", 
+  "address": "SUBWAY, #15,Orur Kuppam Village road, Besant nagar,", 
+  "landmark": "", 
+  "sublocality": "Orur Kuppam Village road"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " Block", 
+  "pincode": "600 089", 
+  "state": "Tamil Nadu", 
+  "address": "1 124, Mount-Poonamallee Rd Manapakkam DLF IT Park, Block", 
+  "landmark": "", 
+  "sublocality": " Mount-Poonamallee Rd Manapakkam DLF IT Park"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "Ambattur Industrial area", 
+  "pincode": "600058", 
+  "state": "Tamil Nadu", 
+  "address": "Subway, Ambit IT park,akshya food court,Ambattur Industrial area,", 
+  "landmark": "", 
+  "sublocality": "akshya food court"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " Tharamani", 
+  "pincode": "", 
+  "state": "Tamil Nadu", 
+  "address": "SUBWAY,Lite Bite Foods Ascendas Building -1, Planet Yumm Food Court, Ascendas IT Park, Tharamani", 
+  "landmark": "", 
+  "sublocality": " Ascendas IT Park"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " Aminjikarai", 
+  "pincode": "600 029 ", 
+  "state": "Tamil Nadu", 
+  "address": "SUBWAY, Ampa Skywalk, Nelson Manickam Road, 627,  Poonamalee High Road, Aminjikarai", 
+  "landmark": "", 
+  "sublocality": "  Poonamalee High Road"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " 11th Main Roa", 
+  "pincode": "600040", 
+  "state": "Tamil Nadu", 
+  "address": "AC 112 Shanti Colony Annanagar AK-16, 11th Main Roa", 
+  "landmark": "", 
+  "sublocality": "AC 112 Shanti Colony Annanagar AK-16"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "  Adyar", 
+  "pincode": "600020", 
+  "state": "Tamil Nadu", 
+  "address": "SUBWAY, No:55, 1st Avenue,  Indira Nagar,  Adyar", 
+  "landmark": "", 
+  "sublocality": "  Indira Nagar"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " Ambattur Industrial area", 
+  "pincode": "", 
+  "state": "Tamil Nadu", 
+  "address": "SUBWAY, Ambit IT park,akshya food court, Ambattur Industrial area", 
+  "landmark": "", 
+  "sublocality": "akshya food court"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " 2nd Fl", 
+  "pincode": "600002", 
+  "state": "Tamil Nadu", 
+  "address": "No. 768, 769, Anna Salai Spencer Plaza, Phase 1, 2nd Fl", 
+  "landmark": "", 
+  "sublocality": " Phase 1"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " RMZ Millenia IT park", 
+  "pincode": "", 
+  "state": "Tamil Nadu", 
+  "address": "SUBWAY, RMZ Millenia IT park", 
+  "landmark": "", 
+  "sublocality": "SUBWAY"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "\u00a0 Wallace Garden 2nd Street. Nungambakkam Landmark - ", 
+  "pincode": "600006", 
+  "state": "Tamil Nadu", 
+  "address": "SUBWAY,2, Crystal lawn,\u00a0 Wallace Garden 2nd Street. Nungambakkam Landmark - Near Talwalkar Gym", 
+  "landmark": "Near Talwalkar Gym", 
+  "sublocality": " Crystal lawn"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "2 Club House Road", 
+  "pincode": "600002", 
+  "state": "Tamil Nadu", 
+  "address": "SUBWAY, Express Infrastructure Pvt Ltd Food Court,  No,2 Club House Road,Near Royapettah clock Tower", 
+  "landmark": "Near Royapettah clock Tower", 
+  "sublocality": "  No"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " Egmore Landmark:", 
+  "pincode": "600008", 
+  "state": "Tamil Nadu", 
+  "address": "SUBWAY,No 479, Pantheon Road, Egmore Landmark: Opp to Commisioner Office", 
+  "landmark": " Opp to Commisioner Office", 
+  "sublocality": " Pantheon Road"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "\u00a0 Mylapore. Landmark: ", 
+  "pincode": "600 004", 
+  "state": "Tamil Nadu", 
+  "address": "SUBWAY, 10/11, R.K.Salai,\u00a0 Mylapore. Landmark: Near Kalyani Hospital", 
+  "landmark": "Near Kalyani Hospital", 
+  "sublocality": " R.K.Salai"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " Site 1", 
+  "pincode": "600032", 
+  "state": "Tamil Nadu", 
+  "address": "SUBWAY, Industrial Estate, Guindy, Site 1", 
+  "landmark": "", 
+  "sublocality": " Guindy"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "#49-5OL Whites Road Royapettah Triplicane Village", 
+  "pincode": "600 014", 
+  "state": "Tamil Nadu", 
+  "address": "#49-5OL Whites Road Royapettah Triplicane Village", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "Poonamalle High Rd & Nelson Manickam Rd AMPA Skywal", 
+  "pincode": "600029", 
+  "state": "Tamil Nadu", 
+  "address": "Poonamalle High Rd & Nelson Manickam Rd AMPA Skywal", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "Chamiers Road Nandanam", 
+  "pincode": "60035", 
+  "state": "Tamil Nadu", 
+  "address": "Chamiers Road Nandanam", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " Mylapore", 
+  "pincode": "600004", 
+  "state": "Tamil Nadu", 
+  "address": "Door No: 138, Dr. Radhakrishnan Road, Mylapore", 
+  "landmark": "", 
+  "sublocality": " Dr. Radhakrishnan Road"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "  Velachery", 
+  "pincode": "600042", 
+  "state": "Tamil Nadu", 
+  "address": "51/18, 100ft By Pass Road, Opp Sangeetha Restaurant, Next to Tanishq Jewellery,  Velachery", 
+  "landmark": " Opp Sangeetha Restaurant,Next to Tanishq Jewellery", 
+  "sublocality": " 100ft By Pass Road"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " T.nagar", 
+  "pincode": "600017", 
+  "state": "Tamil Nadu", 
+  "address": "Subway T.Nagar 29/14, Bazullah Road, T.nagar", 
+  "landmark": "", 
+  "sublocality": " Bazullah Road"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " Navalur Post", 
+  "pincode": "603103", 
+  "state": "Tamil Nadu", 
+  "address": "1/B1, Sipcot IT Park, Siruseri, Navalur Post,", 
+  "landmark": "", 
+  "sublocality": " Siruseri"
+ }, 
+ {
+  "city": "Chennai ,", 
+  "locality": " Velachery", 
+  "pincode": "600042", 
+  "state": "Tamil Nadu", 
+  "address": "Shop no: 39, Second Floor,  Phoenix Market City, Velachery, ", 
+  "landmark": "", 
+  "sublocality": "  Phoenix Market City"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "  Chennai", 
+  "pincode": "600086", 
+  "state": "Tamil Nadu", 
+  "address": "Store Address:  Alps Retail  A1, No: 220/352,  Dharshan Appartment,  Llyods Road,  Gopalapuram,  Chennai", 
+  "landmark": "", 
+  "sublocality": "  Gopalapuram"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " Rajiv Gandhi Salai", 
+  "pincode": "600113", 
+  "state": "Tamil Nadu", 
+  "address": "Ramanujam IT Park, Rajiv Gandhi Salai", 
+  "landmark": "", 
+  "sublocality": "Ramanujam IT Park"
+ }, 
+ {
+  "city": "CHENNAI,", 
+  "locality": " K.K.Nagar", 
+  "pincode": "600078", 
+  "state": "Tamil Nadu", 
+  "address": "No: 885/1, Maragathavallai Flats, Dr. Ramasamy Salai, K.K.Nagar", 
+  "landmark": "", 
+  "sublocality": " Dr. Ramasamy Salai"
+ }, 
+ {
+  "city": "CHENNAI,", 
+  "locality": " MUGAPPAIR EAST", 
+  "pincode": "600037", 
+  "state": "Tamil Nadu", 
+  "address": "No: 5/450, Pari Salai, MUGAPPAIR EAST", 
+  "landmark": "", 
+  "sublocality": " Pari Salai"
+ }, 
+ {
+  "city": "CHENNAI,", 
+  "locality": " VALASARAVAKKAM", 
+  "pincode": "600087", 
+  "state": "Tamil Nadu", 
+  "address": "SHOP NO: 2 GAMALS GREENARY, 119,ARCOT ROAD, VALASARAVAKKAM", 
+  "landmark": "", 
+  "sublocality": "ARCOT ROAD"
+ }, 
+ {
+  "city": "CHENNAI,", 
+  "locality": " Keelkattalai", 
+  "pincode": "600117", 
+  "state": "Tamil Nadu", 
+  "address": "JAMAL'S PALAZZO, Ground Floor Shop : B, No: 47, Medavakkam, Main Road, Keelkattalai", 
+  "landmark": "", 
+  "sublocality": " Main Road"
+ }, 
+ {
+  "city": "Chennai ,", 
+  "locality": " KattanKulathur", 
+  "pincode": "603203", 
+  "state": "Tamil Nadu", 
+  "address": "Food Court, SRM University. SRM Nagar, KattanKulathur", 
+  "landmark": "", 
+  "sublocality": " SRM University. SRM Nagar"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " SIRUSERI", 
+  "pincode": "603103\t\t\t\t\t\t", 
+  "state": "Tamil Nadu", 
+  "address": "COGNIZANT, INDIA Pvt. Ltd, B 40, 41, 42 & 44, Cafeteria Block, 1st floor B- Wing SIPCOT, SIRUSERI", 
+  "landmark": "", 
+  "sublocality": " 1st floor B- Wing SIPCOT"
+ }, 
+ {
+  "city": "CHENNAI,", 
+  "locality": " Thuraippakam", 
+  "pincode": "600097", 
+  "state": "Tamil Nadu", 
+  "address": "No: 5/350, Old Mahabalipuram Road, Okkiyampet, Thuraippakam", 
+  "landmark": "", 
+  "sublocality": " Okkiyampet"
+ }, 
+ {
+  "city": "CHENNAI,", 
+  "locality": " Purasawalkam High Road", 
+  "pincode": "600010", 
+  "state": "Tamil Nadu", 
+  "address": "G 14-15, Prince Towers, 94, Purasawalkam High Road", 
+  "landmark": "", 
+  "sublocality": " 94"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "Thoraipakkam", 
+  "pincode": "600097", 
+  "state": "Tamil Nadu", 
+  "address": "Chennai One IT Park, Pallavaram-Thoraipakkam 200ft Road,Thoraipakkam", 
+  "landmark": "", 
+  "sublocality": " Pallavaram-Thoraipakkam 200ft Road"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " Chetpet", 
+  "pincode": "600031", 
+  "state": "Tamil Nadu", 
+  "address": "Harrington Road, Chetpet", 
+  "landmark": "", 
+  "sublocality": "Harrington Road"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "First Avenue Ashok Nagar", 
+  "pincode": "600083", 
+  "state": "Tamil Nadu", 
+  "address": "First Avenue Ashok Nagar", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "Rose Wood Building", 
+  "pincode": "600034", 
+  "state": "Tamil Nadu", 
+  "address": "No: 125/1, Nungambakkam High Road,Rose Wood Building,", 
+  "landmark": "", 
+  "sublocality": " Nungambakkam High Road"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": " R.A.Puram", 
+  "pincode": "600028", 
+  "state": "Tamil Nadu", 
+  "address": "NO: 52, SathyaDev Avenue, MRC Nagar, R.A.Puram", 
+  "landmark": "", 
+  "sublocality": " MRC Nagar"
+ }, 
+ {
+  "city": "Chennai,", 
+  "locality": "  Chrompet", 
+  "pincode": "600044", 
+  "state": "Tamil Nadu", 
+  "address": "No: 127, GST Road,  Chrompet", 
+  "landmark": "", 
+  "sublocality": " GST Road"
+ }, 
+ {
+  "city": "CHENNAI,", 
+  "locality": " Thriuvanmiyur", 
+  "pincode": "600041", 
+  "state": "Tamil Nadu", 
+  "address": "# 59, South mada street, Thriuvanmiyur", 
+  "landmark": "", 
+  "sublocality": " South mada street"
+ }, 
+ {
+  "city": "CHENNAI,", 
+  "locality": " Kodambakkam", 
+  "pincode": "600024", 
+  "state": "Tamil Nadu", 
+  "address": "No 82/347 Annavalaagham, Arcot road, Kodambakkam", 
+  "landmark": "", 
+  "sublocality": " Arcot road"
+ }, 
+ {
+  "city": "Coimbatore,", 
+  "locality": " R.S.Puram", 
+  "pincode": "641002", 
+  "state": "Tamil Nadu", 
+  "address": "103/107 Nilgiri's , Building T.V.Samy (West), R.S.Puram", 
+  "landmark": "", 
+  "sublocality": " Building T.V.Samy (West)"
+ }, 
+ {
+  "city": "Coimbatore,", 
+  "locality": " Race course Road", 
+  "pincode": "641018", 
+  "state": "Tamil Nadu", 
+  "address": "88 A, Race course Road", 
+  "landmark": "", 
+  "sublocality": "88 A"
+ }, 
+ {
+  "city": "Coimbatore,", 
+  "locality": " No.67-71 Krishnasamy Road", 
+  "pincode": "641001", 
+  "state": "Tamil Nadu", 
+  "address": "Food court No.25, 3rd Floor, Brookefields Mall, No.67-71 Krishnasamy Road", 
+  "landmark": "", 
+  "sublocality": " Brookefields Mall"
+ }, 
+ {
+  "city": "Kancheepuram,", 
+  "locality": "  Chengalpet Taluk", 
+  "pincode": "603002", 
+  "state": "Tamil Nadu", 
+  "address": "Infosys Ltd. Techno Park SEZ Mahindra World City,  Chengalpet Taluk,", 
+  "landmark": "", 
+  "sublocality": "Infosys Ltd. Techno Park SEZ Mahindra World City"
+ }, 
+ {
+  "city": "Kodaikanal,", 
+  "locality": " Golden Parks Inn Complex", 
+  "pincode": "624101", 
+  "state": "Tamil Nadu", 
+  "address": "Golden Foods,No:50-22/21, Golden Parks Inn Complex", 
+  "landmark": "", 
+  "sublocality": "No:50-22/21"
+ }, 
+ {
+  "city": "Oaty,", 
+  "locality": "Bharathi Vihar Complex. Charring Cross.Ooty", 
+  "pincode": "643001", 
+  "state": "Tamil Nadu", 
+  "address": "Salwa Enterprises, No-3,Bharathi Vihar Complex. Charring Cross.Ooty", 
+  "landmark": "", 
+  "sublocality": " No-3"
+ }, 
+ {
+  "city": "Ooty (The Nilgiris),", 
+  "locality": " Charring Cross", 
+  "pincode": "643001", 
+  "state": "Tamil Nadu", 
+  "address": "3, Bharathiyar Complex, Charring Cross", 
+  "landmark": "", 
+  "sublocality": " Bharathiyar Complex"
+ }, 
+ {
+  "city": "Salem,", 
+  "locality": " Salem", 
+  "pincode": "636016", 
+  "state": "Tamil Nadu", 
+  "address": "City Centre Mall, New No. 159-1, Sarada College Road, Salem", 
+  "landmark": "", 
+  "sublocality": " Sarada College Road"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " Secunderabad", 
+  "pincode": "500009", 
+  "state": "TELANGANA", 
+  "address": "Sy.No:155, Thokatta Village, Cantonment, Tirumalagiri, Bowenpally, Secunderabad", 
+  "landmark": "", 
+  "sublocality": " Bowenpally"
+ }, 
+ {
+  "city": "HYDERABAD,", 
+  "locality": " Trimulgherry", 
+  "pincode": "500015", 
+  "state": "Telangana", 
+  "address": "Subway, South East Shop, Plot No.4, Ground Floor, Chandragiri Colony, Trimulgherry", 
+  "landmark": "", 
+  "sublocality": " Chandragiri Colony"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " Gachibowli", 
+  "pincode": "500032", 
+  "state": "Telangana", 
+  "address": "Subway, 115/1, Ground Floor,  Kapil Towers, IT Park, Financial District, OPP: ICICI Bank Building, Gachibowli", 
+  "landmark": " OPP: ICICI Bank Building", 
+  "sublocality": " Financial District"
+ }, 
+ {
+  "city": "Hyderabad,", 
+  "locality": " LINGAMPALLY", 
+  "pincode": "500050", 
+  "state": "Telangana", 
+  "address": "KRISHNADEVARA COLONY, OPP. PRANAAM HOSPITAL, MADINAGUDA, LINGAMPALLY", 
+  "landmark": " OPP. PRANAAM HOSPITAL", 
+  "sublocality": " MADINAGUDA"
+ }, 
+ {
+  "city": "Hyderabad ,", 
+  "locality": " Gachibowli", 
+  "pincode": "500032", 
+  "state": "Telangana", 
+  "address": "Venkat Narsimha Chittedi, Ramky Grandiose, Near Anjaiah Nagar, Opp. Hotel Radisson Lane, Gachibowli", 
+  "landmark": "Near Anjaiah Nagar, Opp. Hotel Radisson Lane", 
+  "sublocality": " Ramky Grandiose"
+ }, 
+ {
+  "city": "Hyderabad ,", 
+  "locality": " Shop#1 Sai Gayatri Towers Nanakramguda", 
+  "pincode": "500 008", 
+  "state": "Telangana", 
+  "address": "2-58, Shop#1 Sai Gayatri Towers Nanakramguda", 
+  "landmark": "", 
+  "sublocality": "2-58"
+ }, 
+ {
+  "city": "Mokila, Shankarpally Mandal,", 
+  "locality": " Subishi's Town Centre (commercial)", 
+  "pincode": "501203", 
+  "state": "Telangana", 
+  "address": "Unit B#005, Subishi's Town Centre (commercial), Opp: Windsor luxury homes", 
+  "landmark": " Opp: Windsor luxury homes", 
+  "sublocality": "Unit B#005"
+ }, 
+ {
+  "city": "Secunderabad,", 
+  "locality": "  S D Road", 
+  "pincode": "500003", 
+  "state": "Telangana", 
+  "address": "# 2, Kiran Arcade Opp. Minerva Complex,  S D Road", 
+  "landmark": " Opp. Minerva Complex", 
+  "sublocality": " Kiran Arcade"
+ }, 
+ {
+  "city": "Agra,", 
+  "locality": " Fatehabad Road", 
+  "pincode": "282001", 
+  "state": "Uttar Pradesh", 
+  "address": "Shop No. 08, Crown Plaza, Opposite Mughal Hotel, Fatehabad Road", 
+  "landmark": " Opposite Mughal Hotel", 
+  "sublocality": " Crown Plaza"
+ }, 
+ {
+  "city": "Agra,", 
+  "locality": " M.G Road", 
+  "pincode": "282005", 
+  "state": "Uttar Pradesh", 
+  "address": "Shop No. UG-1 & 2, Suresh Mall Market, Near LIC Bldg, M.G Road", 
+  "landmark": "Near LIC Bldg", 
+  "sublocality": " Suresh Mall Market"
+ }, 
+ {
+  "city": "Aligarh,", 
+  "locality": " Marris road ", 
+  "pincode": "202001", 
+  "state": "Uttar Pradesh", 
+  "address": "Ayodhya kutir, Marris road ", 
+  "landmark": "", 
+  "sublocality": "Ayodhya kutir"
+ }, 
+ {
+  "city": "Ghaziabad,", 
+  "locality": " kaushambi", 
+  "pincode": "201010", 
+  "state": "Uttar Pradesh", 
+  "address": "2nd floor, Food court Pacific mall, kaushambi", 
+  "landmark": "", 
+  "sublocality": " Food court Pacific mall"
+ }, 
+ {
+  "city": "Ghaziabad,", 
+  "locality": " Indirapuram", 
+  "pincode": "201004", 
+  "state": "Uttar Pradesh", 
+  "address": "UGF 110, OC Square, Ahinsa Khand-1, Indirapuram", 
+  "landmark": "", 
+  "sublocality": " Ahinsa Khand-1"
+ }, 
+ {
+  "city": "Ghaziabad,", 
+  "locality": "  Sahibabad", 
+  "pincode": "201010", 
+  "state": "Uttar Pradesh", 
+  "address": "Shop # 11, Food Court  @ 2nd Floor, Europark Mall, Plot No: 39, Site No:4, NH 24 Link Rd,  Sahibabad", 
+  "landmark": "", 
+  "sublocality": " NH 24 Link Rd"
+ }, 
+ {
+  "city": "Ghaziabad,", 
+  "locality": " Pacific mall Food court plot#1 ", 
+  "pincode": "201010", 
+  "state": "Uttar Pradesh", 
+  "address": "Subway, Pacific mall Food court plot#1 ", 
+  "landmark": "", 
+  "sublocality": "Subway"
+ }, 
+ {
+  "city": "Ghaziabad,", 
+  "locality": " Vaishali Section 3", 
+  "pincode": "201001", 
+  "state": "Uttar Pradesh", 
+  "address": "Food Court 3rd floor, Mahagun Mall, Vaishali Section 3", 
+  "landmark": "", 
+  "sublocality": " Mahagun Mall"
+ }, 
+ {
+  "city": "Ghaziabad,", 
+  "locality": "  Indirapuram", 
+  "pincode": "201302", 
+  "state": "Uttar Pradesh", 
+  "address": "SUBWAY  Bite Inn Food Court,  3rd Floor, Shipra Mall,  Indirapuram", 
+  "landmark": "", 
+  "sublocality": " Shipra Mall"
+ }, 
+ {
+  "city": "Greater Noida,", 
+  "locality": " Commercial Belt", 
+  "pincode": "201306", 
+  "state": "Uttar Pradesh", 
+  "address": "SUBWAY G-1, Sunrise Tower, Alfa-1, Commercial Belt", 
+  "landmark": "", 
+  "sublocality": " Alfa-1"
+ }, 
+ {
+  "city": "Greater Noida,", 
+  "locality": " Greater Noida", 
+  "pincode": "201305", 
+  "state": "Uttar Pradesh", 
+  "address": "Shop #127, Ground floor,  MSX Mall, Greater Noida", 
+  "landmark": "", 
+  "sublocality": "  MSX Mall"
+ }, 
+ {
+  "city": "Jewar,", 
+  "locality": " Before Jewar Toll", 
+  "pincode": "203135", 
+  "state": "Uttar Pradesh", 
+  "address": "KM 35, Left Hand Side, Yamuna Express way, Before Jewar Toll", 
+  "landmark": "", 
+  "sublocality": " Yamuna Express way"
+ }, 
+ {
+  "city": "KANPUR,", 
+  "locality": " MOTI JHEEL", 
+  "pincode": "208002", 
+  "state": "Uttar Pradesh", 
+  "address": "SHOP NO.113/121A  NADRI CORNER SWAROOP NAGAR, MOTI JHEEL", 
+  "landmark": "", 
+  "sublocality": "SHOP NO.113/121A  NADRI CORNER SWAROOP NAGAR"
+ }, 
+ {
+  "city": "Meerut,", 
+  "locality": "173  Abu Lane Meerut Cantonment", 
+  "pincode": "250001", 
+  "state": "Uttar Pradesh", 
+  "address": "173  Abu Lane Meerut Cantonment", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Noida,", 
+  "locality": " Uttar Pradesh", 
+  "pincode": "201302", 
+  "state": "Uttar Pradesh", 
+  "address": "Subway Cafe 2, ground floor, HCL technologies sez, Sector 126, noida , Uttar Pradesh", 
+  "landmark": "", 
+  "sublocality": " noida "
+ }, 
+ {
+  "city": "Noida,", 
+  "locality": " Sector 16", 
+  "pincode": "201301", 
+  "state": "Uttar Pradesh", 
+  "address": "Ground Floor. Savoy Suites, Sector 16, Near Metro Station", 
+  "landmark": "Near Metro Station", 
+  "sublocality": "Ground Floor. Savoy Suites"
+ }, 
+ {
+  "city": "Noida,", 
+  "locality": " Sector - 63", 
+  "pincode": "201302", 
+  "state": "Uttar Pradesh", 
+  "address": "H-224E, Sector - 63", 
+  "landmark": "", 
+  "sublocality": "H-224E"
+ }, 
+ {
+  "city": "Noida,", 
+  "locality": " Sec 110", 
+  "pincode": "", 
+  "state": "Uttar Pradesh", 
+  "address": "Plot No. 7, Block A3, Sec 110", 
+  "landmark": "", 
+  "sublocality": " Block A3"
+ }, 
+ {
+  "city": "Uttarakhand,", 
+  "locality": "4/4 Rajpur Road Bharat Petro Gas/C-Store", 
+  "pincode": "248001", 
+  "state": "Uttarakhand", 
+  "address": "4/4 Rajpur Road Bharat Petro Gas/C-Store", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Durgapur,", 
+  "locality": " 3rd Floor", 
+  "pincode": "713204", 
+  "state": "West Bengal", 
+  "address": "SUBWAY, Junction Mall, 3rd Floor,", 
+  "landmark": "", 
+  "sublocality": " Junction Mall"
+ }, 
+ {
+  "city": "Howrah,", 
+  "locality": " Liluah", 
+  "pincode": "", 
+  "state": "West Bengal", 
+  "address": "SUBWAY, RD Mall, 3rd Floor, Liluah,", 
+  "landmark": "", 
+  "sublocality": " 3rd Floor"
+ }, 
+ {
+  "city": "Howrah,", 
+  "locality": "Avani Riverside Mall", 
+  "pincode": "", 
+  "state": "West Bengal", 
+  "address": "3rd Floor ,Food Court ,Avani Riverside Mall", 
+  "landmark": "", 
+  "sublocality": "Food Court "
+ }, 
+ {
+  "city": "Kharagpur,", 
+  "locality": " Kharagpur ", 
+  "pincode": "721302", 
+  "state": "West Bengal", 
+  "address": "Nalanda Class Room Complex , Indian Institute Of Technology , Kharagpur ", 
+  "landmark": "", 
+  "sublocality": " Indian Institute Of Technology "
+ }, 
+ {
+  "city": "Kolkata,", 
+  "locality": "Mukundapur", 
+  "pincode": "700099", 
+  "state": "West Bengal", 
+  "address": "SUBWAY, AMRI Hospital,Mukundapur,", 
+  "landmark": "", 
+  "sublocality": " AMRI Hospital"
+ }, 
+ {
+  "city": "Kolkata,", 
+  "locality": "Rajarhat New Town", 
+  "pincode": "", 
+  "state": "West Bengal", 
+  "address": "SUBWAY, City Center II,Rajarhat New Town", 
+  "landmark": "", 
+  "sublocality": " City Center II"
+ }, 
+ {
+  "city": "Kolkata,", 
+  "locality": "Saltlake sector I", 
+  "pincode": "700064", 
+  "state": "West Bengal", 
+  "address": "CF- 204,Ground Floor,Saltlake sector I", 
+  "landmark": "", 
+  "sublocality": "Ground Floor"
+ }, 
+ {
+  "city": "Kolkata ,", 
+  "locality": "85 Prince Anwarshah Road", 
+  "pincode": "700033", 
+  "state": "West Bengal", 
+  "address": "85 Prince Anwarshah Road", 
+  "landmark": "", 
+  "sublocality": ""
+ }, 
+ {
+  "city": "Kolkata,", 
+  "locality": " Dum Dum", 
+  "pincode": "", 
+  "state": "West Bengal", 
+  "address": "Kolkata NSCBI Airport, Domestic Terminal Building, Dum Dum", 
+  "landmark": "", 
+  "sublocality": " Domestic Terminal Building"
+ }, 
+ {
+  "city": "Kolkata,", 
+  "locality": " Salt Lake Sec V", 
+  "pincode": "", 
+  "state": "West Bengal", 
+  "address": "Begal Intelligent Park, Salt Lake Sec V", 
+  "landmark": "", 
+  "sublocality": "Begal Intelligent Park"
+ }, 
+ {
+  "city": "Kolkata,", 
+  "locality": " Woodburn Park Road", 
+  "pincode": "", 
+  "state": "West Bengal", 
+  "address": "234 / 3A, FMC Fortuna Building, A J C Bose Road, Woodburn Park Road", 
+  "landmark": "", 
+  "sublocality": " A J C Bose Road"
+ }, 
+ {
+  "city": "Kolkata,", 
+  "locality": " Nalini Ranjan Ave", 
+  "pincode": "", 
+  "state": "West Bengal", 
+  "address": "No. 175, Block G, New Alipore, # 37, Nalini Ranjan Ave", 
+  "landmark": "", 
+  "sublocality": " # 37"
+ }, 
+ {
+  "city": "Kolkata,", 
+  "locality": " Mani Square", 
+  "pincode": "", 
+  "state": "West Bengal", 
+  "address": "Mall, 164 / 1 Manick Tala Main Road, Unit # 304, Food Court, Mani Square", 
+  "landmark": "", 
+  "sublocality": " Food Court"
+ }, 
+ {
+  "city": "Kolkata,", 
+  "locality": " BPCL Fuel Point", 
+  "pincode": "", 
+  "state": "West Bengal", 
+  "address": "46 Shanti Pally, BPCL Fuel Point", 
+  "landmark": "", 
+  "sublocality": "46 Shanti Pally"
+ }, 
+ {
+  "city": "Kolkata,", 
+  "locality": " Bangur Avenue", 
+  "pincode": "700055", 
+  "state": "West Bengal", 
+  "address": "122-A, Block C, Bangur Avenue", 
+  "landmark": "", 
+  "sublocality": " Block C"
+ }, 
+ {
+  "city": "Kolkata,", 
+  "locality": " Prince Anwar Shah Road", 
+  "pincode": "700064 ", 
+  "state": "West Bengal", 
+  "address": "South City Mall, Food Court, Prince Anwar Shah Road", 
+  "landmark": "", 
+  "sublocality": " Food Court"
+ }, 
+ {
+  "city": "Kolkata,", 
+  "locality": " Elgin Road", 
+  "pincode": "700020", 
+  "state": "West Bengal", 
+  "address": "Forum Mall, Food Court, Elgin Road", 
+  "landmark": "", 
+  "sublocality": " Food Court"
+ }, 
+ {
+  "city": "Kolkata,", 
+  "locality": " 15 A Free School Street", 
+  "pincode": "700016", 
+  "state": "West Bengal", 
+  "address": "More Super Market, 15 A Free School Street", 
+  "landmark": "", 
+  "sublocality": "More Super Market"
+ }, 
+ {
+  "city": "Siliguri,", 
+  "locality": "  Sevok Road", 
+  "pincode": "", 
+  "state": "West Bengal", 
+  "address": "SUBWAY, Orbit Mall,Ground Floor,  Sevok Road,", 
+  "landmark": "", 
+  "sublocality": "Ground Floor"
+ }, 
+ {
+  "city": "Siliguri,", 
+  "locality": "City Centre", 
+  "pincode": "", 
+  "state": "West Bengal", 
+  "address": "City Centre", 
+  "landmark": "", 
+  "sublocality": ""
+ }
+]
