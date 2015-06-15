@@ -1,1 +1,1 @@
-Landmark : (?:next to|near|beside|(?<=[ ,])opp).+?(?=,|$)
+Landmark : (?<![a-z])(?:next to|near|beside|opp).+?(?=,|$)
