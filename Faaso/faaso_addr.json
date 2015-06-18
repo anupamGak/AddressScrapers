@@ -1,0 +1,695 @@
+[
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "Chandivali"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Unit No. 05,03 GBD,Godrej Business District", 
+  "sublocality": "Godrej Business District", 
+  "locality": "Godrej vikhroli"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "No 5,Grnd Flr,Leela Cliff CHS Ltd,IC Colony,Boriva", 
+  "sublocality": "Boriva", 
+  "locality": "IC Colony- Borivalli"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Airoli \u2013 Club House, Mindspace SEZ", 
+  "sublocality": " Mindspace SEZ", 
+  "locality": "Mindspace - Airoli"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Shop No. 2,Infinity Shopping,Ashar Residency Socie", 
+  "sublocality": "Ashar Residency Socie", 
+  "locality": "Vasant Vihar"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "LBS Road,Kamgar Colony,Mulund(W)", 
+  "sublocality": "Mulund(W)", 
+  "locality": "R Mall"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Shop No.118, Arcadia Shopping Center", 
+  "sublocality": " Arcadia Shopping Center", 
+  "locality": "Hiranandani Estate"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Shop No 6, Grnd Flr, Ostwal Orbit Co-Operative Soc", 
+  "sublocality": " Ostwal Orbit Co-Operative Soc", 
+  "locality": "Mira Road"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Shop No. 16,Bhoomi Heights,Plot No.5&6,Kharghar ", 
+  "sublocality": "Kharghar ", 
+  "locality": "Kharghar"
+ }, 
+ {
+  "landmark": "Opp MC Donalds", 
+  "city": "Mumbai", 
+  "address": "Shop No 2, Safal Park, Opp MC Donalds, Seawoods, s", 
+  "sublocality": " s", 
+  "locality": "Nerul"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Shop 14 & 15, Satyam Towers,Sector 20", 
+  "sublocality": "Sector 20", 
+  "locality": "Koparkhairne"
+ }, 
+ {
+  "landmark": "near Paradise Cinema", 
+  "city": "Mumbai", 
+  "address": "Shop no.2, Md. Eidu Manzil,near Paradise Cinema", 
+  "sublocality": " Md. Eidu Manzil", 
+  "locality": "Mahim"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Shop No.B4, Suswagatam No.2, Central Avenue", 
+  "sublocality": " Central Avenue", 
+  "locality": "Chembur"
+ }, 
+ {
+  "landmark": "Beside RK Studio", 
+  "city": "Mumbai", 
+  "address": "Shop No.13/14, Beside RK Studio", 
+  "sublocality": "Shop No.13/14", 
+  "locality": "Colaba"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Shop No.114, 1st Floor, Hazaribaug CHSL Junction", 
+  "sublocality": " Hazaribaug CHSL Junction", 
+  "locality": "Vikroli"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Shop No.14, Bldg No.3, Ground Floor, Summernagar", 
+  "sublocality": " Summernagar", 
+  "locality": "Borivali"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Shop No.3, Corporate Point, Makhwana Road", 
+  "sublocality": " Makhwana Road", 
+  "locality": "Marol"
+ }, 
+ {
+  "landmark": "Next to DTDC", 
+  "city": "Mumbai", 
+  "address": "Shop No.13 and 14, Kapadwala Chawl, Next to DTDC", 
+  "sublocality": " Kapadwala Chawl", 
+  "locality": "Prabhadevi"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Chakala, Andheri Kurla Road", 
+  "sublocality": " Andheri Kurla Road", 
+  "locality": "Chakala"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Galleria 1st Floor, Hiranandani Powai", 
+  "sublocality": " Hiranandani Powai", 
+  "locality": "Powai"
+ }, 
+ {
+  "landmark": "Opp. Meera Towers", 
+  "city": "Mumbai", 
+  "address": "Building 26, Opp. Meera Towers,New Link Road", 
+  "sublocality": "New Link Road", 
+  "locality": "Oshiwara"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Shop No.23,Ground Floor, Shree Ganesh Aangan CHS", 
+  "sublocality": " Shree Ganesh Aangan CHS", 
+  "locality": "Kandivali"
+ }, 
+ {
+  "landmark": "Near Premier Cinema", 
+  "city": "Mumbai", 
+  "address": "Shop No.10, Dr. BA Road, Near Premier Cinema", 
+  "sublocality": " Dr. BA Road", 
+  "locality": "Parel"
+ }, 
+ {
+  "landmark": "Opp. Gold's Gym", 
+  "city": "Mumbai", 
+  "address": "Shop No.5, Shakti Raj Society, Opp. Gold's Gym", 
+  "sublocality": " Shakti Raj Society", 
+  "locality": "Pali Hill"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Shop No.4, Vasant Nagar Society,Link Road", 
+  "sublocality": "Link Road", 
+  "locality": "Malad"
+ }, 
+ {
+  "landmark": "Opp. Kalina Campus", 
+  "city": "Mumbai", 
+  "address": "Shop No.2,Sharma Chawl,Opp. Kalina Campus", 
+  "sublocality": "Sharma Chawl", 
+  "locality": "Kalina"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Shop No.4,Paras Palace, Mahakali Road", 
+  "sublocality": " Mahakali Road", 
+  "locality": "Mahakali"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Shop No.3, 247/255 Fergusson Road, Koli Chawl", 
+  "sublocality": " Koli Chawl", 
+  "locality": "Lower Parel"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Shop No.G14, Gokuldham Premises", 
+  "sublocality": " Gokuldham Premises", 
+  "locality": "Gokul Dham "
+ }, 
+ {
+  "landmark": "", 
+  "city": "Mumbai", 
+  "address": "Shop No.A4, Kalpak Estate, SM Road, Antop Hill.", 
+  "sublocality": " Antop Hill.", 
+  "locality": "Wadala"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Pune", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "Katraj"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Pune", 
+  "address": "Shop no.5,Mohite Paradise,Hingane Khurd  ", 
+  "sublocality": "Hingane Khurd  ", 
+  "locality": "Sinhagad Road"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Pune", 
+  "address": "Shop No.1B,Wing F,Premier Plaza,Chinchwad", 
+  "sublocality": "Chinchwad", 
+  "locality": "Chinchwad"
+ }, 
+ {
+  "landmark": "Near Corinthian Club", 
+  "city": "Pune", 
+  "address": "Vedant,Shop No 9,NIBM Road,Near Corinthian Club", 
+  "sublocality": "NIBM Road", 
+  "locality": "Undri"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Pune", 
+  "address": "11,Moledina Road,Sterling Center,Shop no.76", 
+  "sublocality": "Shop no.76", 
+  "locality": "Camp"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Pune", 
+  "address": "Shop No 2,Waman Ganesh Complex, Shinde Nagar", 
+  "sublocality": " Shinde Nagar", 
+  "locality": "Bavdhan"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Pune", 
+  "address": "A Wing, Shop No.5,Shoppers Orbit", 
+  "sublocality": "Shoppers Orbit", 
+  "locality": "Vishrantwadi"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Pune", 
+  "address": "Ground Floor, Subhmangal Housing Society", 
+  "sublocality": " Subhmangal Housing Society", 
+  "locality": "Model Colony"
+ }, 
+ {
+  "landmark": "Next to Dominos Pizza", 
+  "city": "Pune", 
+  "address": "Survey No.6/12,Next to Dominos Pizza,Phase-1", 
+  "sublocality": "Phase-1", 
+  "locality": "Hinjewadi"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Pune", 
+  "address": "Shop No.6,1st Flr,\"Vision Galleria\"", 
+  "sublocality": "\"Vision Galleria\"", 
+  "locality": "Pimple Saudagiri"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Pune", 
+  "address": "Plot No.11, 'Salvi', Motibaug Society,Bibvewadi", 
+  "sublocality": "Bibvewadi", 
+  "locality": "Satara Road"
+ }, 
+ {
+  "landmark": "Near Baner Nagri  Bank", 
+  "city": "Pune", 
+  "address": "S.No.182,H No.2,Near Baner Nagri  Bank", 
+  "sublocality": "H No.2", 
+  "locality": "Baner"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Pune", 
+  "address": "Shop No.7,B-2 Silver Oak Co-op Society", 
+  "sublocality": "B-2 Silver Oak Co-op Society", 
+  "locality": "Kalyani Nagar"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Pune", 
+  "address": "Shop No.4,Ground Floor,Gulmohor Regency Apartment", 
+  "sublocality": "Gulmohor Regency Apartment", 
+  "locality": "Viman Nagar"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Pune", 
+  "address": "Shop No.1 ,Ashiyana Apartment,Park Avenue Lane", 
+  "sublocality": "Park Avenue Lane", 
+  "locality": "Aundh"
+ }, 
+ {
+  "landmark": "Opp. Zensar BPO", 
+  "city": "Pune", 
+  "address": "P.M.C Property No.P/G/07/02065000, Opp. Zensar BPO", 
+  "sublocality": "P.M.C Property No.P/G/07/02065000", 
+  "locality": "Kharadi"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Pune", 
+  "address": "Shop No.6, Gokul Apartment Dyneshwar Paduka Chowk ", 
+  "sublocality": " Gokul Apartment Dyneshwar Paduka Chowk ", 
+  "locality": "F. C. Road"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Pune", 
+  "address": "Shop No.29, Karishma Complex, Karve Road", 
+  "sublocality": " Karve Road", 
+  "locality": "Karve Road"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Pune", 
+  "address": "Shop No.23, Destination Center Upper Ground Floor", 
+  "sublocality": " Destination Center Upper Ground Floor", 
+  "locality": "Magarpatta"
+ }, 
+ {
+  "landmark": "Next To BSNL Office", 
+  "city": "Pune", 
+  "address": "Shop No.A, Nanak Society, Next To BSNL Office", 
+  "sublocality": " Nanak Society", 
+  "locality": "Wanowri"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "Kasavanahalli"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "Indira Nagar"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "Shop No: 22 14TH Main Road, E- Block, Subramanya N", 
+  "sublocality": " Subramanya N", 
+  "locality": "Rajijanagar"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "Sanjay Nagar"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "Chandra Layout"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "Yelahanka"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "RR Nagar"
+ }, 
+ {
+  "landmark": "Opp. Prestige Tech Par", 
+  "city": "Bangalore", 
+  "address": "Ground Floor, Octave Hotel, Opp. Prestige Tech Par", 
+  "sublocality": " Octave Hotel", 
+  "locality": "Kadubissanahalli"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "Kadugodi"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "1st Main Road,D Block,Sahakarnagar", 
+  "sublocality": "Sahakarnagar", 
+  "locality": "Sahakara Nagar"
+ }, 
+ {
+  "landmark": "Near Infosys Gate-1", 
+  "city": "Bangalore", 
+  "address": "Near Infosys Gate-1,Electronic City", 
+  "sublocality": "Electronic City", 
+  "locality": "Electronic City"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "New No.1,Property No 121,2nd Main,Channasandra", 
+  "sublocality": "Channasandra", 
+  "locality": "Kasturi Nagar"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "No 101, Ground Floor, Manjunatha Complex, 22nd Mai", 
+  "sublocality": " 22nd Mai", 
+  "locality": "Banashankari"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "No 5M/406, Hennur Road, Banaswadi Road 2nd Block E", 
+  "sublocality": " Banaswadi Road 2nd Block E", 
+  "locality": "Kammanahalli"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "Landmark Apt.,Grnd Flr,Kaggadaspura", 
+  "sublocality": "Kaggadaspura", 
+  "locality": "CV Ramanagar"
+ }, 
+ {
+  "landmark": "Opp. SBI/3M Car Care Centre", 
+  "city": "Bangalore", 
+  "address": "24th Main, 2nd Phase, Opp. SBI/3M Car Care Centre", 
+  "sublocality": " 2nd Phase", 
+  "locality": "JP Nagar"
+ }, 
+ {
+  "landmark": "Near NIFT College", 
+  "city": "Bangalore", 
+  "address": "Shop No 2318,HSR Layout,Sector 1,Near NIFT College", 
+  "sublocality": "Sector 1", 
+  "locality": "HSR Layout"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "Shop no.G-06,'The Arcade\u2019 Shopping Centre, Brigade", 
+  "sublocality": " Brigade", 
+  "locality": "Brigade Metropolis"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "Devatha Plaza,#A-14,Plot No.132/5,Residency Rd", 
+  "sublocality": "Residency Rd", 
+  "locality": "Residency Road"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "Food Court,SJR iPark, Krishnarajpuram Hobli", 
+  "sublocality": " Krishnarajpuram Hobli", 
+  "locality": "Whitefield"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "Anjaneya Techno Park, # 147, HAL Airport Road", 
+  "sublocality": " HAL Airport Road", 
+  "locality": "Old Airport Road"
+ }, 
+ {
+  "landmark": "Opposite HSBC,Near IIM Bangalore", 
+  "city": "Bangalore", 
+  "address": "No.5,Opposite HSBC,Near IIM Bangalore,", 
+  "sublocality": "No.5", 
+  "locality": "Bannerghatta Road (Arekere) "
+ }, 
+ {
+  "landmark": "Near Purva Riviera Apt", 
+  "city": "Bangalore", 
+  "address": "No.35/1B,Main Varthur Road, Near Purva Riviera Apt", 
+  "sublocality": "Main Varthur Road", 
+  "locality": "Marathahalli "
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "125, KHB Colony, JNC Road,5th Block", 
+  "sublocality": "5th Block", 
+  "locality": "Koramangala - JNC"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "252/1,Kodichikkanahalli Main Road,Begur Hobli", 
+  "sublocality": "Begur Hobli", 
+  "locality": "Bommanahalli"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "Shop No. 2,G.N.R Complex,Site No.906,Koramangala", 
+  "sublocality": "Koramangala", 
+  "locality": "Koramangala-Sony World"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Bangalore", 
+  "address": "Shop No 394, B.T.M. 2nd Stage, MICO Employee,B.T.M", 
+  "sublocality": "B.T.M", 
+  "locality": "BTM"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Ahmedabad", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "Bopal"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Ahmedabad", 
+  "address": "Shop No 2,Hotel Shahi Palace Vastrapur Lake", 
+  "sublocality": "Hotel Shahi Palace Vastrapur Lake", 
+  "locality": "Vastrapur"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Ahmedabad", 
+  "address": "Shop No.25, Rivera-30(Rivera Arcade),Satellite", 
+  "sublocality": "Satellite", 
+  "locality": "Prahladnagar"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Ahmedabad", 
+  "address": "G/42,RUDRA SQ. BLDG.,SATELLITE", 
+  "sublocality": "SATELLITE", 
+  "locality": "Bodakdev"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Vadodara", 
+  "address": "Shop No 1, Sharanam Sunshine 65, Nutan Co-op Housi", 
+  "sublocality": " Nutan Co-op Housi", 
+  "locality": "Fatehgunj"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Vadodara", 
+  "address": "Shop no. 1&2,Patriot complex Inox Road", 
+  "sublocality": "Patriot complex Inox Road", 
+  "locality": "Ellora Park"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Chennai", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "Velachery"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Chennai", 
+  "address": "112, Flr-1, Vellarar street, Mugappair, Chennai - ", 
+  "sublocality": " Chennai - ", 
+  "locality": "West Mogapaire"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Chennai", 
+  "address": "1, Flr-1, Thangal Street, Virugambakkam, Chennai", 
+  "sublocality": " Chennai", 
+  "locality": "Virugambakkam"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Chennai", 
+  "address": "2/89 ,Flr -1, Palavakkam, ECR rd. CHENNAI - 600041", 
+  "sublocality": " ECR rd. CHENNAI - 600041", 
+  "locality": "ECR - PALAVAKKAM"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Chennai", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "Navalur"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Chennai", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "West Mambalam"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Chennai", 
+  "address": "Shop.No:5/333A, Old Mahapalipuram Rd, Okkiam Thora", 
+  "sublocality": " Okkiam Thora", 
+  "locality": "OMR"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Chennai", 
+  "address": "Plot-5,45th Street,Thillai Ganga Nagar", 
+  "sublocality": "Thillai Ganga Nagar", 
+  "locality": "Thillai Ganga Nagar"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Chennai", 
+  "address": "#18/13,Thiruvalluvar Nagar, 5th Avenue", 
+  "sublocality": " 5th Avenue", 
+  "locality": "Besant Nagar"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Gurgaon", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "Sushant Lok"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Gurgaon", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "Golf Course"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Gurgaon", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "Sohna Road"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Gurgaon", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "DLF Phase 2"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Indore", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "Vijay Nagar"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Indore", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "Saket"
+ }, 
+ {
+  "landmark": "", 
+  "city": "Indore", 
+  "address": "!! Address not available !!", 
+  "sublocality": "", 
+  "locality": "Sapna Sangeeta"
+ }
+]
